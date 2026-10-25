@@ -1,0 +1,104 @@
+{
+ "simulation_id": "sim_78c333762f29",
+ "items": [
+  {
+   "quote": "Its October 18–19 poll, with a margin of error of 3.1 points and including respondents who said they had already voted in advance polls, showed Bradford at 49% (48% in one reported cut) to Chow's 47% (49% in another cut), effectively a statistical tie with Bradford nominally ahead.",
+   "kind": 4,
+   "problem": "The source does not say Liaison's October 18-19 poll included respondents who had already voted. That detail is attached to Pollara's October 23 release. The 48%/49% 'cuts' are actually the Scarborough regional split, not alternative toplines.",
+   "source_says": "Liaison Oct 18-19: Bradford 49%, Chow 47% (n=1,000, MoE 3.1). The 48%/49% figures are the Scarborough result, Chow 49% and Bradford 48%. Only Pollara's Oct 23 release counted people who had already voted.",
+   "where": "agent 11 Liaison Strategies",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Mainstreet Research showed Bradford at 48.9% to Chow's 47% (October 16–18).",
+   "kind": 4,
+   "problem": "Chow's Mainstreet figure is misstated.",
+   "source_says": "Mainstreet (Oct 16-18) had Bradford 48.9% to Chow 47.5%.",
+   "where": "agent 13 Shopify",
+   "found_verbatim": true
+  },
+  {
+   "quote": "a poll fielded October 18-19 had it at 49-48",
+   "kind": 4,
+   "problem": "The 49-48 figure is the Scarborough split, not the poll's overall result.",
+   "source_says": "Liaison, October 18-19, had Bradford 49% to Chow 47% overall. Chow 49% to Bradford 48% was only for Scarborough.",
+   "where": "agent 14 Sarah Polley",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The main contenders include Olivia Chow, who entered on May 25, 2026, and Ward 19 councillor Brad Bradford, who declared October 1, 2025, along with former federal Conservative minister Chris Alexander, polling around 9 to 10 percent.",
+   "kind": 3,
+   "problem": "Alexander is listed as a current main contender with his old polling figure. He ended his campaign on October 6, 2026, and the race has been two-way since then.",
+   "source_says": "Alexander's 9-10% came from polls fielded Aug 4 to Sep 27, 2026. He quit on Oct 6, 2026, and the contest is now Chow vs Bradford, though his name stays on the ballot.",
+   "where": "agent 19 Ontario",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Brad Bradford ran in 2023 but withdrew and finished with only 1.28%, making his 2026 rise remarkable.",
+   "kind": 4,
+   "problem": "Claims Bradford withdrew from the 2023 by-election, which the source does not say.",
+   "source_says": "Bradford finished the 2023 by-election with only 1.28%; the source says nothing about a withdrawal.",
+   "where": "agent 22 Mainstreet Research",
+   "found_verbatim": true
+  },
+  {
+   "quote": "the first major result showing Bradford ahead and a statistical tie.",
+   "kind": 2,
+   "problem": "Calls the Mainstreet poll the first result with Bradford ahead, but Build Canada's poll (Oct 11-16) had him ahead and was fielded earlier.",
+   "source_says": "Build Canada's poll of October 11-16, 2026 had Bradford 48% to Chow 44%, so Mainstreet (Oct 16-18) was not the first.",
+   "where": "agent 22 Mainstreet Research",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Mainstreet had him at 48.9 to 47 on October 16 to 18.",
+   "kind": 4,
+   "problem": "Chow's Mainstreet figure is misstated (47 instead of 47.5).",
+   "source_says": "Mainstreet (October 16-18) had Bradford 48.9% to Chow 47.5%.",
+   "where": "agent 24 Brad Bradford",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Liaison had her at 51 to 46 on October 8 to 9 and at 49 to 48 in an October 18 to 19 poll that included people who had already voted, with Chow ahead downtown;",
+   "kind": 4,
+   "problem": "Misreports the Liaison Oct 18-19 poll. Chow's 49-48 was only the Scarborough result, and the overall poll showed Bradford ahead. The 'already voted' detail belongs to the Pollara release of Oct 23.",
+   "source_says": "Liaison Oct 18-19 had Bradford 49% to Chow 47% overall; Chow 49% to Bradford 48% was Scarborough only; the already-voted counting was in Pollara's Oct 23 release.",
+   "where": "agent 29 Olivia Chow",
+   "found_verbatim": true
+  },
+  {
+   "quote": "In one unspecified poll of decided voters, Ford led strongly at 42.6%, far ahead of former federal Conservative minister Chris Alexander at 4%.",
+   "kind": 4,
+   "problem": "The source never mentions a Ford mayoral candidacy or any Ford poll lead. The 42.6% and 4% figures belong to other candidates.",
+   "source_says": "Nanos (Sept 30 - Oct 4, 2026) had Chow 52.4%, Bradford 42.6% and Alexander 4% among decided voters. The race is a two-way contest between Chow and Bradford.",
+   "where": "agent 3 Ford",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Liaison's October 18–19 poll showed Chow at 49% and Bradford at 48%, with Bradford strong in North York and Etobicoke.",
+   "kind": 4,
+   "problem": "Wrong topline for the Liaison October 18-19 poll. The 49%-48% Chow lead was only the Scarborough result.",
+   "source_says": "Liaison, October 18-19, 2026 had Bradford 49% to Chow 47% overall. Chow 49%, Bradford 48% was Scarborough only.",
+   "where": "agent 33 union-commissioned poll",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Another poll fielded October 18 to 19 showed Chow at 49% and Bradford at 48%.",
+   "kind": 4,
+   "problem": "Presents a Scarborough-only regional result as the overall result of the October 18-19 poll.",
+   "source_says": "Liaison, October 18-19, overall: Bradford 49%, Chow 47%. Chow 49% to Bradford 48% was only the Scarborough result.",
+   "where": "agent 34 Pollara",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Polling tightened sharply in October: Nanos showed Chow's lead shrinking from about 10 points to about 3, Liaison had Chow at 51 to 46, while Mainstreet (October 16 to 18) had Bradford at 48.9 to Chow's 47 and a Build Canada poll put Bradford at 48 percent, with six polls fielded October 11 to 21 split evenly between the two.",
+   "kind": 3,
+   "problem": "The Liaison 51-46 Chow figure is given without a date, so it looks current. It is an older poll that was later reversed.",
+   "source_says": "Liaison's 51-46 Chow result is from October 8-9. Its October 18-19 poll had Bradford 49, Chow 47.",
+   "where": "agent 7 Marit Stiles",
+   "found_verbatim": true
+  }
+ ],
+ "errors": [
+  "initial post 4 by agent 1 Tobias Lutke: JSONDecodeError('Expecting value: line 1 column 1 (char 0)')"
+ ]
+}

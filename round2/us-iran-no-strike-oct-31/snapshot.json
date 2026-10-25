@@ -1,0 +1,23 @@
+{
+ "market_id": "4641065",
+ "taken_at_utc": "2026-10-25T09:56:56Z",
+ "polymarket": {
+  "question": "US x Iran ceasefire continues through October 31?",
+  "end_date": "2026-10-31T23:59:00Z",
+  "closed": false,
+  "price_yes": 0.825,
+  "price_no": 0.175,
+  "best_bid": 0.82,
+  "best_ask": 0.83,
+  "last_trade_price": 0.83,
+  "volume": 6080019.224603,
+  "volume_24h": 223896.928063,
+  "liquidity": 178019.1473
+ },
+ "orcalayer_smart_money": {
+  "smart_wallets_yes": 279,
+  "smart_wallets_no": 137,
+  "smart_wallets_yes_pct": 67.1,
+  "smart_money_dollars_yes_pct": 93.7
+ }
+}

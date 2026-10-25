@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 92\nREASON: The report's evidence points consistently to a hold at 2.25%: seven straight holds, no Bank of Canada signal of an October move, and most forecasters (RBC, CIBC, BMO, Standard Chartered, Continuum) expecting no change. The main risks are an oil-driven inflation broadening and the Governor's inflation warning, but the 19 October CPI data softened core measures and no reviewed forecast called for a hike at this meeting.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

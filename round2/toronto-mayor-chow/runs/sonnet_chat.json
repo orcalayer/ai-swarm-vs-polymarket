@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 58\nREASON: Late polling is split. Three polls show Chow ahead by 3–11 points and three show Bradford ahead by 1–4, and almost every lead is inside its margin of error. Chow's edge comes from incumbency, firmer support among the most certain voters, a lead downtown, and the only post-debate poll (Pollara, union-sponsored), which favors her. Against that, her lead has shrunk through October, Bradford is strong in North York and Etobicoke, and his support is stronger among voters aged 35 and over.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

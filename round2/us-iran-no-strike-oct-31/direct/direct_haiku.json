@@ -1,0 +1,41 @@
+{
+ "model": "claude-haiku-5-5",
+ "today": "October 25, 2026",
+ "n": 5,
+ "p_yes": [
+  70,
+  77,
+  80,
+  80,
+  82
+ ],
+ "median": 80,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 80,
+   "text": "PROBABILITY_YES: 80\nREASON: The pause has held for about eight weeks with no confirmed US strike on Iranian land, and Trump has publicly pledged no attack before the November 3 midterms, while the blockade continues as a non-kinetic lever. The main risk is a quick \"self-defence\" strike after a Hormuz clash, which the pattern of earlier pauses and the current IRGC attacks on shipping make plausible within the six days left."
+  },
+  {
+   "i": 2,
+   "p_yes": 77,
+   "text": "PROBABILITY_YES: 77\nREASON: Trump publicly pledged no attack on Iran before the November 3 midterms, the Financial Times reported he blocked an Israeli strike plan, and no US strike on Iranian land has been confirmed since September 1, so the pause has held for about eight weeks with only six days left. Still, carriers are arriving, Hormuz clashes continue, and the pattern of earlier pauses being broken within weeks, plus a possible quick \"self-defence\" strike, keeps a meaningful chance of a qualifying strike before October 31."
+  },
+  {
+   "i": 3,
+   "p_yes": 82,
+   "text": "PROBABILITY_YES: 82\nREASON: The window is only about seven days, and Trump has publicly pledged no attack on Iran before the November 3 midterms, reportedly blocked an Israeli strike plan, and has not struck Iranian land since September 1. The main risk is a rapid \"self-defence\" strike after a Hormuz clash, given the recent IRGC attacks on ships, the history of pauses breaking within weeks, and Barrack's \"this weekend\" remark."
+  },
+  {
+   "i": 4,
+   "p_yes": 70,
+   "text": "PROBABILITY_YES: 70\nREASON: Trump has publicly pledged no attack before the November 3 midterms, Washington has had no confirmed strike on Iranian land since September 1, and the blockade gives it a non-kinetic lever. However, Hormuz clashes, IRGC threats, a reported US strike plan, and the \"self-defence\" strikes of late August and early September keep a quick qualifying strike within the roughly one-week window quite plausible."
+  },
+  {
+   "i": 5,
+   "p_yes": 80,
+   "text": "PROBABILITY_YES: 80\nREASON: Trump has publicly pledged no attack on Iran before the November 3 midterms, has reportedly blocked an Israeli strike, and no US strike on Iranian land has been confirmed since September 1, with diplomacy via Pakistan and Qatar ongoing. The risk is concentrated in the roughly six days left: Hormuz clashes could prompt a quick \"self-defence\" strike, and officials have made alarming remarks, though a strike on ships at sea would not count."
+  }
+ ],
+ "prompt_chars": 9484
+}

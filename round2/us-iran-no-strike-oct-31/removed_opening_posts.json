@@ -1,0 +1,56 @@
+[
+ {
+  "original_index": 0,
+  "post": {
+   "content": "CENTCOM: The blockade of Iranian ports has stopped roughly $25 billion in crude exports. It remains an effective lever that Washington can continue to use without conducting strikes. US forces remain postured to respond to any attack on shipping in the Strait of Hormuz.",
+   "poster_type": "MilitaryOrganization",
+   "poster_agent_id": 0
+  },
+  "why": "Posted by the Iran's navy account but written as a CENTCOM statement (swapped voice)"
+ },
+ {
+  "original_index": 2,
+  "post": {
+   "content": "WSJ: Trump has told aides he expects to resume bombing Iran after the midterms but remains reluctant to restart large-scale operations. The FT reports he blocked an Israeli multi-day strike plan set for the weekend of October 10. Timing points beyond October 31.",
+   "poster_type": "MediaOutlet",
+   "poster_agent_id": 6
+  },
+  "why": "Ends with a verdict on the question ('Timing points beyond October 31')"
+ },
+ {
+  "original_index": 4,
+  "post": {
+   "content": "Iran's armed forces chief: Tehran will not wait for the American midterm elections to answer any aggression. US warships will never be allowed into the Persian Gulf. Any attack on Iranian soil will receive a crushing response.",
+   "poster_type": "MilitaryCommander",
+   "poster_agent_id": 10
+  },
+  "why": "The Asim Munir (Pakistan) account speaks as Iran's armed forces chief (swapped voice)"
+ },
+ {
+  "original_index": 5,
+  "post": {
+   "content": "Iran's navy: On October 19, US forces fired projectiles at Konarak naval base, wounding two personnel. We hold Washington responsible for this provocation.",
+   "poster_type": "MilitaryOrganization",
+   "poster_agent_id": 11
+  },
+  "why": "The Israeli forces account speaks as Iran's navy (swapped voice)"
+ },
+ {
+  "original_index": 6,
+  "post": {
+   "content": "I have ordered Israeli forces to work toward bringing down the regime in Tehran. Israel will act to defend itself, with or without others.",
+   "poster_type": "HeadOfState",
+   "poster_agent_id": 4
+  },
+  "why": "The US president account orders Israeli forces to bring down the regime; in the seeds this is Netanyahu's order"
+ },
+ {
+  "original_index": 8,
+  "post": {
+   "content": "Pakistan's army chief Asim Munir visited Tehran today to advance the Qatari-Pakistani framework. Dialogue and restraint remain the only path. Islamabad stands ready to host both parties again.",
+   "poster_type": "MilitaryCommander",
+   "poster_agent_id": 14
+  },
+  "why": "The Iran's armed forces chief account speaks as Pakistan's army chief (swapped voice)"
+ }
+]

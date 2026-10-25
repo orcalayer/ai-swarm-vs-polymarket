@@ -1,0 +1,41 @@
+{
+ "model": "claude-sonnet-5-5",
+ "today": "October 24, 2026",
+ "n": 5,
+ "p_yes": [
+  30,
+  30,
+  30,
+  32,
+  33
+ ],
+ "median": 30,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 33,
+   "text": "PROBABILITY_YES: 33\nREASON: All three main TV polls on 23 October had Yashar 2-3 seats ahead of Likud, and 25 of 41 polls since late September showed Yashar leading. Likud led in only 14, all from Channel 14 or i24NEWS, which are outliers. Likud has a record of beating its mainstream polls (it won 32 seats in 2022 against final polls of 30-31), and its voters are firmer in their choice. A 2-3 seat gap with a few days left is well within polling error, so Likud has a real chance but remains the underdog."
+  },
+  {
+   "i": 2,
+   "p_yes": 30,
+   "text": "PROBABILITY_YES: 30\nREASON: The three main TV polls on 23 October put Yashar ahead of Likud by 2 to 3 seats, and Yashar led 25 of 41 polls since late September. Only Channel 14 and i24NEWS had Likud ahead, and Jewish Insider called both outliers. A 2 to 3 seat gap is within polling error, mainstream pollsters underestimated Likud in 2022, and Likud voters are firmer in their choice. So Likud has a real chance, but Yashar is the favorite."
+  },
+  {
+   "i": 3,
+   "p_yes": 32,
+   "text": "PROBABILITY_YES: 32\nREASON: All three main TV polls on 23 October had Yashar ahead of Likud by 2-3 seats, and 25 of 41 polls since late September had Yashar leading. Likud led only in Channel 14 and i24NEWS polls, which are widely seen as outliers. Likud has firmer voters and mainstream pollsters underestimated it in 2022, and a 2-3 seat gap is within normal polling error, so a Likud first place is quite plausible but less likely than not."
+  },
+  {
+   "i": 4,
+   "p_yes": 30,
+   "text": "PROBABILITY_YES: 30\nREASON: All three major TV polls on 23 October had Yashar ahead of Likud by 2 to 3 seats, and 25 of 41 polls showed Yashar leading. Only Channel 14 and i24NEWS had Likud ahead, and they are seen as outliers. Likud has firmer voters and mainstream polls underestimated it in 2022, and the gap is within polling error, so Likud still has a real chance."
+  },
+  {
+   "i": 5,
+   "p_yes": 30,
+   "text": "PROBABILITY_YES: 30\nREASON: All three main TV polls on 23 October had Yashar ahead of Likud by 2 to 3 seats, and Yashar led 25 of 41 polls since late September. Only Channel 14 and i24NEWS showed Likud ahead, and they are widely regarded as outliers. Likud's firmer voter base and the historical tendency of mainstream polls to underestimate Likud, plus the sampling error, leave a substantial chance it finishes first."
+  }
+ ],
+ "prompt_chars": 9332
+}

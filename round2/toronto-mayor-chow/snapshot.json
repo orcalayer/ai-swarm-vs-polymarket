@@ -1,0 +1,23 @@
+{
+ "market_id": "1812607",
+ "taken_at_utc": "2026-10-24T10:46:17Z",
+ "polymarket": {
+  "question": "Will Olivia Chow win the 2026 Toronto mayoral election?",
+  "end_date": "2026-10-27T03:59:00Z",
+  "closed": false,
+  "price_yes": 0.655,
+  "price_no": 0.345,
+  "best_bid": 0.65,
+  "best_ask": 0.66,
+  "last_trade_price": 0.66,
+  "volume": 321115.69245,
+  "volume_24h": 25167.526181,
+  "liquidity": 97819.7452
+ },
+ "orcalayer_smart_money": {
+  "smart_wallets_yes": 74,
+  "smart_wallets_no": 81,
+  "smart_wallets_yes_pct": 47.7,
+  "smart_money_dollars_yes_pct": 86.8
+ }
+}

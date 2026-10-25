@@ -1,0 +1,41 @@
+{
+ "model": "claude-haiku-5-5",
+ "today": "October 24, 2026",
+ "n": 5,
+ "p_yes": [
+  30,
+  32,
+  33,
+  35,
+  40
+ ],
+ "median": 33,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 33,
+   "text": "PROBABILITY_YES: 33\nREASON: Mainstream polls on 23 October 2026 consistently put Yashar 1 to 3 seats ahead of Likud, and the Yashar lead appeared in 25 of 41 recent polls. Likud's best case rests mainly on Channel 14 and i24NEWS, which are widely viewed as outliers, though Likud did outperform some polls in 2022 and its voters look firmer."
+  },
+  {
+   "i": 2,
+   "p_yes": 30,
+   "text": "PROBABILITY_YES: 30\nREASON: All three mainstream TV polls on 23 October 2026 put Yashar 2 to 4 seats ahead of Likud, and most non-partisan polls show Yashar leading. Likud has a case for an upset, since Direct Polls and Channel 14 show it well ahead and mainstream pollsters underestimated it in 2022, but those pollsters have their own credibility problems."
+  },
+  {
+   "i": 3,
+   "p_yes": 40,
+   "text": "PROBABILITY_YES: 40\nREASON: Mainstream final polls show Yashar ahead of Likud by about 1 to 4 seats, while Channel 14 and i24NEWS show Likud well ahead. Likud has underperformed polls less than mainstream surveys suggested in past elections, and it has recovered in recent weeks, but the weight of the evidence still favors Yashar finishing first."
+  },
+  {
+   "i": 4,
+   "p_yes": 35,
+   "text": "PROBABILITY_YES: 35\nREASON: Mainstream polls on 23 October 2026 consistently put Yashar 1 to 3 seats ahead of Likud, which favors NO. However, Likud-friendly pollsters show it well ahead, and mainstream polls underestimated Likud in 2022, so a Likud win is a real possibility."
+  },
+  {
+   "i": 5,
+   "p_yes": 32,
+   "text": "PROBABILITY_YES: 32\nREASON: All three main TV polls and most other mainstream polls on 23 October 2026 put Yashar 2 to 3 seats ahead of Likud, and Gantz's exit has likely helped the opposition. Only Channel 14 and i24NEWS show Likud clearly first, and Likud's 2022 underestimate by mainstream pollsters leaves a meaningful chance it finishes first."
+  }
+ ],
+ "prompt_chars": 9332
+}

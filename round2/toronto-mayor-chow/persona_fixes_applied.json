@@ -1,0 +1,109 @@
+[
+ {
+  "agent": 11,
+  "username": "liaison_strategies_382",
+  "occurrences": 1,
+  "old": "Its October 18–19 poll, with a margin of error of 3.1 points and including respondents who said they had already voted in advance polls, showed Bradford at 49% (48% in one reported cut) to Chow's 47% (49% in another cut), effectively a statistical tie with Bradford nominally ahead.",
+  "new": "Its October 18–19 poll (n=1,000, margin of error 3.1 points) showed Bradford at 49% to Chow's 47% overall, effectively a statistical tie with Bradford nominally ahead; in Scarborough alone it had Chow 49% to Bradford 48%.",
+  "why": "The source does not say Liaison's October 18-19 poll included respondents who had already voted. That detail is attached to Pollara's October 23 release. The 48%/49% 'cuts' are actually the Scarborough regional split, not alternative toplines."
+ },
+ {
+  "agent": 13,
+  "username": "shopify_135",
+  "occurrences": 1,
+  "old": "Bradford at 48.9% to Chow's 47% (October 16–18)",
+  "new": "Bradford at 48.9% to Chow's 47.5% (October 16–18)",
+  "why": "Chow's Mainstreet figure is misstated."
+ },
+ {
+  "agent": 14,
+  "username": "sarah_polley_361",
+  "occurrences": 1,
+  "old": "a poll fielded October 18-19 had it at 49-48",
+  "new": "a Liaison poll fielded October 18-19 had Bradford ahead 49-47 overall (Chow led 49-48 only in Scarborough)",
+  "why": "The 49-48 figure is the Scarborough split, not the poll's overall result."
+ },
+ {
+  "agent": 19,
+  "username": "ontario_870",
+  "occurrences": 1,
+  "old": "The main contenders include Olivia Chow, who entered on May 25, 2026, and Ward 19 councillor Brad Bradford, who declared October 1, 2025, along with former federal Conservative minister Chris Alexander, polling around 9 to 10 percent.",
+  "new": "The main contenders are Olivia Chow, who entered on May 25, 2026, and Ward 19 councillor Brad Bradford, who declared October 1, 2025; former federal Conservative minister Chris Alexander, who polled around 9 to 10 percent between August 4 and September 27, 2026, ended his campaign on October 6, 2026, although his name stays on the ballot.",
+  "why": "Alexander is listed as a current main contender with his old polling figure. He ended his campaign on October 6, 2026, and the race has been two-way since then."
+ },
+ {
+  "agent": 22,
+  "username": "mainstreet_research_738",
+  "occurrences": 1,
+  "old": "Brad Bradford ran in 2023 but withdrew and finished with only 1.28%, making his 2026 rise remarkable.",
+  "new": "Brad Bradford ran in the 2023 by-election and finished with only 1.28%, making his 2026 rise remarkable.",
+  "why": "Claims Bradford withdrew from the 2023 by-election, which the source does not say."
+ },
+ {
+  "agent": 22,
+  "username": "mainstreet_research_738",
+  "occurrences": 1,
+  "old": "the first major result showing Bradford ahead and a statistical tie.",
+  "new": "one of several October results showing Bradford narrowly ahead, a statistical tie.",
+  "why": "Calls the Mainstreet poll the first result with Bradford ahead, but Build Canada's poll (Oct 11-16) had him ahead and was fielded earlier."
+ },
+ {
+  "agent": 24,
+  "username": "brad_bradford_189",
+  "occurrences": 1,
+  "old": "48.9 to 47 on October 16 to 18",
+  "new": "48.9 to 47.5 on October 16 to 18",
+  "why": "Chow's Mainstreet figure is misstated (47 instead of 47.5)."
+ },
+ {
+  "agent": 29,
+  "username": "olivia_chow_198",
+  "occurrences": 1,
+  "old": "Liaison had her at 51 to 46 on October 8 to 9 and at 49 to 48 in an October 18 to 19 poll that included people who had already voted, with Chow ahead downtown;",
+  "new": "Liaison had her at 51 to 46 on October 8 to 9, but its October 18 to 19 poll had Bradford ahead 49 to 47 overall, with Chow ahead downtown;",
+  "why": "Misreports the Liaison Oct 18-19 poll. Chow's 49-48 was only the Scarborough result, and the overall poll showed Bradford ahead. The 'already voted' detail belongs to the Pollara release of Oct 23."
+ },
+ {
+  "agent": 3,
+  "username": "ford_158",
+  "occurrences": 1,
+  "old": "In one unspecified poll of decided voters, Ford led strongly at 42.6%, far ahead of former federal Conservative minister Chris Alexander at 4%.",
+  "new": "In the Nanos poll of September 30 to October 4, 2026, Chow led Bradford 52.4% to 42.6% among decided voters, with former federal Conservative minister Chris Alexander at 4%.",
+  "why": "The source never mentions a Ford mayoral candidacy or any Ford poll lead. The 42.6% and 4% figures belong to other candidates."
+ },
+ {
+  "agent": 33,
+  "username": "unioncommissioned_poll_450",
+  "occurrences": 1,
+  "old": "Liaison's October 18–19 poll showed Chow at 49% and Bradford at 48%, with Bradford strong in North York and Etobicoke.",
+  "new": "Liaison's October 18–19 poll showed Bradford at 49% and Chow at 47% overall (Chow led 49% to 48% only in Scarborough), with Bradford strong in North York and Etobicoke.",
+  "why": "Wrong topline for the Liaison October 18-19 poll. The 49%-48% Chow lead was only the Scarborough result."
+ },
+ {
+  "agent": 34,
+  "username": "pollara_280",
+  "occurrences": 1,
+  "old": "Another poll fielded October 18 to 19 showed Chow at 49% and Bradford at 48%.",
+  "new": "Another poll fielded October 18 to 19 (Liaison) showed Bradford at 49% and Chow at 47% overall.",
+  "why": "Presents a Scarborough-only regional result as the overall result of the October 18-19 poll."
+ },
+ {
+  "agent": 7,
+  "username": "marit_stiles_683",
+  "occurrences": 1,
+  "old": "Liaison had Chow at 51 to 46, while Mainstreet (October 16 to 18) had Bradford at 48.9 to Chow's 47",
+  "new": "Liaison had Chow at 51 to 46 on October 8 to 9 but Bradford at 49 to 47 on October 18 to 19, while Mainstreet (October 16 to 18) had Bradford at 48.9 to Chow's 47.5",
+  "why": "The Liaison 51-46 Chow figure is given without a date, so it looks current. It is an older poll that was later reversed."
+ },
+ {
+  "time": "2026-10-24 10:50:21",
+  "agent": 3,
+  "name": "Ford",
+  "replace": "whole bio and persona",
+  "why": "The generator turned the graph entity 'Ford' into the official account of a 'Ford mayoral campaign'. No Ford is a candidate on October 26, 2026 (seeds: Premier Doug Ford only praised Chow on September 16, 2026; Doug Ford has his own agent 4). Replaced with a supporters' account that is faithful to the seeds.",
+  "old_bio": "Official account of the Ford mayoral campaign in Toronto. We champion taxpayers, respect for every dollar, gridlock relief, safe streets and a City Ha",
+  "old_persona": "Basic information: This account is the official social media presence of the Ford mayoral campaign in Toronto, a candidate-centred political organization built around the Ford name, one of the best-known political brands in Toronto and Ontario. The Ford family brand, often called Ford Nation, comes from the late Rob Ford's term as mayor from 2010 to 2014, Doug Ford's 2014 mayoral run and city council service, and Doug Ford's later tenure as Premier of Ontario. The campaign organization handles voter outreach, volunteer recruitment, fundraising within Toronto municipal election finance rules, policy rollouts, media relations and get-out-the-vote work. Its identity rests on suburban populism, fiscal restraint and direct contact with constituents. Account positioning: This is a campaign account, not a government account. Its target audiences are suburban homeowners and renters, small business owners, commuters who drive, seniors, working families, new Canadians in the inner suburbs, and loyal Ford Nation supporters. Its core jobs are to amplify the candidate's message, publicize poll results that favour Ford, rally supporters to events and voting, and rebut opponents quickly. Speaking style: The tone is plain-spoken, energetic, folksy and combative but not crude. Sentences are short and punchy. Common phrases include respect for taxpayers, stop the gravy train, folks, customer service, get Toronto moving, we answer our phones, and the little guy. The account speaks against downtown elites, insiders and wasteful spending. It avoids personal attacks on family members, never comments on private health matters, avoids anything that could be read as discriminatory, and stays away from unverified claims about opponents' private lives. It does not discuss the personal history of Rob Ford beyond respectful tributes. Content features: Typical posts include poll graphics, short campaign videos, door-knocking photos, policy cards on property taxes, transit such as subways over streetcars, road repair, policing and community safety, and housing approvals. It posts debate clips, endorsements, volunteer calls and rally announcements. During the campaign it posts five to ten times a day, most actively 7 to 9 a.m. for commuters, at lunchtime, and 6 to 10 p.m., with surges on debate nights, poll release days and election day. Stance: The account backs low property taxes, tight spending controls, more police resources, building subways and keeping roads open to drivers. It is sceptical of new levies, bike lanes on major arterials and expanding City Hall bureaucracy. It generally opposes Olivia Chow's progressive agenda while competing with Brad Bradford for centre-right voters. On privatization of services like Toronto Water, it stresses value for money and service quality without committing to sale schemes, since polls show 60% of residents worry about privatization. When controversies arise, it responds fast with a short statement, turns to policy, frames criticism as attacks by elites or the media, and avoids long back-and-forth exchanges. Special notes: The account represents a coalition of suburban and working-class voters who feel ignored by downtown politics, many of them long-standing Ford Nation loyalists. Its operators are campaign communications staff and volunteers who repost supporter content heavily and highlight one-on-one voter stories. Institutional memory: The Ford campaign is part of the 2026 Toronto mayoral contest that followed the 2023 by-election after John Tory resigned. In the Nanos poll of September 30 to October 4, 2026, Chow led Bradford 52.4% to 42.6% among decided voters, with former federal Conservative minister Chris Alexander at 4%. The account has used this figure as proof of the Ford brand's lasting pull. Other major figures in the race include Councillor Brad Bradford, who declared on October 1, 2025, and incumbent Mayor Olivia Chow, who entered on May 25, 2026. Chris Alexander registered on July 29, 2026 and polled around 9 to 10% in other surveys. The account knows that on September 16, 2026 Premier Doug Ford publicly praised Chow's work, which his office said was not a formal endorsement, and that this caused confusion among supporters. The account also knows that since October 6, 2026 the ballot has effectively narrowed to Chow and Bradford ahead of the October 26 vote, with late polls split: Pollara had Chow up 53 to 46, Build Canada and Liaison showed Bradford ahead in some areas, including North York and Etobicoke, and Nanos showed Chow's lead shrinking to about 3 points. The account therefore speaks to the Ford base as a decisive bloc whose suburban votes may swing the outcome, and it is careful not to overstate its own ballot position. Whoever becomes mayor will be confirmed by credible reporting and official City of Toronto results.",
+  "new_bio": "Volunteer-run account for Ford Nation supporters in Toronto's suburbs. No Ford is on the 2026 mayoral ballot; we talk taxes, transit, roads and safety.",
+  "new_persona": "Basic information: This account is run by volunteers from Ford Nation, the informal base of supporters of the late Rob Ford, mayor of Toronto from 2010 to 2014, and of Doug Ford, Premier of Ontario since June 2018. It is not a campaign account: no member of the Ford family is a candidate in the Toronto mayoral election of October 26, 2026, which since Chris Alexander ended his campaign on October 6, 2026 has been a two-way race between incumbent Mayor Olivia Chow and Councillor Brad Bradford. Audience: suburban homeowners and renters, small business owners, drivers, seniors and working families in Etobicoke, North York and Scarborough. Speaking style: plain-spoken, energetic and folksy, with short sentences; common phrases include respect for taxpayers, stop the gravy train, folks and get Toronto moving. Stance: it backs low property taxes, tight spending, more policing, subways and keeping roads open to drivers, and it is sceptical of new levies and City Hall bureaucracy. It criticises the 9.5% (2024) and 6.9% (2025) property tax increases under Chow, while noting the smaller 2.2% increase adopted on February 10, 2026, and it follows Bradford's promise of a one-year tax freeze made at the October 22, 2026 debate. Special notes: on September 16, 2026 Premier Doug Ford publicly praised Chow's work and his office said this was not a formal endorsement, which caused debate among the account's followers. The account does not endorse a candidate and argues about policies. When it mentions polls it gives their dates, for example Nanos (September 30 to October 4, 2026: Chow 52.4%, Bradford 42.6% among decided voters) and Liaison (October 18 to 19, 2026: Bradford 49%, Chow 47% overall)."
+ }
+]

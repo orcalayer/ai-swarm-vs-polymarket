@@ -1,0 +1,41 @@
+{
+ "model": "claude-haiku-5-5",
+ "today": "October 24, 2026",
+ "n": 5,
+ "p_yes": [
+  45,
+  45,
+  48,
+  48,
+  50
+ ],
+ "median": 48,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 48,
+   "text": "PROBABILITY_YES: 48\nREASON: The late polls are essentially tied, with Chow ahead in Nanos and Pollara but behind in Liaison, Mainstreet and Build Canada, and the trend since early September has moved toward Bradford. Chow's incumbency, union and party-adjacent endorsements, and strength among women and younger voters keep her competitive, but the mood for change and Bradford's gains give him a slight edge."
+  },
+  {
+   "i": 2,
+   "p_yes": 45,
+   "text": "PROBABILITY_YES: 45\nREASON: The final polls are split: Nanos and the union-commissioned Pollara show Chow ahead, while Mainstreet, Liaison and Build Canada show Bradford narrowly ahead, and the trend since September has moved toward Bradford. Chow's incumbency, the 16% undecided and the late-surge precedent of 2023 keep her close to even, but the momentum favours Bradford slightly."
+  },
+  {
+   "i": 3,
+   "p_yes": 48,
+   "text": "PROBABILITY_YES: 48\nREASON: The late polls are split: Nanos and Pollara have Chow ahead, while Liaison, Mainstreet and Build Canada have Bradford narrowly ahead, and the trend since early September favours Bradford. Chow's incumbency, her advance-poll and union-backed support, and Bradford's exposure to tax-increase attacks roughly offset that momentum, so this is close to a toss-up."
+  },
+  {
+   "i": 4,
+   "p_yes": 45,
+   "text": "PROBABILITY_YES: 45\nREASON: The late polls are split, with Nanos, Pollara and an earlier Liaison poll showing Chow ahead, while Mainstreet, the later Liaison poll and Build Canada show Bradford narrowly ahead, and the trend since early October has favored Bradford. Chow's incumbency and her strength in the polling averages still leave her a real chance, so this is close to a toss-up with a slight lean toward Bradford."
+  },
+  {
+   "i": 5,
+   "p_yes": 50,
+   "text": "PROBABILITY_YES: 50\nREASON: The final polls are split: Nanos and the union-commissioned Pollara had Chow ahead, while Mainstreet, Liaison and Build Canada had Bradford narrowly ahead, and Bradford's momentum since early September is clear. Chow's incumbency, strength downtown and the 16% still undecided in Nanos roughly offset the trend toward Bradford, so this is close to a toss-up."
+  }
+ ],
+ "prompt_chars": 9974
+}

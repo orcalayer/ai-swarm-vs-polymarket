@@ -1,0 +1,41 @@
+{
+ "model": "claude-sonnet-5-5",
+ "today": "October 25, 2026",
+ "n": 5,
+ "p_yes": [
+  80,
+  80,
+  80,
+  82,
+  82
+ ],
+ "median": 80,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 80,
+   "text": "PROBABILITY_YES: 80\nREASON: Trump publicly pledged on 8 October not to attack Iran before the 3 November midterms, and he reportedly blocked an Israeli strike plan for the weekend of 10 October for the same reason. No US strike on Iranian territory has been confirmed since 1 September, about eight weeks. Risks remain from a Hormuz clash that could draw a \"self-defence\" strike, and from Barrack's warning that a strike was possible that weekend. Reports that conflict, such as the Konarak claim, could also complicate resolution."
+  },
+  {
+   "i": 2,
+   "p_yes": 82,
+   "text": "PROBABILITY_YES: 82\nREASON: Trump publicly pledged no attack before the 3 November midterms, and the WSJ and FT reports say he blocked Israeli strike plans for the same reason. No US strike on Iranian territory has been confirmed since 1 September, nearly two months ago. The main risks are a Hormuz clash prompting a \"self-defence\" strike, Barrack's warning of a possible weekend strike, and the chance that an ambiguous or disputed report is later treated as a qualifying strike."
+  },
+  {
+   "i": 3,
+   "p_yes": 80,
+   "text": "PROBABILITY_YES: 80\nREASON: Trump publicly pledged on 8 October not to attack Iran before the 3 November midterms, and he reportedly blocked an Israeli strike plan for the same reason. No US strike on Iranian territory has been confirmed since 1 September, about eight weeks ago. The main risks are a Hormuz clash prompting a \"self-defence\" strike, warnings like Barrack's that a weekend strike was possible, and ambiguous reports that could delay resolution. A strike in the final week before the election still seems unlikely."
+  },
+  {
+   "i": 4,
+   "p_yes": 82,
+   "text": "PROBABILITY_YES: 82\nREASON: Trump publicly pledged on 8 October not to attack Iran before the 3 November midterms, and he reportedly blocked an Israeli strike plan on that basis. No US strike on Iranian territory has been confirmed since 1 September, which is about eight weeks. The main risks are a Hormuz clash prompting a \"self-defence\" strike, Barrack's \"this weekend\" remark, and the embassy staff cuts, along with the chance that a disputed report keeps the question open. Even so, the one-week window and the political incentives favor the pause holding."
+  },
+  {
+   "i": 5,
+   "p_yes": 80,
+   "text": "PROBABILITY_YES: 80\nREASON: Trump publicly pledged on 8 October not to attack Iran before the 3 November midterms, and he reportedly blocked an Israeli strike plan for the same reason. No US strike on Iranian land has been confirmed since 1 September. Risks remain: Barrack said a weekend strike was possible, there are Hormuz clashes, and past pauses broke down. A \"self-defence\" strike on Iranian territory in response to an IRGC attack is also plausible. Conflicting reports, like the 19 October Konarak claim, would likely not count without confirmation."
+  }
+ ],
+ "prompt_chars": 9484
+}

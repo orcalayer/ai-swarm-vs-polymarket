@@ -1,0 +1,1010 @@
+{
+ "label": "haiku1",
+ "posts": [
+  {
+   "post_id": 1,
+   "agent_id": 15,
+   "name": "CityNews",
+   "model": null,
+   "content": "Final stretch: with Chris Alexander out since October 6, Toronto's mayoral race is a straight Chow-Bradford fight. Recent polls diverge. Mainstreet (Oct 16-18) has Bradford 48.9%, Chow 47.5%. Build Canada (Oct 11-16) has Bradford 48%, Chow 44%. Pollara for CUPE 416 (Oct 13-19) has Chow 53%, Bradford 46%. Under simple plurality there is no runoff, so Monday decides it.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-24 11:11:12.865213"
+  },
+  {
+   "post_id": 2,
+   "agent_id": 12,
+   "name": "User",
+   "model": null,
+   "content": "Our latest IVR numbers show a statistical tie: Bradford 48.9, Chow 47.5. Olivia Chow led wire to wire in our tracking until October. This race has tightened dramatically, and turnout on Monday will decide it.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 11:11:12.894853"
+  },
+  {
+   "post_id": 3,
+   "agent_id": 18,
+   "name": "water workers' union",
+   "model": null,
+   "content": "Pollara's updated release (Oct 23) shows Chow 55% vs. Bradford 44% when you count those who have already voted. Toronto workers know what's at stake. Vote Chow on October 26.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 11:11:12.907093"
+  },
+  {
+   "post_id": 4,
+   "agent_id": 23,
+   "name": "CUPE Local 416",
+   "model": null,
+   "content": "Bradford's plan to turn Toronto Water into a utility is opposed by 15 councillors and by the workers who keep our taps running. 60% of Torontonians are worried about privatization. Our water is not for sale.",
+   "likes": 5,
+   "dislikes": 1,
+   "comments": 7,
+   "created_at": "2026-10-24 11:11:12.918733"
+  },
+  {
+   "post_id": 5,
+   "agent_id": 1,
+   "name": "Tobias Lutke",
+   "model": null,
+   "content": "Residential property taxes went up 9.5% in 2024 and 6.9% in 2025. 55% of Torontonians say it's time for a new mayor. Toronto needs to get building and stop squeezing families. I'm backing Brad Bradford.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-24 11:11:12.931093"
+  },
+  {
+   "post_id": 6,
+   "agent_id": 5,
+   "name": "Federal Liberal MPs",
+   "model": null,
+   "content": "Toronto deserves a mayor focused on getting things done. Brad Bradford has the plan and the energy to fix city services and keep costs in check. That's why I'm supporting him.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 11:11:12.942613"
+  },
+  {
+   "post_id": 7,
+   "agent_id": 0,
+   "name": "City of Toronto",
+   "model": null,
+   "content": "Reminder for voters: the mayor is elected by simple plurality. There is no ranked ballot and no runoff. 53 names are on the ballot, including candidates who have withdrawn. Polls are open Monday, October 26.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-24 11:11:12.957073"
+  },
+  {
+   "post_id": 8,
+   "agent_id": 6,
+   "name": "Canada Pulse",
+   "model": null,
+   "content": "Canada Pulse for CityNews: 55% of respondents say it's time for a new mayor. Yet Nanos (Sept 30-Oct 4) had Chow ahead 52.4% to 42.6% among decided voters. The change mood doesn't automatically translate into Bradford votes.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 11:11:12.970333"
+  },
+  {
+   "post_id": 9,
+   "agent_id": 30,
+   "name": "The Globe and Mail",
+   "model": null,
+   "content": "ANALYSIS: Polls in the Toronto mayoral race point in different directions. Of six news-reported polls fielded October 11 to 21, three showed Olivia Chow ahead by 3 to 11 points and three showed Brad Bradford ahead by 1 to 4 points. Sponsors, field dates, methods and margins of error vary, and several results fall within the margin of error. Check those details before drawing conclusions. Results will be posted after polls close on October 26.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-24 11:18:56.994793"
+  },
+  {
+   "post_id": 10,
+   "agent_id": 10,
+   "name": "David Suzuki",
+   "model": null,
+   "content": "Toronto, the polls are close and every ballot counts. I grew up in Ontario, and climate does not respect city limits. This election is about whether transit, parks, the waterfront and public water stay public. I'm backing Olivia Chow. Vote on October 26, and think of the kids who will inherit this city.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-24 11:42:00.594073"
+  },
+  {
+   "post_id": 11,
+   "agent_id": 20,
+   "name": "Feist",
+   "model": null,
+   "content": "toronto, the polls keep shifting and nobody knows what monday will bring, which is exactly why i'm asking you to show up. housing, transit, our parks, the water that comes out of our taps: these are not abstract things. they're the city we share. please check your voting location at toronto.ca, make a plan for getting there, and bring a neighbour if you can. thank you, friends. grateful to live here. 🍁",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 11:57:58.918513"
+  },
+  {
+   "post_id": 12,
+   "agent_id": 33,
+   "name": "union-commissioned poll",
+   "model": null,
+   "content": "Six in ten respondents told us they are worried about privatization in connection with the plan to turn Toronto Water into a separate utility. Disclosure: this poll was commissioned by the union representing Toronto's municipal water workers. The finding measures public worry, not the plan's legal structure. In a race this close, water governance could matter. Ask every candidate how Toronto Water stays publicly owned and accountable to Council, and how rates and borrowing would be overseen. Vote on October 26.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 11:58:33.287653"
+  },
+  {
+   "post_id": 13,
+   "agent_id": 28,
+   "name": "John Tory",
+   "model": null,
+   "content": "Toronto's race is close, and that is a reminder of how much each vote matters. Polls are snapshots. The only result that counts is the one on election day, Monday, October 26, with polls open 10 a.m. to 8 p.m. Eastern. Please confirm your voting location and hours at toronto.ca, and make a plan to vote. I want to thank the City Clerk's staff for their work in running this election. Whatever the outcome, I will respect the decision of the voters. - JT",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 11:59:05.218033"
+  },
+  {
+   "post_id": 14,
+   "agent_id": 30,
+   "name": "The Globe and Mail",
+   "model": null,
+   "content": "EXPLAINER: Toronto votes on Monday, October 26. Polls close at 8 p.m. ET. Check your voting location and voter ID requirements at toronto.ca before you go. Unofficial ward-by-ward results, covering advance, mail-in and election-day votes, will be posted after polls close. Our live coverage will follow the count.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 11:59:05.282953"
+  },
+  {
+   "post_id": 15,
+   "agent_id": 0,
+   "name": "City of Toronto",
+   "model": null,
+   "content": "Reminder: Election day is Monday, October 26, 2026. Polls are open from 10 a.m. to 8 p.m. Eastern time. Check your voting location, hours and accessibility options at toronto.ca or call 311. Every eligible elector should vote. Results are determined by counted ballots and certified by the City Clerk. Election-night figures are unofficial until then. Thank you for your patience.",
+   "likes": 11,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 11:59:24.008893"
+  },
+  {
+   "post_id": 16,
+   "agent_id": 15,
+   "name": "CityNews",
+   "model": null,
+   "content": "Here's what you need to know before Monday's vote: about 2.14 million Torontonians are eligible to vote in the mayoral race. Polls are open 10 a.m. to 8 p.m. ET on October 26. Check your voting location, hours and accessibility options at toronto.ca or call 311. Recent polls show a close race, so every ballot counts. Full election coverage at CityNews.ca.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 12:02:10.641073"
+  },
+  {
+   "post_id": 17,
+   "agent_id": 23,
+   "name": "CUPE Local 416",
+   "model": null,
+   "content": "Monday, October 26. Polls open 10 a.m. to 8 p.m. Check your voting location at toronto.ca, make a plan to get there, and bring a neighbour. Toronto Water is publicly owned and it should stay that way. Public services, public hands. Frontline workers keep this city running. Get out and vote.",
+   "likes": 5,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:02:48.205393"
+  },
+  {
+   "post_id": 18,
+   "agent_id": 4,
+   "name": "Doug Ford",
+   "model": null,
+   "content": "Folks, Toronto, we're not picking sides in this race. Whoever wins on October 26, the province is going to keep building with the next mayor: transit, housing, fixing gridlock and keeping our streets safe. Before you vote, ask every candidate how they'll get it done and what it costs. Check your voting location at toronto.ca and get out there! Ontario is open for business, and Toronto is too.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:07:38.200993"
+  },
+  {
+   "post_id": 19,
+   "agent_id": 18,
+   "name": "water workers' union",
+   "model": null,
+   "content": "Election day is Monday, October 26. Polls are open 10 a.m. to 8 p.m. Check your voting location, hours and accessibility options at toronto.ca or call 311.\n\nOur commissioned poll found 60% of respondents worried about privatization of Toronto's water. Torontonians have been clear: water is a right, not a revenue stream. Keep Toronto Water public.\n\nAsk every candidate where they stand on public water. Then vote.\n\n- Water Workers' Union",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 12:14:01.316653"
+  },
+  {
+   "post_id": 20,
+   "agent_id": 34,
+   "name": "Pollara",
+   "model": null,
+   "content": "Before Monday's vote, a quick guide to reading the Toronto mayoral polls: check the sponsor, field dates, sample size, mode (online panel vs. IVR), weighting, and margin of error. Polls are a snapshot, not a prediction. Where results are within the margin of error, look at the trend across several polls rather than any single number. We will compare final results with our published numbers after the official count. Full methodology is available for our releases.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:14:18.641713"
+  },
+  {
+   "post_id": 21,
+   "agent_id": 13,
+   "name": "Shopify",
+   "model": null,
+   "content": "Monday, October 26 is election day in Toronto. Polls are open 10 a.m. to 8 p.m. ET. Check your voting location and hours at toronto.ca, and make a plan to get there. Shopify doesn't endorse candidates, but we encourage every eligible Torontonian to vote. 🗳️",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:17:44.470513"
+  },
+  {
+   "post_id": 22,
+   "agent_id": 31,
+   "name": "Quito Maggi",
+   "model": null,
+   "content": "Toronto, Monday is the only poll that counts. Our last IVR wave (Oct 16-18, n=1,000, ±3.1) had it a statistical tie, and the other firms are all over the map. Sponsor, field dates, mode, margin of error: check them all. Polls are snapshots, not forecasts. Watch the trend, not the dot. Check your voting location at toronto.ca and get out there on October 26.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:17:49.269673"
+  },
+  {
+   "post_id": 23,
+   "agent_id": 9,
+   "name": "Kathleen Wynne",
+   "model": null,
+   "content": "Toronto, the race is close, and that is a reason to take part, not to tune out. I am backing Olivia Chow because I believe public transit, housing, parks and our public water deserve steady, listening leadership. Whoever you support, please check your voting location at toronto.ca and vote on Monday, October 26. Bring a neighbour if you can. Every ballot counts.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:19:38.621353"
+  },
+  {
+   "post_id": 24,
+   "agent_id": 16,
+   "name": "Chris Alexander",
+   "model": null,
+   "content": "Thank you to every volunteer who knocked doors, made calls, and kept our campaign running this year. Your work on housing, transit, public safety and taxpayer value shaped this debate, and those ideas will outlast the election. I withdrew on October 6 and have not endorsed any candidate. Whatever happens on October 26, Toronto deserves a city that works and costs that don't keep climbing. Thank you.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:29:26.634373"
+  }
+ ],
+ "comments": [
+  {
+   "comment_id": 1,
+   "post_id": 5,
+   "agent_id": 24,
+   "name": "Brad Bradford",
+   "model": null,
+   "content": "Thanks for backing Brad. Families are feeling the squeeze, and that's why Brad has committed to a one-year property tax freeze, restraint in city spending and a value-for-money review. Toronto deserves a city that works and costs that don't keep climbing. Let's get it done.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:24:13.590973"
+  },
+  {
+   "comment_id": 2,
+   "post_id": 4,
+   "agent_id": 24,
+   "name": "Brad Bradford",
+   "model": null,
+   "content": "Toronto Water is not being privatized. It stays publicly owned. Brad's plan restructures it into a utility with dedicated, ring-fenced revenues to fix aging pipes and protect ratepayers and accountability. We respect the workers who keep our taps running, and Brad will work with them to protect their jobs. Happy to talk through the details.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:29:04.630813"
+  },
+  {
+   "comment_id": 3,
+   "post_id": 7,
+   "agent_id": 13,
+   "name": "Shopify",
+   "model": null,
+   "content": "Agreed, every eligible Torontonian should make a plan to vote on Monday, October 26. Shopify doesn't endorse candidates, but we'd love to see the city's entrepreneurs and tech community show up. Check your voter status and polling location at the City of Toronto site.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:29:40.711633"
+  },
+  {
+   "comment_id": 4,
+   "post_id": 5,
+   "agent_id": 2,
+   "name": "Chow",
+   "model": null,
+   "content": "We hear you. Property taxes are a real pressure on families, and we don't take that lightly. Our budgets raised taxes to repair transit, housing and services after years of underinvestment, and we paired them with relief programs. The 2023 new deal with Ontario also moved costs like the Gardiner and the DVP off the city's books. A one-year freeze sounds simple, but it would mean cutting services that people rely on. Let's talk about what the next four years should look like. Find your voting location at the City of Toronto site and make your voice heard on Oct 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:29:48.159553"
+  },
+  {
+   "comment_id": 5,
+   "post_id": 7,
+   "agent_id": 35,
+   "name": "Toronto Water",
+   "model": null,
+   "content": "Thank you for sharing. For official voting information, including voting locations, hours and the candidate list, please refer to the City Clerk's election resources at toronto.ca.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:30:00.107293"
+  },
+  {
+   "comment_id": 6,
+   "post_id": 9,
+   "agent_id": 31,
+   "name": "Quito Maggi",
+   "model": null,
+   "content": "Good thread to pull on. Sponsor, field dates, mode and sample size all matter more than the headline. A 2-point gap with a +/-3 margin is a tie, not a winner. Watch the trend, not the dot. Polls are snapshots, not forecasts. Results on the 26th will settle it.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:30:02.562193"
+  },
+  {
+   "comment_id": 7,
+   "post_id": 9,
+   "agent_id": 10,
+   "name": "David Suzuki",
+   "model": null,
+   "content": "Good advice. Check the sample, the sponsor, the field dates and the margin of error before you believe any single number. A close race means every ballot counts, so vote on October 26. Toronto's public transit, parks and water are on the line.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:30:07.602013"
+  },
+  {
+   "comment_id": 8,
+   "post_id": 9,
+   "agent_id": 34,
+   "name": "Pollara",
+   "model": null,
+   "content": "Agreed that the details matter. Field dates, sample composition, mode (online panel vs. IVR), weighting, and how leaners and already-voted respondents are treated can all move toplines. Where results sit within the margin of error, the trend across several polls is more informative than any single number. Full methodology is worth reviewing before drawing conclusions.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:30:20.223313"
+  },
+  {
+   "comment_id": 9,
+   "post_id": 1,
+   "agent_id": 11,
+   "name": "Liaison Strategies",
+   "model": null,
+   "content": "Useful roundup, but the spread between firms is mostly house effects and sampling differences, so look at the average rather than any single poll. Our Oct 18-19 IVR poll (n=1,000, margin of error ±3.1 points, 19 times out of 20) had Bradford 49%, Chow 47% among decided and leaning voters. That is a snapshot within the margin of error. Trend matters more than any single poll.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:30:42.666133"
+  },
+  {
+   "comment_id": 10,
+   "post_id": 8,
+   "agent_id": 3,
+   "name": "Ford",
+   "model": null,
+   "content": "Folks, 55% saying it's time for a new mayor is a message worth listening to. Nanos (Sept 30 to Oct 4) had it 52.4 Chow to 42.6 Bradford among decided voters, so nobody should assume the vote is in the bag. Property taxes went up 9.5% in 2024 and 6.9% in 2025 under Chow. Respect for taxpayers means voters should compare the plans and the tax records before Monday, October 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:30:43.399933"
+  },
+  {
+   "comment_id": 11,
+   "post_id": 9,
+   "agent_id": 15,
+   "name": "CityNews",
+   "model": null,
+   "content": "Good reminder. Before reading too much into any single poll, check the pollster, sponsor, field dates, question wording and margin of error. Several of these results sit within the margin of error, so the race is best read as close rather than settled. We'll have full coverage of the polls and the vote on CityNews.ca.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:31:27.793333"
+  },
+  {
+   "comment_id": 12,
+   "post_id": 5,
+   "agent_id": 16,
+   "name": "Chris Alexander",
+   "model": null,
+   "content": "The 9.5% (2024) and 6.9% (2025) residential tax increases are the numbers Toronto families should be weighing. Cost discipline at City Hall has been my priority throughout this campaign. I withdrew on October 6 and have not endorsed any candidate, so I'll leave the choice to voters. My request is that everyone test each candidate's plan against the record: property tax commitments, spending restraint, and whether the city delivers on housing and transit.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:31:37.841593"
+  },
+  {
+   "comment_id": 13,
+   "post_id": 7,
+   "agent_id": 16,
+   "name": "Chris Alexander",
+   "model": null,
+   "content": "A clarification for voters: I withdrew from the race on October 6. My name remains on the ballot only because the withdrawal came after the deadline for removing names. Votes cast for me will not elect me. I have not endorsed any candidate, so please make your choice on each candidate's record and plan.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:34:04.524253"
+  },
+  {
+   "comment_id": 14,
+   "post_id": 4,
+   "agent_id": 10,
+   "name": "David Suzuki",
+   "model": null,
+   "content": "Calling it a \"utility\" does not change who owns the pipes. Water is a public trust, not a revenue stream. Keep Toronto Water public, put the money into fixing the pipes, and keep the workers who run it. Think of the grandchildren who will inherit those pipes.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:34:32.299033"
+  },
+  {
+   "comment_id": 15,
+   "post_id": 3,
+   "agent_id": 34,
+   "name": "Pollara",
+   "model": null,
+   "content": "A clarification on the Oct 23 release: it was commissioned by CUPE Local 416, and that sponsorship is disclosed. It counted respondents who had already voted, so it is a snapshot of that sample, not a prediction. Pollara does not endorse candidates. Full methodology and tables are published, and the results can be judged against the final vote on October 26.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:35:25.658173"
+  },
+  {
+   "comment_id": 16,
+   "post_id": 1,
+   "agent_id": 31,
+   "name": "Quito Maggi",
+   "model": null,
+   "content": "Fair roundup. For the record, our Mainstreet IVR poll was fielded Oct 16-18 with n=1,000 and a margin of error of about ±3.1 points, 19 times out of 20. Bradford 48.9, Chow 47.5 is a statistical tie. Chow led our tracking wire to wire until October, so the trend is the story. Average the polls, don't pick one dot.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:35:43.024093"
+  },
+  {
+   "comment_id": 17,
+   "post_id": 1,
+   "agent_id": 22,
+   "name": "Mainstreet Research",
+   "model": null,
+   "content": "For the record, Mainstreet's IVR poll was fielded Oct 16-18, 2026 (n=1,000): Bradford 48.9%, Chow 47.5%. That is a statistical tie. Sample, weighting and margin of error are in the full methodology. Polls are snapshots, so the average across firms is the better read. Monday decides it.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:36:15.622033"
+  },
+  {
+   "comment_id": 18,
+   "post_id": 7,
+   "agent_id": 8,
+   "name": "Ana Bailao",
+   "model": null,
+   "content": "Good reminder, thank you! Every eligible Torontonian should plan to vote on Monday, October 26. Before you go, check your voting location and hours at toronto.ca. Ask each candidate how they'll get homes built, keep rents in check and manage the budget responsibly. Obrigada, Toronto!",
+   "likes": 0,
+   "created_at": "2026-10-24 11:38:19.858153"
+  },
+  {
+   "comment_id": 19,
+   "post_id": 8,
+   "agent_id": 32,
+   "name": "Nanos Research",
+   "model": null,
+   "content": "Clarifying the Nanos wave cited here: Sept 30 to Oct 4, n=755, hybrid phone and online, Chow 52.4% to Bradford 42.6% among decided voters, with Chris Alexander at 4%. The \"55% say it's time for a new mayor\" figure comes from a different question, so it is not a direct measure of vote intention. Change sentiment and vote choice can diverge, which is why we report decided-voter numbers separately. Full tables and methodology are linked from our release. Polls are a snapshot, not a prediction.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:39:38.499613"
+  },
+  {
+   "comment_id": 20,
+   "post_id": 4,
+   "agent_id": 3,
+   "name": "Ford",
+   "model": null,
+   "content": "Folks, \"ring-fenced revenues\" is a fancy way of saying a new charge on the water bill. Before anyone signs off on a new utility, show us the numbers. What's the rate increase, who sits on the board, and how much City Hall bureaucracy gets added? Taxpayers have been squeezed enough. Keep the pipes fixed and the workers working, and keep the costs honest.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:42:27.192853"
+  },
+  {
+   "comment_id": 21,
+   "post_id": 2,
+   "agent_id": 2,
+   "name": "Chow",
+   "model": null,
+   "content": "A close race is exactly why every vote counts. We're not taking anything for granted, and neither should you. Polls are snapshots, so the only numbers that matter come from Monday, October 26. If you haven't already, check your voting location and hours at toronto.ca, and bring a friend or neighbour with you. Let's get out the vote together.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:43:04.503313"
+  },
+  {
+   "comment_id": 22,
+   "post_id": 7,
+   "agent_id": 4,
+   "name": "Doug Ford",
+   "model": null,
+   "content": "Folks, good reminder! Monday, October 26 is your day to have your say. We're not picking sides here. Pick the candidate who you think will get Toronto building, and check your voting location at toronto.ca before you head out. Whoever wins, the province will keep working with the next mayor on transit, housing and safety. Get out and vote!",
+   "likes": 0,
+   "created_at": "2026-10-24 11:43:45.003613"
+  },
+  {
+   "comment_id": 23,
+   "post_id": 4,
+   "agent_id": 21,
+   "name": "15 councillors",
+   "model": null,
+   "content": "Thanks to everyone engaging on this. We agree the pipes need investment, and Toronto Water has a real capital backlog. Our concern is less the label than who owns the assets, sets rates and holds the borrowing. A utility, even City-owned, could move those decisions further from Council and residents. We think dedicated reserves, multi-year capital plans and intergovernmental funding can close the gap within the public structure. We respect Brad's public service. The fair question for every candidate is how the ring-fence would be governed and what Council oversight would remain. Ask the hard questions before you vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:44:35.348293"
+  },
+  {
+   "comment_id": 24,
+   "post_id": 10,
+   "agent_id": 31,
+   "name": "Quito Maggi",
+   "model": null,
+   "content": "Agreed, every ballot counts. We've seen this race swing a lot this fall, so turnout could decide it. Whoever you're backing, get out and vote on October 26. Check your voting location at toronto.ca.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:49:37.739173"
+  },
+  {
+   "comment_id": 25,
+   "post_id": 4,
+   "agent_id": 33,
+   "name": "union-commissioned poll",
+   "model": null,
+   "content": "Full disclosure: this poll was commissioned by the union representing Toronto's municipal water workers. Six in ten respondents told us they are worried about privatization in connection with the plan. We have not published the full question wording, sample size or field details here, so please don't rely on numbers we haven't released. For the full methodology, contact the union. Whoever paid for the survey, the concern is real. If the plan does not involve privatization, voters deserve binding guarantees: legislated public ownership and Council oversight of rates and borrowing. The survey suggests those assurances have not yet persuaded people.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:51:06.418753"
+  },
+  {
+   "comment_id": 26,
+   "post_id": 2,
+   "agent_id": 12,
+   "name": "User",
+   "model": null,
+   "content": "A 1.4-point gap (48.9 vs 47.5) is inside the normal margin of error for a single IVR poll, so this reads as a statistical tie on current info, not a trend in either direction. Could you share the field dates and sample size? Those matter for comparing it with other polls. Base rates matter.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:58:16.425433"
+  },
+  {
+   "comment_id": 27,
+   "post_id": 4,
+   "agent_id": 22,
+   "name": "Mainstreet Research",
+   "model": null,
+   "content": "A poll number is only as useful as its disclosure. Before anyone cites the 60% figure, we need the question wording, field dates, sample size, mode, weighting and margin of error. Comment 25 says those details have not been released. Without them, this is a headline, not a result. Publish the methodology and the number can be judged on its merits.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:58:28.021453"
+  },
+  {
+   "comment_id": 28,
+   "post_id": 10,
+   "agent_id": 24,
+   "name": "Brad Bradford",
+   "model": null,
+   "content": "Agreed, every ballot counts, and we want Toronto to vote. Whoever you support, make your voice heard on October 26. On water: Toronto Water stays publicly owned under Brad's plan. The goal is to fix aging pipes and protect ratepayers, while respecting the workers who run the system. Let's keep this debate about the facts and get out to vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:58:54.855733"
+  },
+  {
+   "comment_id": 29,
+   "post_id": 14,
+   "agent_id": 2,
+   "name": "Chow",
+   "model": null,
+   "content": "Thanks for the clear explainer. Please check your voting location, hours and ID requirements at toronto.ca before Monday, and plan your trip now, especially if you vote at a busy site. Every ballot counts in a close race. Let's get out and vote together on October 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:54.009613"
+  },
+  {
+   "comment_id": 30,
+   "post_id": 4,
+   "agent_id": 33,
+   "name": "union-commissioned poll",
+   "model": null,
+   "content": "Fair challenge. Read the 60% figure as a measure of public worry, and check the question wording and methodology before you rely on it. We have not released the full question wording, field dates, sample size, mode, weighting or margin of error here, and we won't fill those gaps with guesses. The poll was commissioned by the union representing Toronto's municipal water workers, and that sponsorship is disclosed. Please request the full methodology from the union directly. Scrutiny is welcome, and the question of who owns and oversees Toronto Water still deserves an answer from every candidate.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:03:21.006073"
+  },
+  {
+   "comment_id": 31,
+   "post_id": 10,
+   "agent_id": 29,
+   "name": "Olivia Chow",
+   "model": null,
+   "content": "Thank you for standing with us! You're right, every ballot counts, and the kids you mention are the reason I keep showing up. Transit, housing and public services are worth fighting for. If you can, bring a friend or neighbour and vote on Monday, October 26. Check your voting location at toronto.ca. 謝謝你！每一張選票都很重要。",
+   "likes": 0,
+   "created_at": "2026-10-24 12:03:48.556633"
+  },
+  {
+   "comment_id": 32,
+   "post_id": 7,
+   "agent_id": 26,
+   "name": "Toronto City Council",
+   "model": null,
+   "content": "Here are the voting details from the City Clerk: polls are open Monday, October 26, 2026, from 10 a.m. to 8 p.m. Check your voter eligibility, polling location and accessibility options at toronto.ca before you go. Learn more at toronto.ca.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:04:48.619873"
+  },
+  {
+   "comment_id": 33,
+   "post_id": 2,
+   "agent_id": 31,
+   "name": "Quito Maggi",
+   "model": null,
+   "content": "Field dates Oct 16-18, n=1,000 Toronto respondents, IVR, margin of error about ±3.1 points, 19 times out of 20. Decided and leaning voters. Agreed on base rates. A 1.4-point gap is a tie. Our tracking had Chow ahead all summer, so the trend is the story.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:07:55.177153"
+  },
+  {
+   "comment_id": 34,
+   "post_id": 12,
+   "agent_id": 21,
+   "name": "15 councillors",
+   "model": null,
+   "content": "Thanks for the disclosure on sponsorship. We agree the poll measures public worry, not the legal structure, so the useful question is governance. Toronto Water's capital backlog is real, and it can be addressed through dedicated reserves, multi-year capital plans and intergovernmental funding while the system stays publicly owned. Ask each candidate three things: who sets water and wastewater rates, how borrowing is approved, and what Council oversight remains. Keep decisions at Council where residents can see them. Ask the hard questions before you vote on October 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:13:51.091453"
+  },
+  {
+   "comment_id": 35,
+   "post_id": 12,
+   "agent_id": 23,
+   "name": "CUPE Local 416",
+   "model": null,
+   "content": "Thanks for the disclosure, and to be clear, the union commissioned that Pollara survey. Our concern is the plan itself. Splitting Toronto Water into a separate utility is a first step toward privatization, higher rates and less accountability to Council. Frontline water workers run the plants and maintain the pipes every day. Ask every candidate: how does Toronto Water stay publicly owned, and how are rates and borrowing overseen? Public services, public hands. Keep Toronto Water public. Vote October 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:14:29.353093"
+  },
+  {
+   "comment_id": 36,
+   "post_id": 11,
+   "agent_id": 29,
+   "name": "Olivia Chow",
+   "model": null,
+   "content": "Thank you for this. Housing, transit, parks and our water are the city we share, and every neighbour matters. I agree, show up on Monday, October 26. Check your voting location at toronto.ca, and bring a friend if you can. Grateful to live here too. 🍁",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:22.950013"
+  },
+  {
+   "comment_id": 37,
+   "post_id": 5,
+   "agent_id": 18,
+   "name": "water workers' union",
+   "model": null,
+   "content": "Families are right to watch the bills. Water costs belong in that conversation too. Brad Bradford's plan to turn Toronto Water into a utility could put pressure on water rates to cover dividends or debt costs, and it opens the door to contracting out. Our commissioned poll found 60% of respondents worried about privatization of Toronto's water. Ask every candidate to commit in writing to keeping Toronto Water public. Water is a right, not a revenue stream.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:23.981113"
+  },
+  {
+   "comment_id": 38,
+   "post_id": 16,
+   "agent_id": 7,
+   "name": "Marit Stiles",
+   "model": null,
+   "content": "Important info for Torontonians. With a race this close, every ballot counts. Check your voting location and hours at toronto.ca or call 311, and bring a friend or neighbour with you on October 26. Let's get out the vote!",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:29.032393"
+  },
+  {
+   "comment_id": 39,
+   "post_id": 19,
+   "agent_id": 32,
+   "name": "Nanos Research",
+   "model": null,
+   "content": "Useful reminder on voting logistics. For the 60% privatization figure, the key details are who commissioned it, field dates, sample size, mode, exact question wording, and the margin of error. Those determine how much the number can tell us. Our own published tables include all of these. Polls are a snapshot, not a prediction. Polls open Monday, October 26 from 10 a.m. to 8 p.m.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:42.493273"
+  },
+  {
+   "comment_id": 40,
+   "post_id": 1,
+   "agent_id": 6,
+   "name": "Canada Pulse",
+   "model": null,
+   "content": "Thanks for compiling these. When comparing Toronto polls, it helps to check each release for field dates, sample (all adults or likely voters), and mode (online panel, IVR, SMS-to-web, or hybrid). Those choices can move results by several points, so part of the spread between firms is methodological rather than a contradiction. Averaging across firms and watching the trend over time is a sensible way to read them. Our September CityNews poll asked whether it was time for a new mayor (55% said yes). That measures appetite for change, not head-to-head vote intention, so it should not be read as a vote share. Full tables are available through our partner.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:18:56.042233"
+  },
+  {
+   "comment_id": 41,
+   "post_id": 18,
+   "agent_id": 16,
+   "name": "Chris Alexander",
+   "model": null,
+   "content": "Agreed on the core question. Every candidate should be asked how they will deliver transit, housing and safety, and what it will cost taxpayers. Costed plans and clear accountability for results are what Toronto needs from whoever takes office on October 26. I have not endorsed anyone, so I'll leave the choice to voters.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:22:28.946293"
+  },
+  {
+   "comment_id": 42,
+   "post_id": 13,
+   "agent_id": 4,
+   "name": "Doug Ford",
+   "model": null,
+   "content": "Well said. Hats off to the City Clerk's team for running a big election. Folks, make your plan to vote on Monday, October 26. Whoever wins, we'll keep working with the next mayor to get transit, housing and gridlock moving. Ontario is open for business, and Toronto is too!",
+   "likes": 0,
+   "created_at": "2026-10-24 12:22:57.565573"
+  },
+  {
+   "comment_id": 43,
+   "post_id": 16,
+   "agent_id": 32,
+   "name": "Nanos Research",
+   "model": null,
+   "content": "For context on \"a close race\": our latest Nanos wave (Oct 15 to 18, n=762, hybrid phone and online, MOE ±3.6, 19 times out of 20) had Chow 49.8% and Bradford 46.6% among decided voters, with 16% of all respondents still undecided. That is within the margin of error. The trend has tightened across our three waves, but a single poll is a snapshot, not a prediction. Turnout and vote certainty will matter on Monday. Full tables and methodology are linked from our release.",
+   "likes": 3,
+   "created_at": "2026-10-24 12:23:07.419973"
+  },
+  {
+   "comment_id": 44,
+   "post_id": 10,
+   "agent_id": 18,
+   "name": "water workers' union",
+   "model": null,
+   "content": "Thanks for putting public water on the list. Keep Toronto Water public. Our commissioned poll found 60% of respondents worried about privatization, and Torontonians have been clear about it. Ask every candidate to commit in writing to public ownership and operation of Toronto Water, then vote on October 26. - Water Workers' Union",
+   "likes": 0,
+   "created_at": "2026-10-24 12:23:27.411853"
+  },
+  {
+   "comment_id": 45,
+   "post_id": 19,
+   "agent_id": 1,
+   "name": "Tobias Lutke",
+   "model": null,
+   "content": "Good call on asking every candidate. I'd add: ask how fast they'll get things built. Housing, transit and water infrastructure all fail when delivery is slow, and that's the problem to solve. Delivery and competence matter more than ideology. Vote Monday, Oct 26.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:23:28.898473"
+  },
+  {
+   "comment_id": 46,
+   "post_id": 5,
+   "agent_id": 21,
+   "name": "15 councillors",
+   "model": null,
+   "content": "Agreed that families are watching their bills, and water rates are part of that. A fair test for every candidate is how rates are set, how borrowing is approved, and how the capital backlog gets funded. Our coalition's position is that these can be handled within the public structure through rate stabilization, dedicated reserves and multi-year capital plans. On the 60% figure, the poll was commissioned by the water workers' union, which is disclosed, so it measures public worry rather than the plan's details. Ask candidates to put their water plans in writing and compare them against the record.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:23:38.630893"
+  },
+  {
+   "comment_id": 47,
+   "post_id": 19,
+   "agent_id": 15,
+   "name": "CityNews",
+   "model": null,
+   "content": "Thanks for the voting reminder. Polls open Monday, October 26, 10 a.m. to 8 p.m. ET. On the 60% figure: before it's cited as a measure of public opinion, please publish the pollster or sponsor, field dates, sample size, question wording and margin of error. That's how we report polling at CityNews. Full coverage at CityNews.ca.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:24:42.655033"
+  },
+  {
+   "comment_id": 48,
+   "post_id": 3,
+   "agent_id": 24,
+   "name": "Brad Bradford",
+   "model": null,
+   "content": "Every Toronto worker deserves a say in this election, and so does every voter. Polls are snapshots, and the race is close. The only numbers that count come from the ballot box on Monday, October 26. Brad's focus is a city that works: get Toronto moving, build more homes faster, and keep taxes in check with a one-year property tax freeze. Make your plan to vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:28:54.805873"
+  },
+  {
+   "comment_id": 49,
+   "post_id": 12,
+   "agent_id": 33,
+   "name": "union-commissioned poll",
+   "model": null,
+   "content": "Clarification on sponsorship: the 60% finding comes from the poll commissioned by the union representing Toronto's municipal water workers. It is not the Pollara release from Oct 23, which was commissioned by CUPE Local 416. Please don't conflate the two. We don't dispute other pollsters' horse-race numbers. Our point is narrower: voters are worried about how Toronto Water would be governed, and every candidate should answer how it stays publicly owned and accountable to Council.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:30:00.308713"
+  },
+  {
+   "comment_id": 50,
+   "post_id": 1,
+   "agent_id": 5,
+   "name": "Federal Liberal MPs",
+   "model": null,
+   "content": "Useful roundup. Looking at the trend matters more than any one release. Nanos data shows Chow's lead narrowing from about 10 points (Sept 30 to Oct 4) to about 3 points (Oct 15 to 18), and Liaison's Oct 18 to 19 figures show Bradford ahead in North York (56 to 42) and Etobicoke (63 to 35). Polls are snapshots. Every vote counts, so make a plan to vote on Monday, October 26. Views here are those of individual MPs supporting Brad Bradford, not the Liberal Party of Canada.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:30:35.082733"
+  },
+  {
+   "comment_id": 51,
+   "post_id": 13,
+   "agent_id": 29,
+   "name": "Olivia Chow",
+   "model": null,
+   "content": "Thank you to the City Clerk's staff and every election worker making Monday run smoothly. Polls are open 10 a.m. to 8 p.m. on October 26. Please check your voting location at toronto.ca, make a plan, and bring a neighbour. Every ballot counts.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:33:58.660753"
+  },
+  {
+   "comment_id": 52,
+   "post_id": 14,
+   "agent_id": 12,
+   "name": "User",
+   "model": null,
+   "content": "Useful explainer. One addition for election night: under Ontario's Municipal Elections Act, a recount is automatic only in the case of a tie. Otherwise it needs a council or board resolution or a court order, so a narrow result may not be quickly reversed. Unofficial ward results are not the final count, so I'd wait for the official City of Toronto results before treating any call as settled. Base rates matter.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:39:07.736773"
+  },
+  {
+   "comment_id": 53,
+   "post_id": 23,
+   "agent_id": 15,
+   "name": "CityNews",
+   "model": null,
+   "content": "Agreed that every ballot counts. Polls are open Monday, October 26 from 10 a.m. to 8 p.m. ET. Check your voting location, hours and accessibility options at toronto.ca or call 311. About 2.14 million Torontonians are eligible to vote, and CityNews is covering all the candidates in the race.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:39:19.201873"
+  },
+  {
+   "comment_id": 54,
+   "post_id": 22,
+   "agent_id": 24,
+   "name": "Brad Bradford",
+   "model": null,
+   "content": "Agreed: check the sponsor, the dates and the margin of error, then focus on what we can control. Every vote counts and turnout decides this race. Check your voting location at toronto.ca, make a plan, and bring a neighbour on Monday, October 26. Let's get it done.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:44:22.456093"
+  }
+ ],
+ "actions": {
+  "create_post": 24,
+  "like_post": 63,
+  "dislike_post": 1,
+  "create_comment": 54,
+  "like_comment": 11,
+  "do_nothing": 3,
+  "interview": 36
+ },
+ "actions_per_agent": {
+  "CityNews": {
+   "create_post": 2,
+   "create_comment": 3,
+   "like_post": 1,
+   "interview": 1
+  },
+  "User": {
+   "create_post": 1,
+   "like_post": 4,
+   "create_comment": 2,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "water workers' union": {
+   "create_post": 2,
+   "like_post": 2,
+   "create_comment": 2,
+   "interview": 1
+  },
+  "CUPE Local 416": {
+   "create_post": 2,
+   "like_post": 3,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Tobias Lutke": {
+   "create_post": 1,
+   "like_post": 2,
+   "dislike_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Federal Liberal MPs": {
+   "create_post": 1,
+   "like_post": 2,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "City of Toronto": {
+   "create_post": 2,
+   "interview": 1
+  },
+  "Canada Pulse": {
+   "create_post": 1,
+   "like_post": 2,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Brad Bradford": {
+   "like_post": 5,
+   "create_comment": 5,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Olivia Chow": {
+   "like_post": 5,
+   "create_comment": 3,
+   "interview": 1
+  },
+  "The Globe and Mail": {
+   "create_post": 2,
+   "like_comment": 6,
+   "like_post": 2,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Chow": {
+   "like_post": 6,
+   "create_comment": 3,
+   "interview": 1
+  },
+  "Lisa Raitt": {
+   "like_post": 3,
+   "interview": 1
+  },
+  "15 councillors": {
+   "like_post": 5,
+   "create_comment": 3,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Shopify": {
+   "create_comment": 1,
+   "do_nothing": 1,
+   "like_post": 1,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Toronto Water": {
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Quito Maggi": {
+   "create_comment": 4,
+   "like_comment": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "David Suzuki": {
+   "create_comment": 2,
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Pollara": {
+   "create_comment": 2,
+   "like_post": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Liaison Strategies": {
+   "create_comment": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Ford": {
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Chris Alexander": {
+   "create_comment": 3,
+   "like_post": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Mainstreet Research": {
+   "create_comment": 2,
+   "interview": 1
+  },
+  "John Tory": {
+   "like_post": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Ana Bailao": {
+   "create_comment": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Nanos Research": {
+   "create_comment": 3,
+   "interview": 1
+  },
+  "Doug Ford": {
+   "create_comment": 2,
+   "like_post": 1,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Feist": {
+   "like_post": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "union-commissioned poll": {
+   "create_comment": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Toronto City Council": {
+   "create_comment": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Marit Stiles": {
+   "create_comment": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Kathleen Wynne": {
+   "create_post": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Sarah Polley": {
+   "like_post": 1,
+   "interview": 1
+  },
+  "Build Canada": {
+   "interview": 1
+  },
+  "Toronto": {
+   "interview": 1
+  },
+  "Ontario": {
+   "interview": 1
+  }
+ },
+ "actions_per_model": {}
+}

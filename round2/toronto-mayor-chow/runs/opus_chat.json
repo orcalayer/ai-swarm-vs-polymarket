@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 60\nREASON: The final-week polls split evenly. Three show Chow ahead by 3–11 points and three show Bradford ahead by 1–4, so the race is close to a statistical tie. Chow has a modest edge: she leads among the most certain voters, she benefits from a record advance vote that was banked before Bradford's late surge, and her personal ratings are higher. Against that, the strongest pro-Chow numbers come from a poll commissioned by a union that endorsed her, and Bradford has momentum, has picked up Alexander's former voters, and faces a 16% undecided pool, so an upset remains quite plausible.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

@@ -1,0 +1,358 @@
+{
+ "simulation_id": "sim_3bc9da6e4931",
+ "items": [
+  {
+   "quote": "In the 2026 election cycle, which was delayed past the coalition's original July date and is running in late October 2026,",
+   "kind": 4,
+   "problem": "Claims the election was delayed past an original July date.",
+   "source_says": "The coalition fixed the date on 12 July 2026, and the 17 July dissolution vote set the election for 27 October 2026. No earlier July election date is mentioned.",
+   "where": "agent 1 Ofer Winter's party",
+   "found_verbatim": true
+  },
+  {
+   "quote": "These include Likud running alone after its primary placed Amir Ohana second behind Netanyahu,",
+   "kind": 4,
+   "problem": "States Ohana was placed second, which the source does not say.",
+   "source_says": "Eli Cohen, Amir Ohana and Yariv Levin were placed directly behind Netanyahu, with no ranking among them.",
+   "where": "agent 1 Ofer Winter's party",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Its founder and public face, as widely reported in the Israeli press, is Shlomo Filber, a veteran right-wing political strategist and former senior Netanyahu-era official.",
+   "kind": 4,
+   "problem": "The source links Filber to Channel 14's polls, not to Direct Polls. Nothing in it says he founded or fronts Direct Polls.",
+   "source_says": "Jewish Insider reported that Channel 14's polls are run by Shlomo Filber, a former Netanyahu campaign aide. The source does not name him as Direct Polls' founder.",
+   "where": "agent 10 Direct Polls",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Kantar's poll also showed that neither bloc reached 61 seats.",
+   "kind": 4,
+   "problem": "The 61-seat finding is attributed to Kantar's poll, but the source gives it only for the three TV polls (Channel 12, Channel 13, Kan 11).",
+   "source_says": "In the three TV polls of 23 October 2026, Netanyahu's bloc had 50 seats and the opposition 52 to 56. The Kantar/Israel Hayom poll has no bloc totals in the source.",
+   "where": "agent 11 Kantar",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The coalition had earlier fixed 12 July 2026 as the date, the final calendar placed the deadline for official results at 4 November 2026 under Article 11 of Basic Law: The Knesset",
+   "kind": 1,
+   "problem": "Reads as if 12 July 2026 were the election date. That is the day the coalition fixed the date, not the election day.",
+   "source_says": "The coalition fixed the election date on 12 July 2026. The 17 July dissolution vote set the election for 27 October 2026.",
+   "where": "agent 12 Central Elections Committee",
+   "found_verbatim": true
+  },
+  {
+   "quote": "a Channel 12 poll found 6% of 2022 Likud voters considering Yashar",
+   "kind": 3,
+   "problem": "The poll is listed among the unfavorable late-September to 22 October 2026 polling, which makes it look recent, but it dates from May 2026.",
+   "source_says": "The Channel 12 poll was reported on 11 May 2026, about five months before the late-September to October polling window.",
+   "where": "agent 13 Gideon Sa'ar",
+   "found_verbatim": true
+  },
+  {
+   "quote": "He publicly dismissed Channel 12 data suggesting that 6% of 2022 Likud voters were drifting to Yashar and 10% to Together.",
+   "kind": 3,
+   "problem": "Presents the Channel 12 figures as a current autumn data point, but the poll is much older.",
+   "source_says": "The Channel 12 poll was reported on 11 May 2026, about five months before the election.",
+   "where": "agent 18 Shlomo Filber",
+   "found_verbatim": true
+  },
+  {
+   "quote": "He runs the Direct Polls operation whose surveys are published by Channel 14, the right-leaning broadcaster, and he frequently appears on its panels to explain the numbers.",
+   "kind": 4,
+   "problem": "Conflates Direct Polls with Channel 14. The source ties Direct Polls to i24NEWS and says Filber runs Channel 14's polls. It does not say he runs Direct Polls.",
+   "source_says": "Direct Polls polled for i24NEWS. Channel 14's polls are run by Shlomo Filber.",
+   "where": "agent 18 Shlomo Filber",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Al Jazeera items dated 26 April 2026, 9 September 2026 and 20 October 2026 are cited in a briefing on the latest seat polls.",
+   "kind": 4,
+   "problem": "Al Jazeera is not a cited source in the latest-polls briefing. Those three items are cited in the background and timeline briefing.",
+   "source_says": "The latest-polls briefing cites Haaretz, Times of Israel, Jerusalem Post, The Media Line and Wikipedia. The Al Jazeera items of 26 Apr, 9 Sep and 20 Oct appear in the background timeline.",
+   "where": "agent 19 Al Jazeera",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The 20 October 2026 item is also cited in a briefing laying out the case against Likud finishing first and the associated risks.",
+   "kind": 4,
+   "problem": "Al Jazeera is not cited in the case-against briefing. Its 20 Oct item is cited in the case-for-yes briefing and others.",
+   "source_says": "The case-against briefing lists Haaretz, Times of Israel, Jewish Insider, JFeed, The JC, Jerusalem Post and Wikipedia. Al Jazeera (20 Oct) appears in the case-for-yes briefing.",
+   "where": "agent 19 Al Jazeera",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Heading toward election day in early November 2026, the account's narrative is a base that is shrunken but committed, a right-wing camp that is fragmented, and a warning that polls have underestimated Likud before.",
+   "kind": 1,
+   "problem": "Election day is placed in early November 2026, which is the wrong date.",
+   "source_says": "The election is on 27 October 2026. Early November is only the deadline for official results (4 November).",
+   "where": "agent 20 2022 Likud voters",
+   "found_verbatim": true
+  },
+  {
+   "quote": "was read and cited on 24 October 2026 in a research file (02_latest_polls.md)",
+   "kind": 4,
+   "problem": "The JVL Yashar profile is attributed to the polls file, but that file does not cite JVL.",
+   "source_says": "The JVL Yashar profile (read 24 Oct 2026) is cited in 01_background_timeline.md. The sources for 02_latest_polls.md do not include JVL.",
+   "where": "agent 24 Jewish Virtual Library",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Channel 12 found that only 58% of 2022 Likud voters planned to return.",
+   "kind": 3,
+   "problem": "The Channel 12 finding is given without a date, so it looks current alongside the late-October polls.",
+   "source_says": "The Channel 12 poll was reported on 11 May 2026, about five months before the election.",
+   "where": "agent 25 Likud",
+   "found_verbatim": true
+  },
+  {
+   "quote": "pressing right-wing voters to come home to the big party before the 4 November 2026 vote.",
+   "kind": 1,
+   "problem": "Wrong date for the vote. 4 November is not election day.",
+   "source_says": "The election is on 27 October 2026. 4 November is only the deadline for publishing official results.",
+   "where": "agent 25 Likud",
+   "found_verbatim": true
+  },
+  {
+   "quote": "In the final TV polls of 23 October, Likud trailed Yashar by 2 to 3 seats: Channel 12 gave Likud 21, Kan 20, Channel 13 about 19, Maariv 19 against Yashar's 21, and Israel Hayom/Kantar 21 against 23.",
+   "kind": 1,
+   "problem": "The Israel Hayom/Kantar poll is lumped in with the 23 October polls, and Maariv and Israel Hayom are not TV polls.",
+   "source_says": "The Kantar poll for Israel Hayom was published on 22 October 2026. Only Channel 12, Channel 13 and Kan 11 are the TV polls of 23 October.",
+   "where": "agent 25 Likud",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Reporting dated 20 October and 23 October 2026 is referenced in research documents assessing whether Likud, led by Benjamin Netanyahu under the ballot letters Mem-Chet-Lamed, will finish first.",
+   "kind": 4,
+   "problem": "The source cites The Media Line only for 23 October 2026. It lists no Media Line report dated 20 October.",
+   "source_says": "Only The Media Line (23 Oct 2026) is listed; the 20 Oct items are from Al Jazeera and the Jerusalem Post.",
+   "where": "agent 26 The Media Line",
+   "found_verbatim": true
+  },
+  {
+   "quote": "That piece is listed among sources in both the case for a Likud first-place finish and the case against it, alongside Haaretz, the Jerusalem Post, Times of Israel, Jewish Insider, The JC, Al Jazeera and Wikipedia poll tables.",
+   "kind": 4,
+   "problem": "The Media Line is not listed among the sources for the case against Likud. It appears in the case for YES, and in the polls and resolution files.",
+   "source_says": "The sources for the case for NO and risks (file 04) do not include The Media Line.",
+   "where": "agent 26 The Media Line",
+   "found_verbatim": true
+  },
+  {
+   "quote": "i24NEWS remains committed to continuing its polling series through election day, presenting its numbers alongside bloc totals, and positioning itself as an outlet whose projections may prove more accurate than its critics claim.",
+   "kind": 4,
+   "problem": "Implies new polls will keep being published up to election day, but the legal publication ban applies.",
+   "source_says": "The last polls allowed by law were published on 23 October 2026, and no new polls may appear until exit polls at 22:00 on 27 October 2026.",
+   "where": "agent 28 i24NEWS",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Poll aggregator and forecasting-question writer tracking Israel's 4 November 2026 Knesset election.",
+   "kind": 1,
+   "problem": "Wrong election date.",
+   "source_says": "The election is on 27 October 2026. 4 November is only the deadline for publishing official results.",
+   "where": "agent 3 User",
+   "found_verbatim": true
+  },
+  {
+   "quote": "he authored or maintained a forecasting question on whether Likud would win the most seats in the 4 November 2026 election",
+   "kind": 1,
+   "problem": "Wrong election date.",
+   "source_says": "The election is on 27 October 2026.",
+   "where": "agent 3 User",
+   "found_verbatim": true
+  },
+  {
+   "quote": "only seats won by the Likud candidate list itself count as of election day, 4 November 2026",
+   "kind": 1,
+   "problem": "Wrong election day.",
+   "source_says": "Election day is 27 October 2026. 4 November is the eight-day deadline for official results.",
+   "where": "agent 3 User",
+   "found_verbatim": true
+  },
+  {
+   "quote": "even as Netanyahu led the head-to-head preferred-prime-minister question 49% to 41%.",
+   "kind": 4,
+   "problem": "The result is reversed. The source says Eisenkot led Netanyahu, not the other way round.",
+   "source_says": "In Maariv's 23 October 2026 poll, Eisenkot led Netanyahu 49% to 41% as preferred prime minister.",
+   "where": "agent 3 User",
+   "found_verbatim": true
+  },
+  {
+   "quote": "As a result, the Kan poll drew praise from opposition supporters and accusations of bias from some Likud-aligned voices.",
+   "kind": 4,
+   "problem": "Claims a reaction to the Kan poll that the source never mentions; the causal 'as a result' is also invented.",
+   "source_says": "The sources only report the poll figures (Yashar 22, Likud 20). They say nothing about praise or bias accusations.",
+   "where": "agent 30 Kan 11",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The account stands by its published figure of 20 seats for Likud and clarifies that any 19-seat figure circulating online did not come from Kan's 23 October poll.",
+   "kind": 4,
+   "problem": "Describes a clarification by the account that the source does not mention.",
+   "source_says": "The source only gives Kan 11's poll as Yashar 22 and Likud 20. It records no clarification and no circulating 19-seat figure, although Channel 13 had Likud at 19.",
+   "where": "agent 30 Kan 11",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Likud's 17 August primary, which placed Yariv Levin directly behind Netanyahu.",
+   "kind": 4,
+   "problem": "Implies Levin took second place on the list, which the source does not say. He was one of three placed behind Netanyahu.",
+   "source_says": "Eli Cohen, Amir Ohana and Yariv Levin were placed directly behind Netanyahu, with Levin listed last of the three.",
+   "where": "agent 33 Maariv",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Its 23 October 2026 material is listed as a source in a document making the case that Likud would finish first.",
+   "kind": 4,
+   "problem": "Times of Israel is not among the sources of the case-for-YES document; its 23 Oct material appears in the case-for-NO document.",
+   "source_says": "The case-for-YES sources are Haaretz, Jerusalem Post, The Media Line, Jewish Insider, The JC, Al Jazeera and Wikipedia. Times of Israel is listed under the case against Likud.",
+   "where": "agent 35 Times of Israel",
+   "found_verbatim": true
+  },
+  {
+   "quote": "A Times of Israel report dated 19 October 2026 is cited in a summary of the latest seat polls.",
+   "kind": 1,
+   "problem": "The 19 Oct Times of Israel report is cited in the background timeline (Gantz withdrawal), not in the latest-polls summary.",
+   "source_says": "The latest-polls document cites Times of Israel of 23 Oct 2026 only.",
+   "where": "agent 35 Times of Israel",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Its reporting dated 20 October and 23 October 2026 is cited for poll results showing neither the Netanyahu bloc nor the opposition reaching a 61-seat majority.",
+   "kind": 1,
+   "problem": "No Times of Israel report dated 20 Oct is cited for the bloc results.",
+   "source_says": "Only Times of Israel of 23 Oct 2026 is cited in the polls document. The 20 Oct citations are Al Jazeera and Jerusalem Post.",
+   "where": "agent 35 Times of Israel",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Toward election day in early November 2026, the account is focused on turnout, on the balance between Likud and its ideological partners, and on ensuring that national-religious priorities shape the next coalition.",
+   "kind": 1,
+   "problem": "Election day is given as early November 2026, which is the wrong date.",
+   "source_says": "The election is on 27 October 2026.",
+   "where": "agent 36 religious Zionists who voted Likud in 2022",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Polls through 23 and 24 October showed neither bloc reaching 61 seats, and a 23 October poll found Netanyahu preferred as prime minister over his rival by 49% to 41%.",
+   "kind": 4,
+   "problem": "Claims polls on 24 October, but publication was barred after 23 October. Also reverses the preferred-PM result: Eisenkot led Netanyahu 49% to 41%, not the other way round.",
+   "source_says": "The last polls were published on 23 October 2026, with no new polls until the exit polls. Maariv's 23 October poll had Eisenkot ahead of Netanyahu 49% to 41% as preferred PM.",
+   "where": "agent 38 Bennett 2026",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Likud's 17 August 2026 primary, which placed Yariv Levin directly behind Benjamin Netanyahu.",
+   "kind": 4,
+   "problem": "Levin is presented as the one placed directly behind Netanyahu, but the source names three people in that position.",
+   "source_says": "Eli Cohen, Amir Ohana and Yariv Levin were placed directly behind Netanyahu.",
+   "where": "agent 39 Zman Yisrael",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The poll was widely cited as evidence that Likud had lost its long-held position as the largest party and that the race for first place was a dead heat.",
+   "kind": 4,
+   "problem": "The source does not say the poll was widely cited this way. It also does not say Likud lost its position as the largest party, and Likud still held 32 seats at the Knesset dissolution.",
+   "source_says": "The source only reports the 21-21 tie in the Zman Yisrael poll of 30 Sep-1 Oct 2026. Likud was still the largest party with 32 seats on 17 July 2026.",
+   "where": "agent 39 Zman Yisrael",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Its reporting dated 17 July 2026, 18 August 2026 and 7 September 2026 is cited in a compilation of the latest seat polls before the vote.",
+   "kind": 4,
+   "problem": "The JNS articles are not cited in the latest-polls compilation. Their dates (17 Jul, 18 Aug, 7 Sep) are about the dissolution vote, the Likud primary and the list filing.",
+   "source_says": "JNS appears only among the sources of the background timeline file; the latest-polls file cites Haaretz, Times of Israel, Jerusalem Post, Media Line and Wikipedia.",
+   "where": "agent 41 JNS",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The coalition had earlier fixed an election date, but the dissolution reset the timetable.",
+   "kind": 4,
+   "problem": "Claims the dissolution changed the election date, which the source does not say.",
+   "source_says": "The coalition fixed the date on 12 July 2026, and the 17 July dissolution vote set the election for 27 October 2026. No reset is mentioned.",
+   "where": "agent 44 Benjamin Netanyahu",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The 2026 election date was first fixed by the coalition for 12 July 2026, and the campaign has stretched into a decisive autumn finale.",
+   "kind": 1,
+   "problem": "Reads as if the election was set for 12 July 2026. The election is on 27 October 2026, and 12 July is only when the coalition fixed that date.",
+   "source_says": "The coalition fixed the election date on 12 July 2026. The final dissolution vote on 17 July 2026 set the election for 27 October 2026.",
+   "where": "agent 47 Gadi Eisenkot",
+   "found_verbatim": true
+  },
+  {
+   "quote": "It recalls that the coalition at one point set the election date as 12 July 2026, and that the vote was later pushed into the autumn.",
+   "kind": 1,
+   "problem": "12 July 2026 is the day the coalition fixed the election date, not the election date. The vote was never set for July or postponed.",
+   "source_says": "The coalition fixed the date on 12 July 2026, and the 17 July dissolution vote set the election for 27 October 2026.",
+   "where": "agent 48 Israeli voters",
+   "found_verbatim": true
+  },
+  {
+   "quote": "These included Kan 11's poll placing Yashar ahead, Israel Hayom's Kantar poll at 23 to 21, Channel 13's tie at 20 seats, and Maariv's poll showing Eisenkot leading Netanyahu 49% to 41% as preferred prime minister.",
+   "kind": 3,
+   "problem": "The Channel 13 tie at 20 is presented as part of the final week's polls, but it dates from 7 October. Channel 13's 23 October poll had Yashar ahead.",
+   "source_says": "Likud and Yashar tied at 20 on Channel 13 on 7 October 2026. On 23 October Channel 13 had Yashar 22 and Likud 19.",
+   "where": "agent 49 Jerusalem Post",
+   "found_verbatim": true
+  },
+  {
+   "quote": "In the final stretch before election day in early November 2026, the account operates in turnout mode",
+   "kind": 1,
+   "problem": "Election day is placed in early November 2026.",
+   "source_says": "Election day is 27 October 2026.",
+   "where": "agent 5 Together voters",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The account remembers that the coalition had originally fixed the election date as 12 July 2026, and it has repeatedly reminded followers about shifting timelines and the need to stay engaged.",
+   "kind": 1,
+   "problem": "12 July 2026 was the day the coalition fixed the date, not the election date. The source also does not mention any shifting timelines or an original election date.",
+   "source_says": "The coalition fixed the election date on 12 July 2026, and the dissolution vote of 17 July set the election for 27 October 2026.",
+   "where": "agent 5 Together voters",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Channel 14's polls are run by Shlomo Filber, a former Netanyahu campaign aide and director-general of the Communications Ministry, through Direct Polls.",
+   "kind": 4,
+   "problem": "The source never says Channel 14's polls are produced through Direct Polls. It ties Direct Polls to i24NEWS. The Communications Ministry post is also not in the source.",
+   "source_says": "Channel 14's polls are run by Filber, a former Netanyahu campaign aide. Direct Polls is named only for the i24NEWS poll, and no ministry role is mentioned.",
+   "where": "agent 50 Channel 14",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Going forward it will keep publishing polls, covering early voting, diplomatic and soldier ballots counted after the regular count, and the final campaign stretch toward election night.",
+   "kind": 4,
+   "problem": "Claims Walla will keep publishing polls through the final stretch. The law bars new polls after 23 October.",
+   "source_says": "The last polls allowed by law were published on 23 October 2026, and no new polls may appear until the exit polls at 22:00 on 27 October.",
+   "where": "agent 53 Walla",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Polls on preferred prime minister are mixed, including one showing Netanyahu ahead 49% to 41% and Maariv's 23 October poll showing Gadi Eisenkot ahead of Netanyahu 49% to 41%",
+   "kind": 4,
+   "problem": "Claims a preferred-PM poll with Netanyahu ahead 49% to 41%. The source does not mention any such poll, and the 49-41 figure belongs to Eisenkot's lead.",
+   "source_says": "Only Maariv's 23 October poll is mentioned, with Eisenkot leading Netanyahu 49% to 41% as preferred prime minister.",
+   "where": "agent 54 Naftali Bennett",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Israel is heading to Knesset elections set for 4 November 2026, with about 7.3 million eligible voters and soldier early voting having begun on 20 October 2026 at roughly 850 military polling stations.",
+   "kind": 1,
+   "problem": "Wrong election date; 4 November 2026 is the deadline for official results, not the election day.",
+   "source_says": "The election is on 27 October 2026; official results are due by 4 November 2026.",
+   "where": "agent 55 Bezalel Smotrich",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Lazar's Maariv series was consistently among those showing Yashar ahead.",
+   "kind": 4,
+   "problem": "The source gives only one Lazar/Maariv poll (23 Oct 2026). It says nothing about a consistent series or how it compared with other polls.",
+   "source_says": "Only one Maariv/Lazar poll is mentioned, with Yashar 21, Likud 19 and Together 15. Nothing is said about a series or its consistency.",
+   "where": "agent 7 Lazar Research",
+   "found_verbatim": true
+  }
+ ],
+ "errors": []
+}

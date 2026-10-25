@@ -1,0 +1,230 @@
+{
+ "simulation_id": "sim_2bf20bae9cb9",
+ "items": [
+  {
+   "quote": "It expressed concern when US strikes resumed in July 2026, when nightly strikes from 24 to 27 July were followed by attacks on dozens of IRGC targets on 29 and 30 July.",
+   "kind": 2,
+   "problem": "Wrong dates and order: 24-27 July was a US pause, not nightly strikes. The nightly strikes came before it.",
+   "source_says": "Fighting resumed 7-8 July; the US paused 24-27 July after about two weeks of nightly strikes, then hit dozens of IRGC targets on 29-30 July.",
+   "where": "agent 1 Egypt",
+   "found_verbatim": true
+  },
+  {
+   "quote": "where they jointly urged restraint amid reports of a possible Israeli strike on Iran ahead of Israel's 27 October elections.",
+   "kind": 4,
+   "problem": "The source mentions no reports of a possible Israeli strike linked to the Istanbul meeting. The 23 October warning was from US ambassador Barrack about a strike 'this weekend', and the only Israeli plan reported was one Trump had already blocked.",
+   "source_says": "Barrack said a strike this weekend was possible; the FT reported Trump blocked an Israeli plan for the weekend of 10 October; ministers met in Istanbul and urged restraint.",
+   "where": "agent 1 Egypt",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Fighting continued with US strikes on Bandar Abbas in May, nightly strikes in July, attacks on dozens of IRGC targets on 29 and 30 July, and strikes on Larak Island and southern Iran on 30 August and 1 September in response to IRGC mine-laying.",
+   "kind": 2,
+   "problem": "The text follows the July collapse of the memorandum with 'fighting continued' and then lists the May Bandar Abbas strikes, which makes an earlier event look like a later one.",
+   "source_says": "The Bandar Abbas strikes were on 25 May, before the 17 June memorandum and the 7-8 July collapse.",
+   "where": "agent 10 Asim Munir",
+   "found_verbatim": true
+  },
+  {
+   "quote": "A US naval blockade followed, and on 22 October 2026 CENTCOM said it had stopped about 25 billion dollars of Iranian crude exports.",
+   "kind": 2,
+   "problem": "Presents the blockade as coming after the late-July strikes, but it began earlier.",
+   "source_says": "The blockade began on 13 April 2026 and was reinstated on 14 July 2026, before the 24-27 July pause and the 29-30 July strikes.",
+   "where": "agent 11 Israeli forces",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The IDF has since said it is ready to carry out any mission the political echelon assigns.",
+   "kind": 4,
+   "problem": "Stated as fact, but the source does not mention any such IDF statement.",
+   "source_says": "Nothing in the source reports an IDF statement of readiness after Netanyahu's 21 October remarks.",
+   "where": "agent 11 Israeli forces",
+   "found_verbatim": true
+  },
+  {
+   "quote": "U.S. strikes on Larak Island and southern Iran on 30 August responded to IRGC mine-laying and attacks.",
+   "kind": 1,
+   "problem": "Strikes on southern Iran are placed on 30 August, but only the Larak Island strikes fall on that date.",
+   "source_says": "30 August: US strikes on Larak Island rocket launchers. 1 September: US strikes on IRGC air defences, radars, naval and mine-laying sites in southern Iran.",
+   "where": "agent 17 US bases",
+   "found_verbatim": true
+  },
+  {
+   "quote": "It also covered the subsequent naval blockade of Iranian oil.",
+   "kind": 2,
+   "problem": "The blockade is presented as coming after the June memorandum and the July strikes, but it began earlier.",
+   "source_says": "The US naval blockade of Iranian ports began on 13 April 2026, before the 17 June memorandum. It was reinstated on 14 July 2026.",
+   "where": "agent 18 Axios",
+   "found_verbatim": true
+  },
+  {
+   "quote": "That report came days after an amphibious group carrying more than 2,000 Marines sailed on 2 October, amid embassy staff drawdowns in four regional states.",
+   "kind": 2,
+   "problem": "Embassy staff cuts are placed alongside the 2 October sailing and 7 October report, but they came later.",
+   "source_says": "US embassies in four regional states cut staff around 23 October 2026, after the 7 October report.",
+   "where": "agent 19 The Atlantic",
+   "found_verbatim": true
+  },
+  {
+   "quote": "It frames this reporting against later accounts. The Wall Street Journal reported that Trump expects to resume bombing after the midterms.",
+   "kind": 2,
+   "problem": "The WSJ report is called a later account, but it predates the 7 October reporting.",
+   "source_says": "The WSJ reported this on 26 September 2026, before the 7 October Axios/Atlantic reports.",
+   "where": "agent 19 The Atlantic",
+   "found_verbatim": true
+  },
+  {
+   "quote": "the end of a monthlong lull with strikes on Larak Island on 30 August and 1 September (the last reported strike on Iranian territory, per IranWire via Gulf News on 20 October)",
+   "kind": 1,
+   "problem": "The 1 September strikes are placed on Larak Island. Only the 30 August strikes hit Larak.",
+   "source_says": "30 August: US strikes on rocket launchers on Larak Island. 1 September: strikes on IRGC air defences, radars, naval and mine-laying sites in southern Iran.",
+   "where": "agent 24 Tom Barrack",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The remark drew wide international attention, unsettled markets and sparked debate over whether it reflected a policy shift or deliberate pressure.",
+   "kind": 4,
+   "problem": "The source does not mention market reactions, wide international attention or a debate over a policy shift.",
+   "source_says": "It only records that Barrack said a strike this weekend was possible and that Trump and Iranian officials made other statements. It reports no market impact.",
+   "where": "agent 24 Tom Barrack",
+   "found_verbatim": true
+  },
+  {
+   "quote": "In 2026 Iran and the United States are in an armed confrontation under a fragile ceasefire, which President Trump extended on 21 April 2026.",
+   "kind": 3,
+   "problem": "The April ceasefire extension is presented as the current framework, as if a ceasefire were still in force. It was superseded by the June memorandum, the July resumption of fighting and later strikes.",
+   "source_says": "The 21 April extension is old. Fighting resumed on 7-8 July, and as of 24 October there is no signed truce in force, only an uneasy pause.",
+   "where": "agent 28 Ali Abdollahi",
+   "found_verbatim": true
+  },
+  {
+   "quote": "prompting U.S. strikes on Larak Island and naval sites in southern Iran on 30 August and 1 September, after which Iran fired missiles at bases hosting U.S. forces on 31 August.",
+   "kind": 2,
+   "problem": "Wrong order: Iran's 31 August missile fire is described as coming after both strikes, including the 1 September one.",
+   "source_says": "US struck Larak Island on 30 August, Iran fired missiles on 31 August, and the US struck southern Iran on 1 September.",
+   "where": "agent 29 USS Theodore Roosevelt carrier group",
+   "found_verbatim": true
+  },
+  {
+   "quote": "He defends the late August and September 1 strikes on southern Iran as proportionate responses to Iran's August 31 missile fire on U.S.-hosting bases.",
+   "kind": 2,
+   "problem": "Wrong order: the late-August (30 Aug) Larak strikes came before Iran's 31 Aug missile fire, so they cannot have been a response to it.",
+   "source_says": "30 Aug US strikes on Larak Island; Iran fired missiles on 31 Aug; US strikes on 1 Sept.",
+   "where": "agent 30 Pete Hegseth",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The meeting reaffirmed the ironclad U.S.-Israel alliance, coordinated on the post-strike security environment, the blockade and Iranian missile threats, and signaled joint readiness should the ceasefire collapse.",
+   "kind": 4,
+   "problem": "The source does not say what was discussed or signaled at the meeting. It also implies a ceasefire is in force, but there is no signed truce.",
+   "source_says": "Hegseth only met Netanyahu in Israel on 19 Oct; no content is given, and no signed truce is in force.",
+   "where": "agent 30 Pete Hegseth",
+   "found_verbatim": true
+  },
+  {
+   "quote": "On 23 October, Ambassador Tom Barrack said a strike before the end of October was 'absolutely' possible",
+   "kind": 4,
+   "problem": "Barrack's remark is widened from a strike 'this weekend' to a strike any time before the end of October.",
+   "source_says": "Barrack was asked 'Could there be a strike this weekend?' and answered 'Absolutely.'",
+   "where": "agent 33 amphibious group",
+   "found_verbatim": true
+  },
+  {
+   "quote": "In July, U.S. forces conducted roughly two weeks of nightly strikes, continuing through 24 to 27 July, then paused briefly before hitting dozens of IRGC targets on 29 and 30 July 2026.",
+   "kind": 2,
+   "problem": "Puts the 24-27 July pause inside the period of nightly strikes. The strikes came before the pause.",
+   "source_says": "On 24-27 July the US paused after about two weeks of nightly strikes, then hit dozens of IRGC targets on 29-30 July.",
+   "where": "agent 37 US strikes",
+   "found_verbatim": true
+  },
+  {
+   "quote": "and further US strikes on naval sites and radars in southern Iran on 30 August and 1 September, after which Iran fired missiles at US-hosting bases on 31 August.",
+   "kind": 2,
+   "problem": "Wrong order. Iran's missile fire on 31 August came before the 1 September strikes, so it cannot have followed both. The 30 August strikes also hit rocket launchers on Larak Island, not naval sites and radars.",
+   "source_says": "30 August: US strikes on Larak Island rocket launchers; Iran fired missiles on 31 August; 1 September: US strikes on IRGC air defences, radars, naval and mine-laying sites.",
+   "where": "agent 38 US official",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Since spring 2026, Marines have been part of the U.S. posture supporting the blockade and deterrence against IRGC maritime threats, including mine-laying boats.",
+   "kind": 4,
+   "problem": "The text states Marine involvement in the blockade since spring as fact. The source does not mention it.",
+   "source_says": "The only Marine reference is the amphibious group with 2,000+ Marines that had sailed by 2 October 2026. Nothing says Marines took part in the blockade or in operations since spring.",
+   "where": "agent 39 Marines",
+   "found_verbatim": true
+  },
+  {
+   "quote": "That policy currently pairs a stated preference for diplomacy and the US-Iran ceasefire, mediated by Pakistan, in effect from 8 April 2026, and extended by President Donald Trump on 21 April 2026, with firm deterrence against Iranian threats to U.S. personnel, partners, and freedom of navigation.",
+   "kind": 2,
+   "problem": "Presents the April ceasefire as the current policy and in effect, though it was overtaken by later events (strikes in May, the June memorandum, fighting resumed in July, strikes in late August and September).",
+   "source_says": "No signed truce is in force as of 24 October 2026. The April ceasefire and its 21 April extension were followed by US strikes and renewed fighting, and Trump called the Islamabad Memorandum 'over' in July.",
+   "where": "agent 40 US embassies",
+   "found_verbatim": true
+  },
+  {
+   "quote": "These were the last US strikes on Iranian territory in 2026.",
+   "kind": 4,
+   "problem": "Stated as a settled fact for the whole year, although the source only reports that no US strike has been confirmed since 1 September as of late October.",
+   "source_says": "Gulf News/IranWire reported 1 September 2026 as the last US strike on Iranian territory (as of 20 October), and US strikes are still possible before 31 October.",
+   "where": "agent 42 US warships",
+   "found_verbatim": true
+  },
+  {
+   "quote": "A period of nightly strikes from 24 to 27 July was followed by strikes on dozens of IRGC targets on 29 and 30 July.",
+   "kind": 2,
+   "problem": "Wrong order/dates: 24-27 July was a pause, not the nightly strikes, which came before it.",
+   "source_says": "On 24-27 July the US paused after about two weeks of nightly strikes, then hit dozens of IRGC targets on 29-30 July.",
+   "where": "agent 45 Pew poll",
+   "found_verbatim": true
+  },
+  {
+   "quote": "Iranian media reported strikes at Konarak on 9 July, and Trump declared the memorandum \"over\".",
+   "kind": 2,
+   "problem": "Wrong order: Trump's declaration is placed after the 9 July reports. The reports are also presented as fact, although a US official denied them.",
+   "source_says": "Fighting resumed on 7-8 July and Trump called the memorandum \"over\" then. The 9 July Iranian media reports of strikes at Bushehr and Konarak were denied by a US official.",
+   "where": "agent 48 Iranian president",
+   "found_verbatim": true
+  },
+  {
+   "quote": "On 22 October, CENTCOM said the blockade would stay as leverage without strikes.",
+   "kind": 4,
+   "problem": "CENTCOM is credited with a statement the source does not contain. The \"lever without strikes\" wording is the source's own commentary.",
+   "source_says": "CENTCOM said the blockade had stopped about $25 billion of Iranian crude exports. It did not say the blockade would stay as leverage without strikes.",
+   "where": "agent 48 Iranian president",
+   "found_verbatim": true
+  },
+  {
+   "quote": "The government cited this as proof of continued American aggression despite the lull.",
+   "kind": 4,
+   "problem": "The source does not say the government cited the Konarak claim as proof of US aggression. The text also omits that a US official denied it the same day and that nobody confirmed it independently.",
+   "source_says": "A US official denied the Konarak report on 19 October, and it was not independently confirmed. No US strike on Iranian land has been confirmed since 1 September.",
+   "where": "agent 49 Iran's government",
+   "found_verbatim": true
+  },
+  {
+   "quote": "A US naval blockade followed, which CENTCOM says has stopped about 25 billion dollars of Iranian crude exports, and the container ship GFS Pride sank after an IRGC strike on 15 October.",
+   "kind": 2,
+   "problem": "The blockade is placed after the late-August and early-September clashes, but it started well before them.",
+   "source_says": "The US naval blockade began on 13 April 2026 and was reinstated on 14 July 2026, both before the 30 August and 1 September strikes.",
+   "where": "agent 5 Grossi",
+   "found_verbatim": true
+  },
+  {
+   "quote": "On 9 July 2026, during the period of blockade and fragile ceasefire, Iranian media reported strikes at Bushehr and Konarak, a coastal town in Sistan and Baluchestan near Chabahar with military and naval facilities.",
+   "kind": 2,
+   "problem": "Describes 9 July as a time of ceasefire and blockade, but fighting had already resumed.",
+   "source_says": "Fighting resumed on 7-8 July and Trump called the memorandum 'over'. The blockade was reinstated on 14 July, after 9 July.",
+   "where": "agent 51 Iranian media",
+   "found_verbatim": false
+  },
+  {
+   "quote": "On 22 October CENTCOM stated that the blockade had stopped about $25 billion in Iranian crude exports and could remain a lever without strikes.",
+   "kind": 4,
+   "problem": "The text attributes to CENTCOM a statement that the blockade could remain a lever without strikes.",
+   "source_says": "CENTCOM only said the blockade had stopped about $25 billion of Iranian crude exports. The 'lever without strikes' wording is the source's own framing in the case for YES.",
+   "where": "agent 7 Washington",
+   "found_verbatim": true
+  }
+ ],
+ "errors": []
+}

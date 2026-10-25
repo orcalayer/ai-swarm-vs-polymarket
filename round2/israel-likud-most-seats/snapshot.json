@@ -1,0 +1,23 @@
+{
+ "market_id": "2100981",
+ "taken_at_utc": "2026-10-24T11:29:02Z",
+ "polymarket": {
+  "question": "Will Likud win the most seats in the 2026 Israeli legislative election?",
+  "end_date": "2026-10-28T03:59:00Z",
+  "closed": false,
+  "price_yes": 0.305,
+  "price_no": 0.695,
+  "best_bid": 0.3,
+  "best_ask": 0.31,
+  "last_trade_price": 0.3,
+  "volume": 734393.3820569998,
+  "volume_24h": 22809.568388,
+  "liquidity": 390360.7164
+ },
+ "orcalayer_smart_money": {
+  "smart_wallets_yes": 43,
+  "smart_wallets_no": 130,
+  "smart_wallets_yes_pct": 24.9,
+  "smart_money_dollars_yes_pct": 29.4
+ }
+}

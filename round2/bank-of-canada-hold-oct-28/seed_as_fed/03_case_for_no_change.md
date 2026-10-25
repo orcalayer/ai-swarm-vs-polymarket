@@ -1,0 +1,7 @@
+# The case for holding at 2.25% on 28 October 2026
+
+Underlying inflation was soft in the CPI report of 19 October 2026: CPI-trim was 1.8% and CPI-median 1.9%, both below 2%, and CPI excluding gasoline was 2.2%. Headline CPI of 3.1% came in under the 3.2% consensus, and BMO's Douglas Porter said on 19 October 2026 the report "does nothing to advance the case for interest rate hikes".
+
+Employment fell 42,000 in August and 68,000 in September, per the survey of 9 October 2026, and unemployment rose to 6.5%. In deliberations before the 2 September 2026 decision, the Governing Council judged the economy still in excess supply and saw little evidence that gasoline costs were passing through to other prices. On 21 September 2026 Governor Tiff Macklem said that if new US tariffs stay, fourth-quarter growth "could be roughly halved" to below 1%.
+
+After the 19 October 2026 CPI release, TD's Leslie Preston said the data "supports our view that the Bank of Canada can remain on hold this year". On 19 October 2026, Sherry Cooper (Dominion Lending), Peter Shannon (KPMG) and RBC also expected no move. CIBC's Andrew Grantham said on 19 October 2026 policymakers have time before raising rates, though a first hike could come before the January 2027 he had forecast. Standard Chartered (20 October 2026) and Continuum Economics (21 October 2026) also expected a hold, and RBC still did on 22 October 2026. In the Reuters poll of 21-23 October 2026, 15 of 34 economists did not forecast a hike.

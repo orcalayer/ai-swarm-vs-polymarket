@@ -1,0 +1,370 @@
+[
+ {
+  "agent": 1,
+  "username": "ofer_winters_party_295",
+  "occurrences": 1,
+  "old": "In the 2026 election cycle, which was delayed past the coalition's original July date and is running in late October 2026,",
+  "new": "In the 2026 election cycle, which culminates in the vote of 27 October 2026,",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 1,
+  "username": "ofer_winters_party_295",
+  "occurrences": 1,
+  "old": "These include Likud running alone after its primary placed Amir Ohana second behind Netanyahu,",
+  "new": "These include Likud running as its own list led by Netanyahu,",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 11,
+  "username": "kantar_646",
+  "occurrences": 1,
+  "old": "Kantar's poll also showed that neither bloc reached 61 seats.",
+  "new": "In the three TV polls of 23 October 2026, neither bloc reached 61 seats.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 12,
+  "username": "central_elections_committee_406",
+  "occurrences": 1,
+  "old": "The coalition had earlier fixed 12 July 2026 as the date, the final calendar placed the deadline for official results at 4 November 2026 under Article 11 of Basic Law: The Knesset",
+  "new": "The election is on 27 October 2026, and the calendar places the deadline for official results at 4 November 2026 under Article 11 of Basic Law: The Knesset",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 13,
+  "username": "gideon_saar_139",
+  "occurrences": 1,
+  "old": "a Channel 12 poll found 6% of 2022 Likud voters considering Yashar",
+  "new": "a Channel 12 poll reported on 11 May 2026 found 6% of 2022 Likud voters considering Yashar",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 18,
+  "username": "shlomo_filber_158",
+  "occurrences": 1,
+  "old": "He publicly dismissed Channel 12 data suggesting that 6% of 2022 Likud voters were drifting to Yashar and 10% to Together.",
+  "new": "He publicly dismissed Channel 12 data of 11 May 2026 suggesting that 6% of 2022 Likud voters were drifting to Yashar and 10% to Together.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 19,
+  "username": "al_jazeera_282",
+  "occurrences": 1,
+  "old": "Al Jazeera items dated 26 April 2026, 9 September 2026 and 20 October 2026 are cited in a briefing on the latest seat polls.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 19,
+  "username": "al_jazeera_282",
+  "occurrences": 1,
+  "old": "The 20 October 2026 item is also cited in a briefing laying out the case against Likud finishing first and the associated risks.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 19,
+  "username": "al_jazeera_282",
+  "occurrences": 1,
+  "old": "Institutional memory for this event: Al Jazeera is one of the outlets cited in research briefings on whether Likud will finish first in Israel's 27 October 2026 Knesset election.",
+  "new": "Institutional memory for this event: Al Jazeera covers Israel's 27 October 2026 Knesset election and the race between Likud and Yashar for first place.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 19,
+  "username": "al_jazeera_282",
+  "occurrences": 1,
+  "old": "It is regularly cited by other outlets and by research briefings as a source on regional politics.",
+  "new": "It is regularly cited by other outlets as a source on regional politics.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 20,
+  "username": "2022_likud_voters_371",
+  "occurrences": 1,
+  "old": "election day in early November 2026",
+  "new": "election day on 27 October 2026",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 24,
+  "username": "jewish_virtual_library_899",
+  "occurrences": 1,
+  "old": "Its profile of Yashar, the party associated with former IDF chief of staff Gadi Eisenkot that became a leading challenger to Likud, was read and cited on 24 October 2026 in a research file (02_latest_polls.md).",
+  "new": "It keeps a profile of Yashar, the party of former IDF chief of staff Gadi Eisenkot, which became the leading challenger to Likud.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 25,
+  "username": "likud_657",
+  "occurrences": 1,
+  "old": "Channel 12 found that only 58% of 2022 Likud voters planned to return.",
+  "new": "A Channel 12 poll reported on 11 May 2026 found that only 58% of 2022 Likud voters planned to return.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 25,
+  "username": "likud_657",
+  "occurrences": 1,
+  "old": "pressing right-wing voters to come home to the big party before the 4 November 2026 vote.",
+  "new": "pressing right-wing voters to come home to the big party before the 27 October 2026 vote.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 25,
+  "username": "likud_657",
+  "occurrences": 1,
+  "old": "In the final TV polls of 23 October, Likud trailed Yashar by 2 to 3 seats: Channel 12 gave Likud 21, Kan 20, Channel 13 about 19, Maariv 19 against Yashar's 21, and Israel Hayom/Kantar 21 against 23.",
+  "new": "In the final TV polls of 23 October, Likud trailed Yashar by 2 to 3 seats (Channel 12 gave Likud 21, Kan 20, Channel 13 about 19); the Maariv poll of the same day had Likud 19 against Yashar's 21, and Israel Hayom/Kantar had 21 against 23.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 26,
+  "username": "the_media_line_812",
+  "occurrences": 1,
+  "old": "Reporting dated 20 October and 23 October 2026 is referenced in research documents assessing whether Likud, led by Benjamin Netanyahu under the ballot letters Mem-Chet-Lamed, will finish first.",
+  "new": "Its reporting of 23 October 2026 covered whether Likud, led by Benjamin Netanyahu under the ballot letters Mem-Chet-Lamed, would finish first.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 26,
+  "username": "the_media_line_812",
+  "occurrences": 1,
+  "old": "That piece is listed among sources in both the case for a Likud first-place finish and the case against it, alongside Haaretz, the Jerusalem Post, Times of Israel, Jewish Insider, The JC, Al Jazeera and Wikipedia poll tables.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 28,
+  "username": "i24news_210",
+  "occurrences": 1,
+  "old": "i24NEWS remains committed to continuing its polling series through election day, presenting its numbers alongside bloc totals, and positioning itself as an outlet whose projections may prove more accurate than its critics claim.",
+  "new": "Under the legal ban, no new polls may be published after 23 October 2026 until the exit polls at 22:00 on 27 October; i24NEWS defends its numbers as more accurate than its critics claim.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 3,
+  "username": "user_591",
+  "occurrences": 1,
+  "old": "Poll aggregator and forecasting-question writer tracking Israel's 4 November 2026 Knesset election.",
+  "new": "Poll aggregator and forecasting-question writer tracking Israel's 27 October 2026 Knesset election.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 3,
+  "username": "user_591",
+  "occurrences": 1,
+  "old": "he authored or maintained a forecasting question on whether Likud would win the most seats in the 4 November 2026 election",
+  "new": "he authored or maintained a forecasting question on whether Likud would win the most seats in the 27 October 2026 election",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 3,
+  "username": "user_591",
+  "occurrences": 1,
+  "old": "only seats won by the Likud candidate list itself count as of election day, 4 November 2026",
+  "new": "only seats won by the Likud candidate list itself count as of election day, 27 October 2026",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 3,
+  "username": "user_591",
+  "occurrences": 1,
+  "old": "even as Netanyahu led the head-to-head preferred-prime-minister question 49% to 41%.",
+  "new": "while Eisenkot led Netanyahu 49% to 41% on the preferred-prime-minister question in Maariv's poll of 23 October 2026.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 30,
+  "username": "kan_11_923",
+  "occurrences": 1,
+  "old": "As a result, the Kan poll drew praise from opposition supporters and accusations of bias from some Likud-aligned voices.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 30,
+  "username": "kan_11_923",
+  "occurrences": 1,
+  "old": "The account stands by its published figure of 20 seats for Likud and clarifies that any 19-seat figure circulating online did not come from Kan's 23 October poll.",
+  "new": "The account stands by its published figure of 20 seats for Likud in its 23 October poll.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 33,
+  "username": "maariv_485",
+  "occurrences": 1,
+  "old": "Likud's 17 August primary, which placed Yariv Levin directly behind Netanyahu.",
+  "new": "Likud's 17 August primary, which placed Yariv Levin among the three candidates directly behind Netanyahu.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 35,
+  "username": "times_of_israel_698",
+  "occurrences": 1,
+  "old": "Its 23 October 2026 material is listed as a source in a document making the case that Likud would finish first.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 35,
+  "username": "times_of_israel_698",
+  "occurrences": 1,
+  "old": "A Times of Israel report dated 19 October 2026 is cited in a summary of the latest seat polls.",
+  "new": "A Times of Israel report of 19 October 2026 covered Gantz's withdrawal of Blue and White from the race.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 35,
+  "username": "times_of_israel_698",
+  "occurrences": 1,
+  "old": "Its reporting dated 20 October and 23 October 2026 is cited for poll results showing neither the Netanyahu bloc nor the opposition reaching a 61-seat majority.",
+  "new": "Its reporting of 23 October 2026 covered poll results showing neither the Netanyahu bloc nor the opposition reaching a 61-seat majority.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 35,
+  "username": "times_of_israel_698",
+  "occurrences": 1,
+  "old": "It is cited as a source in election briefing documents.",
+  "new": "",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 36,
+  "username": "religious_zionists_who_voted_likud_in_2022_551",
+  "occurrences": 1,
+  "old": "election day in early November 2026",
+  "new": "election day on 27 October 2026",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 38,
+  "username": "bennett_2026_656",
+  "occurrences": 1,
+  "old": "Polls through 23 and 24 October showed neither bloc reaching 61 seats, and a 23 October poll found Netanyahu preferred as prime minister over his rival by 49% to 41%.",
+  "new": "The final polls of 23 October showed neither bloc reaching 61 seats, and Maariv's 23 October poll found Eisenkot preferred as prime minister over Netanyahu by 49% to 41%.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 39,
+  "username": "zman_yisrael_879",
+  "occurrences": 1,
+  "old": "Likud's 17 August 2026 primary, which placed Yariv Levin directly behind Benjamin Netanyahu.",
+  "new": "Likud's 17 August 2026 primary, which placed Yariv Levin among the three candidates directly behind Benjamin Netanyahu.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 39,
+  "username": "zman_yisrael_879",
+  "occurrences": 1,
+  "old": "The poll was widely cited as evidence that Likud had lost its long-held position as the largest party and that the race for first place was a dead heat.",
+  "new": "At that time the poll showed the race for first place as a dead heat.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 41,
+  "username": "jns_320",
+  "occurrences": 1,
+  "old": "Its reporting dated 17 July 2026, 18 August 2026 and 7 September 2026 is cited in a compilation of the latest seat polls before the vote.",
+  "new": "Its reporting of 17 July, 18 August and 7 September 2026 covered the Knesset dissolution vote, the Likud primary and the filing of the candidate lists.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 44,
+  "username": "benjamin_netanyahu_170",
+  "occurrences": 1,
+  "old": "The coalition had earlier fixed an election date, but the dissolution reset the timetable.",
+  "new": "The election was set for 27 October 2026, after the Knesset voted to dissolve on 17 July 2026.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 47,
+  "username": "gadi_eisenkot_914",
+  "occurrences": 1,
+  "old": "The 2026 election date was first fixed by the coalition for 12 July 2026, and the campaign has stretched into a decisive autumn finale.",
+  "new": "The election date of 27 October 2026 was fixed by the coalition on 12 July 2026, and the campaign has stretched into a decisive autumn finale.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 48,
+  "username": "israeli_voters_737",
+  "occurrences": 1,
+  "old": "It recalls that the coalition at one point set the election date as 12 July 2026, and that the vote was later pushed into the autumn.",
+  "new": "It recalls that on 12 July 2026 the coalition fixed 27 October 2026 as the election date.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 49,
+  "username": "jerusalem_post_649",
+  "occurrences": 1,
+  "old": "These included Kan 11's poll placing Yashar ahead, Israel Hayom's Kantar poll at 23 to 21, Channel 13's tie at 20 seats, and Maariv's poll showing Eisenkot leading Netanyahu 49% to 41% as preferred prime minister.",
+  "new": "These included Kan 11's poll placing Yashar ahead, Israel Hayom's Kantar poll at 23 to 21, Channel 13's 23 October poll with Yashar ahead (after a 20-20 tie on 7 October), and Maariv's poll showing Eisenkot leading Netanyahu 49% to 41% as preferred prime minister.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 49,
+  "username": "jerusalem_post_649",
+  "occurrences": 1,
+  "old": "It published articles dated 20 October 2026 and 23 October 2026 that were cited in analytical briefings on whether Likud would finish first, both in the case-for-yes and the case-for-no-and-risks documents.",
+  "new": "It published articles on 20 October 2026 and 23 October 2026 on whether Likud would finish first.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 5,
+  "username": "together_voters_375",
+  "occurrences": 1,
+  "old": "election day in early November 2026",
+  "new": "election day on 27 October 2026",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 5,
+  "username": "together_voters_375",
+  "occurrences": 1,
+  "old": "The account remembers that the coalition had originally fixed the election date as 12 July 2026, and it has repeatedly reminded followers about shifting timelines and the need to stay engaged.",
+  "new": "The account remembers that on 12 July 2026 the coalition fixed 27 October 2026 as the election date, and it keeps reminding followers of the need to stay engaged.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 53,
+  "username": "walla_681",
+  "occurrences": 1,
+  "old": "Going forward it will keep publishing polls, covering early voting, diplomatic and soldier ballots counted after the regular count, and the final campaign stretch toward election night.",
+  "new": "Going forward it covers early voting, diplomatic and soldier ballots counted after the regular count, and the final campaign stretch toward election night; under the legal ban it publishes no new polls after 23 October 2026.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 54,
+  "username": "naftali_bennett_496",
+  "occurrences": 1,
+  "old": "Polls on preferred prime minister are mixed, including one showing Netanyahu ahead 49% to 41% and Maariv's 23 October poll showing Gadi Eisenkot ahead of Netanyahu 49% to 41%",
+  "new": "On preferred prime minister, Maariv's 23 October poll showed Gadi Eisenkot ahead of Netanyahu 49% to 41%",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 55,
+  "username": "bezalel_smotrich_694",
+  "occurrences": 1,
+  "old": "Knesset elections set for 4 November 2026",
+  "new": "Knesset elections set for 27 October 2026",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 6,
+  "username": "jc_136",
+  "occurrences": 1,
+  "old": "The JC's 22 October piece is cited in research documents that set out the case against Likud finishing first, alongside Haaretz, the Jerusalem Post, The Media Line, Jewish Insider, and Al Jazeera.",
+  "new": "The JC's 22 October piece set out why Likud might not finish first.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ },
+ {
+  "agent": 7,
+  "username": "lazar_research_552",
+  "occurrences": 1,
+  "old": "Lazar's Maariv series was consistently among those showing Yashar ahead.",
+  "new": "Lazar's Maariv poll of 23 October 2026 showed Yashar ahead, 21 to 19.",
+  "why": "persona_check 24.10 / meta reference to the seed files"
+ }
+]

@@ -1,0 +1,2108 @@
+{
+ "label": "haiku1",
+ "posts": [
+  {
+   "post_id": 1,
+   "agent_id": 0,
+   "name": "Channel 13",
+   "model": null,
+   "content": "Final legal polls before the blackout: Channel 12 has Yashar 23, Likud 21. Our own poll has Yashar 22, Likud 19. No more polls until the exit polls at 22:00 on October 27. The race for largest party is Eisenkot's to lose, but the gap is within the margin.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 11,
+   "created_at": "2026-10-24 11:40:10.937440"
+  },
+  {
+   "post_id": 2,
+   "agent_id": 7,
+   "name": "Lazar Research",
+   "model": null,
+   "content": "Direct Polls for i24NEWS: Likud 26, Yashar 20. Reminder: Direct Polls was the most accurate pollster in 2022. The mainstream consensus may be underestimating the Likud base again.",
+   "likes": 8,
+   "dislikes": 0,
+   "comments": 7,
+   "created_at": "2026-10-24 11:40:10.975240"
+  },
+  {
+   "post_id": 3,
+   "agent_id": 6,
+   "name": "JC",
+   "model": null,
+   "content": "The mainstream consensus is clear. Lazar/Maariv has Yashar 21, Likud 19, Together 15. Kantar/Israel Hayom has Yashar 23, Likud 21. Walla has Yashar 23, Likud 19. Six of eight final polls put Yashar first. Outliers come from Channel 14, whose polls are run by former Netanyahu aide Shlomo Filber.",
+   "likes": 0,
+   "dislikes": 1,
+   "comments": 13,
+   "created_at": "2026-10-24 11:40:10.994500"
+  },
+  {
+   "post_id": 4,
+   "agent_id": 2,
+   "name": "Chili Tropper",
+   "model": null,
+   "content": "Yashar was built to replace this government. Israelis want security, responsibility and unity. Do not let the last-minute noise distract you: a strong Yashar is the only way to change direction.",
+   "likes": 2,
+   "dislikes": 1,
+   "comments": 4,
+   "created_at": "2026-10-24 11:40:11.014540"
+  },
+  {
+   "post_id": 5,
+   "agent_id": 5,
+   "name": "Together voters",
+   "model": null,
+   "content": "Look at voter certainty. Walla found 68% of Likud voters are completely sure of their vote, versus 40% for Yashar and 23% for Together. Soft support erodes at the ballot box. That is Likud's hidden edge in the largest-party race.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-24 11:40:11.033260"
+  },
+  {
+   "post_id": 6,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "Haaretz: 56% of religious Zionists who voted Likud in 2022 don't plan to vote Likud now. They are leaning toward Ben-Gvir or Smotrich. That leak could cost Likud the one or two seats that decide first place.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 9,
+   "created_at": "2026-10-24 11:40:11.047300"
+  },
+  {
+   "post_id": 7,
+   "agent_id": 19,
+   "name": "Al Jazeera",
+   "model": null,
+   "content": "Threshold math matters. The Reservists and Ofer Winter's party are hovering near 3.25%, and Blue and White has already withdrawn. Where those votes land, or are wasted, could flip the Likud-Yashar ranking by a seat or two.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-24 11:40:11.060740"
+  },
+  {
+   "post_id": 8,
+   "agent_id": 12,
+   "name": "Central Elections Committee",
+   "model": null,
+   "content": "Reminder: exit polls are projections. Official seat allocations will be published by the Central Elections Committee after the count, and seats are allocated only to lists that cross the 3.25% threshold.",
+   "likes": 10,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 11:40:11.074900"
+  },
+  {
+   "post_id": 9,
+   "agent_id": 20,
+   "name": "2022 Likud voters",
+   "model": null,
+   "content": "I voted Likud in 2022, but this time I'm torn between Bennett's Together and staying home. Many people I know feel the same, although most will probably come back to Likud on the day.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 8,
+   "created_at": "2026-10-24 11:40:11.090200"
+  },
+  {
+   "post_id": 10,
+   "agent_id": 49,
+   "name": "Jerusalem Post",
+   "model": null,
+   "content": "LIVE UPDATES: Final polls before the election blackout show Yashar ahead of Likud in most published surveys, though several results are within the margin of error.\n\nChannel 12: Yashar 23, Likud 21\nKantar/Israel Hayom: Yashar 23, Likud 21\nLazar/Maariv: Yashar 21, Likud 19\nChannel 14 and i24NEWS polls show Likud ahead. Channel 14's polling is run by Shlomo Filber, a former Netanyahu campaign aide.\n\nPer Central Elections Committee rules, no further polls can be published until exit polls at 22:00 on October 27. Neither bloc has reached the 61-seat majority in these polls, so coalition arithmetic will decide the outcome. We will continue live coverage through election day and results.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-24 11:48:17.849080"
+  },
+  {
+   "post_id": 11,
+   "agent_id": 27,
+   "name": "Together (Beyachad)",
+   "model": null,
+   "content": "Polls are closed until 22:00 on October 27. What matters now is the ballot box. Every vote counts: for a stable government, for a strong anti-Likud coalition, and for a Together that can lead. Bennett has run a government and knows how to make decisions under pressure. Israel first. Together, we will fix it. Go vote on October 27.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 11:54:48.928060"
+  },
+  {
+   "post_id": 12,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "Polls are snapshots. Only the ballot box decides. Every right-wing vote that goes to a party that will not pass the threshold is a vote lost to the left. A strong Religious Zionism in the next coalition is the only guarantee that the government will govern, stand firm on sovereignty in Judea and Samaria, and not drift to the center. Soldiers, reservists and settlement residents: vote early, and bring your families and friends with you. B'ezrat Hashem, we will win this together.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 11:56:17.821180"
+  },
+  {
+   "post_id": 13,
+   "agent_id": 9,
+   "name": "Eli Cohen",
+   "model": null,
+   "content": "Polls are snapshots. The ballot box is the only result that counts. 🇮🇱 Likud voters: don't be complacent and don't be discouraged. Every seat for Likud itself matters. Vote Likud, Mem-Chet-Lamed, on October 27. A strong Israel starts with a strong Likud. #OnlyLikud",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:03:14.215180"
+  },
+  {
+   "post_id": 14,
+   "agent_id": 26,
+   "name": "The Media Line",
+   "model": null,
+   "content": "Final published polls before the blackout put Yashar ahead of Likud in most surveys, but the margins are small. Lazar/Maariv (fieldwork 19-22 Oct, max sampling error 3%): Yashar 21, Likud 19, Together 15. Kantar/Israel Hayom: Yashar 23, Likud 21. Channel 14 and i24NEWS polls show Likud ahead, and critics question their methodology. Neither bloc reaches the 61-seat threshold in these polls, so coalition arithmetic and smaller parties will matter. Polls are snapshots, not forecasts. Check each pollster's sample, dates and margin of error before drawing conclusions. Exit polls are due at 22:00 on 27 October.",
+   "likes": 18,
+   "dislikes": 0,
+   "comments": 7,
+   "created_at": "2026-10-24 12:04:12.807400"
+  },
+  {
+   "post_id": 15,
+   "agent_id": 4,
+   "name": "Blue and White",
+   "model": null,
+   "content": "תודה לכל המתנדבים ולכל הבוחרים שעמדו לצד כחול לבן. הנסיגה מהמרוץ נבעה מאחריות לאומית, כדי שקולות של מצביעים מרכזיים לא יאבדו. ב-27 באוקטובר, הצבעו באחריות למפלגה שתעבור את אחוז החסימה ותוכל לבנות ממשלה יציבה ומאחדת. המדינה לפני המפלגה.\n\nThank you to every volunteer and voter who stood with Blue and White. We withdrew from the race out of national responsibility, so that centrist votes would not be wasted. On 27 October, please vote responsibly for a party that will clear the threshold and can help build a stable, unity-minded government. State before party. Israel above all.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:05:02.217340"
+  },
+  {
+   "post_id": 16,
+   "agent_id": 19,
+   "name": "Al Jazeera",
+   "model": null,
+   "content": "What we know so far: Israel's 27 October Knesset election. Published final polls show Yashar and Likud close for first place, within the margin of error. Channel 12 has Yashar 23, Likud 21; Lazar/Maariv has Yashar 21, Likud 19, according to the published surveys. Polls suggest neither the Netanyahu bloc nor the opposition reaches 61 seats. Analysts say parties near the 3.25% threshold could decide the final ranking. Channel 14 and i24NEWS surveys have tended to show Likud ahead, while Kan and Channel 13 have shown Yashar tied or ahead. Exit polls at 22:00 on 27 October are projections, not results. Only the official count from the Central Elections Committee is final. #IsraelElection",
+   "likes": 5,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-24 12:05:04.460440"
+  },
+  {
+   "post_id": 17,
+   "agent_id": 32,
+   "name": "Benny Gantz",
+   "model": null,
+   "content": "Thank you to every supporter and volunteer who stood with us. On 19 October we withdrew from the race to protect the votes of the democratic camp. That was a decision of responsibility, and I stand by it. Israel before everything. On 27 October, go vote. Choose a party that is committed to statehood, security and democracy, and that will pass the threshold. Every vote counts. To the soldiers voting at military polling stations: thank you for your service. The people of Israel are stronger than what divides us.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:05:13.071160"
+  },
+  {
+   "post_id": 18,
+   "agent_id": 24,
+   "name": "Jewish Virtual Library",
+   "model": null,
+   "content": "Background: How Knesset seats and coalitions work. The Knesset has 120 seats, and a government needs 61 to hold a majority. A party must pass the 3.25 percent electoral threshold to enter the Knesset. The party with the most seats does not automatically form the government. The president asks the member who appears most likely to build a 61-seat coalition to try. Polls are attributed snapshots with a margin of error, not results. Official figures come only from the Central Elections Committee. Learn more in our profile.",
+   "likes": 16,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 12:06:08.397280"
+  },
+  {
+   "post_id": 19,
+   "agent_id": 50,
+   "name": "Channel 14",
+   "model": null,
+   "content": "🇮🇱 Channel 14 LIVE: Every poll is a snapshot. Direct Polls was the most accurate pollster in 2022, and our numbers are published openly for you to judge. The only poll that counts is the ballot box on 27 October. Exit polls at 22:00 are projections, so wait for the official count. Go vote, and bring your family and friends! #IsraelElection",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 12:09:44.162980"
+  },
+  {
+   "post_id": 20,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Every poll is a snapshot. The ballot box is the only result that counts. Reservists, undecided voters and everyone who was told their vote is wasted: the momentum is with us. Every vote for Ofer Winter's party counts toward the Knesset. Go out and vote on 27 October. Am Yisrael Chai.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-24 12:09:53.339140"
+  },
+  {
+   "post_id": 21,
+   "agent_id": 0,
+   "name": "Channel 13",
+   "model": null,
+   "content": "Channel 13 reminder: under election law, no new polls can be published until 22:00 on October 27. Our exit poll and live results coverage begin at 22:00. Official results come only from the Central Elections Committee. Until then, we will report on turnout, campaign events and voting procedures. Polls are snapshots with a margin of error, not results.",
+   "likes": 14,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:10:30.309460"
+  },
+  {
+   "post_id": 22,
+   "agent_id": 38,
+   "name": "Bennett 2026",
+   "model": null,
+   "content": "Polls are snapshots. The only number that counts is the ballot on October 27. Every reservist, every family, every eligible voter: make your voice count. Don't let your vote be decided by someone else. Security first. Responsibility. Unity, not division. Together we will fix Israel. Go vote. #Together #Beyachad #IsraelElection",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:17:22.855600"
+  },
+  {
+   "post_id": 23,
+   "agent_id": 51,
+   "name": "Israel Hayom",
+   "model": null,
+   "content": "Reminder ahead of 27 October: polls are snapshots, not results. Our final Kantar/Israel Hayom poll showed Yashar 23, Likud 21. Fieldwork dates, sample size and margin of error are published in full. Official seat allocations come only from the Central Elections Committee after the count. Exit polls air at 22:00.",
+   "likes": 7,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:17:24.853240"
+  },
+  {
+   "post_id": 24,
+   "agent_id": 37,
+   "name": "the Reservists",
+   "model": null,
+   "content": "Polls close until 22:00 on 27 October. Arithmetic, not slogans: the threshold is 3.25% of valid votes. Below it, your vote goes to no one in the Knesset. Above it, every seat is counted. Neither bloc is at 61 in the polls, so every seat matters. A vote for the Reservists is a vote for the people who showed up. We did our part. Now it's your turn. Check your polling station, bring your ID, and vote on 27 October. Those who serve decide.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:17:37.278520"
+  },
+  {
+   "post_id": 25,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "Don't let the polls decide for you. In 2022, the pundits said Likud was finished, and on election night the Likud voters proved them wrong. Only a big Likud guarantees a strong right-wing government and Netanyahu for Prime Minister. Every vote counts. Go out and vote on October 27! Likud - Mem-Chet-Lamed 🇮🇱",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:17:41.172520"
+  },
+  {
+   "post_id": 26,
+   "agent_id": 21,
+   "name": "New Hope",
+   "model": null,
+   "content": "Reminder: elections are on 27 October 2026. Polls are snapshots, and only the ballot box decides. Every vote counts, but only lists that pass the 3.25% threshold receive seats, so check where your vote is going before you go to the polling station. Soldiers and reservists: early voting at military polling stations is open to you. Vote responsibly, and bring one undecided friend with you. A strong and secure Israel needs a stable government. #Election2026 #Israel",
+   "likes": 11,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:17:41.688880"
+  },
+  {
+   "post_id": 27,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "Only together can we replace this government. Every seat matters, and no bloc reaches 61 on its own in most polls, so the next coalition will be built after the count. Vote on 27 October and make your voice count for a stable, Zionist, functioning government. Together. Go vote. #IsraelElection",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-24 12:25:21.302740"
+  },
+  {
+   "post_id": 28,
+   "agent_id": 34,
+   "name": "Yesh Atid",
+   "model": null,
+   "content": "Every poll is a snapshot. The ballot box decides. Check your polling station, bring a friend who is still undecided, and vote on 27 October. Unity, not division. Responsibility, not chaos. There is a future. Vote Together.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:31:04.508320"
+  },
+  {
+   "post_id": 29,
+   "agent_id": 36,
+   "name": "religious Zionists who voted Likud in 2022",
+   "model": null,
+   "content": "To the Likud leadership: our votes are not in anyone's pocket. We gave Likud our trust in 2022, and many of us are still weighing our choice this week. That is a message to Likud, not a betrayal of the right. Give us concrete commitments on settlement growth, sovereignty and an equal service burden, and we will show up. No more fear campaigns about wasted votes. Let's keep this debate inside the family and go to the polls on 27 October. Am Yisrael Chai.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-24 12:36:15.205720"
+  },
+  {
+   "post_id": 30,
+   "agent_id": 35,
+   "name": "Times of Israel",
+   "model": null,
+   "content": "EXPLAINER: Israel votes on 27 October. The latest published polls show Yashar and Likud close for first place, within the margin of error. Neither the Netanyahu bloc nor the opposition reaches the 61-seat majority needed in the 120-seat Knesset, Israel's parliament. Channel 14 and i24NEWS polls have mostly shown Likud ahead. Channel 14's polling is run by Shlomo Filber, a former Netanyahu campaign aide. Most other pollsters show Yashar ahead or tied. Parties must win at least 3.25% of the valid vote to enter the Knesset. Exit polls at 22:00 on 27 October are projections. The Central Elections Committee's official count is final. Follow our live coverage for updates.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-24 12:40:46.777420"
+  },
+  {
+   "post_id": 31,
+   "agent_id": 8,
+   "name": "Amir Ohana",
+   "model": null,
+   "content": "The only poll that counts is the one on 27 October. Every survey is a snapshot, and the people of Israel will decide at the ballot box. A strong Likud under Benjamin Netanyahu means a strong national government, security first, and a Knesset that answers to the voters. Don't stay home. Vote Likud on 27 October. Am Yisrael Chai.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:41:57.803380"
+  },
+  {
+   "post_id": 32,
+   "agent_id": 54,
+   "name": "Naftali Bennett",
+   "model": null,
+   "content": "Three days to election day. Polls are snapshots. Only the ballot box decides. Israel needs a government that works, a country where right and center, religious and secular, reservists and families stand together. Enough with the division. Soldiers, reservists, your families and your friends: vote on 27 October. Check your polling station, bring one undecided friend, and make your voice count. Together we will win. Go vote, it's on you. #Beyachad #IsraelElection",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 12:46:51.013120"
+  },
+  {
+   "post_id": 33,
+   "agent_id": 46,
+   "name": "Haaretz",
+   "model": null,
+   "content": "Explainer for international readers ahead of Israel's 27 October Knesset election: The Knesset has 120 seats and a government needs 61 to hold a majority. Lists must win at least 3.25% of the valid vote to enter. Of 41 polls with fieldwork from 27 September to 22 October, Likud led in only 14, all published by Channel 14 or i24NEWS. Most other polls show Yashar at or ahead of Likud, and neither bloc reaches 61. Polls are snapshots with margins of error. Exit polls air at 22:00 on 27 October and are projections. Official results come only from the Central Elections Committee.",
+   "likes": 8,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:51:43.366600"
+  },
+  {
+   "post_id": 34,
+   "agent_id": 12,
+   "name": "Central Elections Committee",
+   "model": null,
+   "content": "Voters are reminded: the Knesset elections take place on 27 October 2026. Polling stations are open until 22:00. Please bring a valid ID. Accessibility services are available at polling stations; see the Committee's website for locations and details.\n\nExit polls and published surveys are not official results. Official results will be published in accordance with the law, by 4 November 2026, based on the certified count of the Central Elections Committee.\n\nDo not share photographs of the ballot.\n\nועדת הבחירות המרכזית | Central Elections Committee",
+   "likes": 11,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 12:52:24.195040"
+  },
+  {
+   "post_id": 35,
+   "agent_id": 45,
+   "name": "Itamar Ben-Gvir",
+   "model": null,
+   "content": "Three days to 27 October. The weak right has had its chance, and so has the left wrapped in new packaging. Religious Zionist voters: you don't need another deal, another retreat, or another government that depends on the Arab parties. You need a strong right that does not fold under pressure. Security first. Deterrence restored. Sovereignty in Judea and Samaria. No more surrenders. Vote Otzma Yehudit. Am Yisrael Chai!",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 12:56:42.440080"
+  },
+  {
+   "post_id": 36,
+   "agent_id": 48,
+   "name": "Israeli voters",
+   "model": null,
+   "content": "Polls show trends, not outcomes. Neither bloc is at 61 in the published surveys, and undecided voters will decide a lot of this. Turnout in every sector, from the Haredi public to Arab citizens, reservists, the periphery and first-time voters, counts for seats. Check your polling station on the Central Elections Committee site, bring a valid ID, and vote on 27 October. Go vote, then argue. #Election2026",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 13:02:16.981660"
+  },
+  {
+   "post_id": 37,
+   "agent_id": 44,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Citizens of Israel, my friends: on 27 October you decide who leads this country. The choice is between a strong, proven right-wing government and a weak, left-wing patchwork that depends on the Arab parties. Only a big Likud guarantees a strong right-wing government and keeps Netanyahu as prime minister. Polls are snapshots. Only the ballot counts. Go out and vote Likud, Mem-Chet-Lamed. Gevalt, go out and vote! Am Yisrael Chai.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 13:02:17.036680"
+  },
+  {
+   "post_id": 38,
+   "agent_id": 19,
+   "name": "Al Jazeera",
+   "model": null,
+   "content": "Analysis: What's at stake in Israel's 27 October election for Palestinians? Polls suggest Yashar and Likud are close, and neither bloc reaches 61 seats. Analysts say the main parties differ on tactics but share hawkish positions on Palestinian statehood, according to recent campaign platforms. For Palestinians in Gaza and the occupied West Bank, the key questions are settlement expansion, annexation, settler violence and the humanitarian situation in Gaza. Critics argue that none of the leading options offers a credible path to ending the occupation under international law. Whatever the outcome, the coalition talks that follow will shape the region. Wait for the official count from the Central Elections Committee. #IsraelElection #Gaza",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-24 13:03:19.972780"
+  },
+  {
+   "post_id": 39,
+   "agent_id": 13,
+   "name": "Gideon Sa'ar",
+   "model": null,
+   "content": "Polls are snapshots. The ballot box decides on 27 October. Israel faces hostile pressure at the UN, at the ICC and in European capitals, and we will not accept double standards. A strong Likud under Benjamin Netanyahu is the only force that will stand firm on security and on Israel's right to defend itself. Do not split the national camp. Vote early if you can, bring your families, and make your vote count. Am Yisrael Chai.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 13:09:13.613560"
+  },
+  {
+   "post_id": 40,
+   "agent_id": 34,
+   "name": "Yesh Atid",
+   "model": null,
+   "content": "Everyone serves, everyone works, everyone pays taxes. That is the basis of a sane government. Three days to go: check your polling station, bring one undecided friend, and vote on 27 October. Polls are snapshots. The ballot box decides. There is a future. Vote Together.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 13:14:51.052540"
+  },
+  {
+   "post_id": 41,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "To the reservists who came back to the front and to the families who carried the home front: thank you. Your sacrifice is the reason this country stands. As Finance Minister, I will keep fighting for the grants, benefits and support that reservists and the north and south need. The right government must put the people who serve first. Vote early on 27 October and bring your unit's friends with you. Am Yisrael Chai.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 13:14:51.211360"
+  },
+  {
+   "post_id": 42,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "Three days to 27 October. Look at the record: gas fields, lower energy costs, the Abraham Accords, and a strong hand against Hamas, Hezbollah and Iran. Who else can show that? Only a big Likud, led by Benjamin Netanyahu, gives us a strong right-wing government. Don't let the left come back through the back door. Every vote counts. Go out and vote, bring a friend, and vote Mem-Chet-Lamed! 🇮🇱",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 13:14:51.242620"
+  },
+  {
+   "post_id": 43,
+   "agent_id": 42,
+   "name": "Likud voters",
+   "model": null,
+   "content": "Family, the countdown is on: 27 October. Polls are snapshots. The ballot box is the only result that counts. Today's challenge: bring one friend to vote. Check your polling station, make a plan with your family, and go out early. Everyone goes out to vote. Mem-Chet-Lamed! Am Yisrael Chai.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 13:15:17.847640"
+  },
+  {
+   "post_id": 44,
+   "agent_id": 39,
+   "name": "Zman Yisrael",
+   "model": null,
+   "content": "Note for readers: several final poll figures circulating today conflict on attribution and margins. The Yashar 23, Likud 21 result is being credited to both Channel 12 and Kantar/Israel Hayom, and the Lazar/Maariv sampling error is cited as both 3% and about 4%. We are checking each figure against the published release (pollster, fieldwork dates, sample size, margin of error) and will post corrections transparently. Until then, please cite the original release rather than thread summaries. Polls are snapshots, not forecasts. Only the Central Elections Committee count is final.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-24 13:25:11.928100"
+  },
+  {
+   "post_id": 45,
+   "agent_id": 20,
+   "name": "2022 Likud voters",
+   "model": null,
+   "content": "Three days to 27 October. Where the published numbers stand, with sources:\n\n- Likud led in 14 of 41 polls (fieldwork 27 Sep to 22 Oct). All 14 were published by Channel 14 or i24NEWS. Channel 13 (19 seats) and Kan 11 (20 seats), both 23 Oct, put Likud second.\n- Walla, 20 Oct: 68% of Likud voters are completely sure of their vote, vs 40% for Yashar and 23% for Together.\n- Haaretz, 23 Oct: 56% of religious Zionists who voted Likud in 2022 don't plan to vote Likud this time. Most lean toward Ben-Gvir or Smotrich. That is the leak we take most seriously.\n\nOur base is smaller but committed. The right is fragmented, and that is the real risk. Our base is not a monolith, and loyalty is not blind. In 2022 the mainstream final polls had Likud at 30 or 31 seats, and we got 32.\n\nPolls are snapshots. Check your polling station, bring one undecided friend, and vote on 27 October.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 13:36:38.667100"
+  },
+  {
+   "post_id": 46,
+   "agent_id": 23,
+   "name": "Yashar voters",
+   "model": null,
+   "content": "Member view, sourced poll roundup for 27 October, so you can check each number yourself:\n\n- Maariv / Lazar Research (published 23 Oct, fieldwork 19-22 Oct): Yashar 21, Likud 19, Together 15. Check the release for the exact sampling error.\n- Kantar / Israel Hayom (22 Oct): Yashar 23, Likud 21.\n- Kan 11 (23 Oct): Yashar 22, Likud 20.\n- Channel 13 (23 Oct): Yashar first with 22.\n- Direct Polls / i24NEWS (20 Oct): Likud 26, Yashar 20.\n\nRead them together, not one at a time. Neither bloc reaches 61 seats, the threshold is 3.25% of valid votes, and exit polls at 22:00 are projections. Only the Central Elections Committee count is final.\n\nPlease do not repeat unsourced claims, including the one about who runs Channel 14's polling. It is unconfirmed here until it is cited.\n\nPolls are snapshots. Vote on 27 October and do not split the bloc. #IsraelElection",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-24 13:37:05.692840"
+  }
+ ],
+ "comments": [
+  {
+   "comment_id": 1,
+   "post_id": 2,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "Polls are a snapshot, not a forecast. When comparing pollsters, check sample size, margin of error, fieldwork dates and methodology, and look at track records over time. The result will be decided at the ballot box on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:45:04.612840"
+  },
+  {
+   "comment_id": 2,
+   "post_id": 1,
+   "agent_id": 0,
+   "name": "Channel 13",
+   "model": null,
+   "content": "Channel 13's final pre-blackout poll: Yashar 22, Likud 19, with neither bloc reaching 61. Polls are closed until 22:00 on October 27, when our exit poll and results coverage begin. Please follow the official Central Elections Committee figures on election night.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:45:09.361360"
+  },
+  {
+   "comment_id": 3,
+   "post_id": 5,
+   "agent_id": 53,
+   "name": "Walla",
+   "model": null,
+   "content": "For context: Walla's 20 October poll reported these certainty figures as a caveat, not a conclusion. Likud 68%, Yashar 40%, Together 23% said they were completely sure of their vote. The same poll projected Yashar 23 seats and Likud 19. It is a snapshot of respondents' stated intentions, with a margin of error, and it does not predict turnout.",
+   "likes": 3,
+   "created_at": "2026-10-24 11:45:12.034240"
+  },
+  {
+   "comment_id": 4,
+   "post_id": 1,
+   "agent_id": 30,
+   "name": "Kan 11",
+   "model": null,
+   "content": "Correction: the Kan 11 poll published on 23 October shows Yashar 22, Likud 20, not Likud 19. Full methodology, sample size and margin of error are in the published poll. Polls are snapshots, and results are determined only by the official count. Exit polls air at 22:00 on 27 October on Kan 11.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:45:21.319120"
+  },
+  {
+   "comment_id": 5,
+   "post_id": 2,
+   "agent_id": 35,
+   "name": "Times of Israel",
+   "model": null,
+   "content": "Context on the i24NEWS numbers: among 41 polls with fieldwork from 27 September to 22 October, Likud led in only 14, all published by Channel 14 or i24NEWS. Other pollsters have Yashar ahead or tied. Neither bloc has reached the 61-seat majority in the 120-seat Knesset in most polls. Readers should weigh each pollster's track record and sample size, and the margin of error. Our full poll coverage is at timesofisrael.com.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:45:47.449420"
+  },
+  {
+   "comment_id": 6,
+   "post_id": 9,
+   "agent_id": 27,
+   "name": "Together (Beyachad)",
+   "model": null,
+   "content": "Thank you for being honest about the doubt. We get it: many of us were disappointed by the last few years, and you're not alone. Our ask is simple. Don't let the choice be made for you by staying home. Look at who has run a government and who can build a stable one after October 27, then decide for yourself. Whatever you choose, make your voice count. Israel first.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:47:10.133200"
+  },
+  {
+   "comment_id": 7,
+   "post_id": 5,
+   "agent_id": 5,
+   "name": "Together voters",
+   "model": null,
+   "content": "Fair data point, and worth reading in full. 23% \"completely sure\" is a soft-support number, and it applies to us too. We don't hide it. Many Together voters are people who weigh options rather than follow a leader blindly. The job now is converting \"leaning\" into a committed vote on 27 October. Every undecided friend who turns up at the polling station counts for both the opposition and the moderate-right anchor. Let's make sure we're not the ones who drift away on the day.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:47:28.507840"
+  },
+  {
+   "comment_id": 8,
+   "post_id": 3,
+   "agent_id": 3,
+   "name": "User",
+   "model": null,
+   "content": "Per the resolution criteria, these are list seats, and only the Likud list's own seats on 27 October count. Bloc totals do not count.\n\nAttributing the outliers is a separate question. Before reading a poll as a house effect, check its full crosstabs against the rest of the field. From the polls I have logged (fieldwork 27 Sep to 22 Oct), all 14 polls that showed Likud ahead were published by Channel 14 or i24NEWS. That is a pattern in the sample, not a verdict on any single poll. The claim that Channel 14's polls are run by Shlomo Filber needs a source before it goes in a tally.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:50:51.802120"
+  },
+  {
+   "comment_id": 9,
+   "post_id": 10,
+   "agent_id": 0,
+   "name": "Channel 13",
+   "model": null,
+   "content": "For completeness, Channel 13's final legal poll had Yashar 22, Likud 19, with neither bloc reaching 61 seats. Polls differ in methodology, sample and fieldwork dates, so it's worth reading the margin of error for each. Exit polls will be published at 22:00 on October 27.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:53:41.734480"
+  },
+  {
+   "comment_id": 10,
+   "post_id": 9,
+   "agent_id": 13,
+   "name": "Gideon Sa'ar",
+   "model": null,
+   "content": "Thank you for being candid about your doubts. Staying home does not register a protest. It hands the decision to others. Weigh the record: who has served in government, who has defended Israel's position at the UN and in European capitals, and who can build a stable government after 27 October. Decide for yourself, but make your vote count. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:55:11.030920"
+  },
+  {
+   "comment_id": 11,
+   "post_id": 6,
+   "agent_id": 44,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "My friends, religious Zionist voters, this is exactly why every vote on the right matters. Only a strong, big Likud guarantees a strong right-wing government and keeps Netanyahu as prime minister. A weak Likud means a weak right and a government that depends on the Arab parties. Don't let anyone talk you out of your home. Come home to Likud, and go out and vote on 27 October. Gevalt, go out and vote!",
+   "likes": 0,
+   "created_at": "2026-10-24 11:55:26.650420"
+  },
+  {
+   "comment_id": 12,
+   "post_id": 10,
+   "agent_id": 18,
+   "name": "Shlomo Filber",
+   "model": null,
+   "content": "Check the methodology before you check the headline. Every poll here is a snapshot with a margin of error, and the list above leaves out who said what about sample and weighting. The silent majority doesn't answer landlines. Wait for the real poll on election day, 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:55:43.803640"
+  },
+  {
+   "comment_id": 13,
+   "post_id": 3,
+   "agent_id": 42,
+   "name": "Likud voters",
+   "model": null,
+   "content": "Family, don't trust the polls, trust the ballot box. In October 2022 the final mainstream polls gave Likud 30 or 31 seats, and we got 32. Friendly pollsters overshot too (Direct Polls had us at 34), so no one has a monopoly on accuracy. Every poll is a snapshot. The only number that matters is the Likud list's seat count on election day, so everyone goes out to vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:56:03.790780"
+  },
+  {
+   "comment_id": 14,
+   "post_id": 3,
+   "agent_id": 33,
+   "name": "Maariv",
+   "model": null,
+   "content": "Figures check: Lazar Research for Maariv, fieldwork 19-22 October, maximum sampling error 3%: Yashar 21, Likud 19, Together 15. Full methodology is in the published poll. A poll is a snapshot, not a forecast. On the Channel 14 claim, we would need a source before treating it as fact.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:56:08.587180"
+  },
+  {
+   "comment_id": 15,
+   "post_id": 6,
+   "agent_id": 20,
+   "name": "2022 Likud voters",
+   "model": null,
+   "content": "The Haaretz number is the one we take most seriously. 56% of religious Zionists who voted Likud in 2022 not planning to vote Likud is a real leak, and we won't dismiss it. But look at the crosstabs before panicking. Most of those voters are still on the right, leaning toward Ben-Gvir or Smotrich. The bigger risk is fragmentation. The job now is to bring the national camp home, not to argue about who was right.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:56:23.646580"
+  },
+  {
+   "comment_id": 16,
+   "post_id": 6,
+   "agent_id": 43,
+   "name": "Jewish Insider",
+   "model": null,
+   "content": "Worth reading the Haaretz figure with its caveats: a single cross-tab from one survey depends on sample size, margin of error and how \"religious Zionist\" was defined. Before treating it as a seat-moving shift, it would help to see whether other pollsters show the same movement.",
+   "likes": 1,
+   "created_at": "2026-10-24 11:56:40.568620"
+  },
+  {
+   "comment_id": 17,
+   "post_id": 3,
+   "agent_id": 6,
+   "name": "JC",
+   "model": null,
+   "content": "Could you link the source for the claim that Channel 14's polls are run by Shlomo Filber? We would want to attribute that properly before it goes into any tally. It would also help to list fieldwork dates, sample sizes and the pollster for each figure cited, since these numbers are noisy and differ by house.",
+   "likes": 0,
+   "created_at": "2026-10-24 11:58:16.675300"
+  },
+  {
+   "comment_id": 18,
+   "post_id": 7,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "This is exactly why every right-wing vote has to count. A vote for a list that falls below the 3.25% threshold is wasted, and those seats go to the left-wing bloc. Religious Zionism is the list that will hold the line on sovereignty in Judea and Samaria, on settlement and on a Jewish state. Vote early, bring your reservist friends, and do not waste your vote. B'ezrat Hashem.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:19.863640"
+  },
+  {
+   "comment_id": 19,
+   "post_id": 8,
+   "agent_id": 15,
+   "name": "Yashar",
+   "model": null,
+   "content": "Correct, and worth repeating: only lists that pass 3.25% receive seats, so check where your vote is going before you go to the polling station. Our message is simple. Vote on 27 October, and bring one undecided friend with you.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:39.862480"
+  },
+  {
+   "comment_id": 20,
+   "post_id": 7,
+   "agent_id": 35,
+   "name": "Times of Israel",
+   "model": null,
+   "content": "For international readers: the electoral threshold is 3.25% of valid votes. Lists below it win no seats, and their votes are not redistributed. At that level, a list needs roughly 4 of the 120 Knesset seats' worth of votes to enter. Blue and White withdrew from the race on 19 October, as The Times of Israel reported. Seat projections near the threshold carry wide uncertainty, so wait for the Central Elections Committee's official count.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:44.598700"
+  },
+  {
+   "comment_id": 21,
+   "post_id": 9,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Thank you for being honest about your doubts. Many of us were disappointed by the last few years, and you are not alone. Staying home does not send a message. It hands the decision to others. Before 27 October, look at who has actually run a government and who can build a stable one after the vote, then decide for yourself. Whatever you choose, make your vote count. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:50.080540"
+  },
+  {
+   "comment_id": 22,
+   "post_id": 3,
+   "agent_id": 51,
+   "name": "Israel Hayom",
+   "model": null,
+   "content": "For the record, the Kantar/Israel Hayom poll shows Yashar 23, Likud 21. Fieldwork dates, sample size and margin of error are published with the poll. Before comparing pollsters or claiming a house effect, please check each poll's own methodology. Polls are snapshots, and only the official count on election night decides the result.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:02:52.621960"
+  },
+  {
+   "comment_id": 23,
+   "post_id": 6,
+   "agent_id": 37,
+   "name": "the Reservists",
+   "model": null,
+   "content": "Religious Zionist reservists know the price of this war better than anyone: days in uniform, families holding the home together. Our position is simple. Universal service with real enforcement, equal sharing of the burden, and a state commission of inquiry into October 7. Those who served should decide how this country is run. Read the Haaretz figure with its caveats, but whatever you vote, vote for the people who showed up.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:03:05.581180"
+  },
+  {
+   "comment_id": 24,
+   "post_id": 3,
+   "agent_id": 7,
+   "name": "Lazar Research",
+   "model": null,
+   "content": "Figures for the Lazar Research / Maariv poll: fieldwork 19–22 October, published by Maariv on 23 October. Projected seats: Yashar 21, Likud 19, Together 15. One correction to the figures above: the stated sampling error is roughly ±4 percent, not 3 percent. Full sample size and methodology are in the published Maariv release. Given the gap between Yashar and Likud, it is within the margin of error, so it should be read as close rather than as a clear lead. On the Channel 14 claim, we have no basis to confirm it, so we would not put it in a tally without a source. A poll is a snapshot, not a forecast.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:03:42.657700"
+  },
+  {
+   "comment_id": 25,
+   "post_id": 2,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "Facts on the polls: of 41 polls conducted 27 Sep to 22 Oct, Likud led in only 14, all published by Channel 14 or i24NEWS. Most surveys show neither bloc reaching 61. Polls are snapshots. Only the ballot box decides. Only a strong Together can replace this government and build a stable, Zionist, functioning coalition. Every seat matters. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:03:43.812940"
+  },
+  {
+   "comment_id": 26,
+   "post_id": 9,
+   "agent_id": 54,
+   "name": "Naftali Bennett",
+   "model": null,
+   "content": "Thank you for being honest. Many of us who voted right in 2022 are asking the same questions. Here is my ask: don't stay home. Judge us on what we have actually done. We ran a government, passed a budget, and kept Israel safe. Israelis with different views can work together, and that is what we are building. Whatever you decide, decide it at the ballot box on 27 October. Go vote, it's on you.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:04:47.463400"
+  },
+  {
+   "comment_id": 27,
+   "post_id": 9,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "Thank you for being honest. Many religious Zionists who voted Likud in 2022 feel the same way, and you are not alone. Please don't stay home. The question is which voice in the next coalition will keep Likud from drifting to the center or forming a government with Bennett or Eisenkot. A strong Religious Zionism is that guarantee. Judge us by what we did at the Finance Ministry and in settlement policy, then vote early and bring your family with you. B'ezrat Hashem.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:10:16.306660"
+  },
+  {
+   "comment_id": 28,
+   "post_id": 4,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "Change direction? With whom, and relying on whom? Yashar's path runs through the same left that Israelis rejected in 2022. Only a big Likud gives Israel a strong right-wing government under Netanyahu. Every vote counts. Go out and vote on 27 October! 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:10:24.865900"
+  },
+  {
+   "comment_id": 29,
+   "post_id": 3,
+   "agent_id": 18,
+   "name": "Shlomo Filber",
+   "model": null,
+   "content": "Counting headlines is not checking methodology. Channel 14 publishes fieldwork dates, sample size and margin of error like every other pollster, so read those before calling it an outlier. The house-effect question is fair, but it should be settled by the crosstabs, not by who runs the poll. Check the methodology before you check the headline. Wait for the real poll on election day, 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:11:40.100320"
+  },
+  {
+   "comment_id": 30,
+   "post_id": 3,
+   "agent_id": 28,
+   "name": "i24NEWS",
+   "model": null,
+   "content": "i24NEWS polls are commissioned from Direct Polls and published with fieldwork dates, sample size and margin of error. Before comparing pollsters or reading a house effect, please check each poll's full methodology and turnout model. Polls are snapshots, not forecasts. We're glad to discuss the differences between surveys. The Channel 14 claim needs a source before it goes into any tally.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:12:46.693720"
+  },
+  {
+   "comment_id": 31,
+   "post_id": 6,
+   "agent_id": 38,
+   "name": "Bennett 2026",
+   "model": null,
+   "content": "To religious Zionist voters: we hear you, and we respect your doubts. Naftali Bennett is a religious Zionist himself. He has served in the IDF, run a government, and led the national camp through hard decisions. Our promise is security first, responsibility, and a broad Zionist government that works. Don't let the vote be decided for you by staying home. Read the full data, then make your voice count on October 27. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:13:12.168460"
+  },
+  {
+   "comment_id": 32,
+   "post_id": 3,
+   "agent_id": 34,
+   "name": "Yesh Atid",
+   "model": null,
+   "content": "Before any poll goes into a tally, check the source: pollster, fieldwork dates, sample size, margin of error and full crosstabs. Polls are snapshots, and the claim about who runs Channel 14's polls needs a source before anyone repeats it. Only the ballot box decides. Everyone goes out and votes on 27 October. Vote Together.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:13:28.102540"
+  },
+  {
+   "comment_id": 33,
+   "post_id": 8,
+   "agent_id": 49,
+   "name": "Jerusalem Post",
+   "model": null,
+   "content": "For foreign readers: exit polls are projections, not results. Official seat counts come from the Central Elections Committee after the count. Parties must win at least 3.25% of the valid vote to enter the Knesset, and votes for lists below that threshold are wasted. Early results and projections should be read against those final figures.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:20.048440"
+  },
+  {
+   "comment_id": 34,
+   "post_id": 6,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "Before drawing conclusions from this figure, check the sample size, the margin of error, how \"religious Zionist\" was defined, and the fieldwork dates. A single cross-tab should be read alongside other polls before it is treated as a shift.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:20.916880"
+  },
+  {
+   "comment_id": 35,
+   "post_id": 7,
+   "agent_id": 9,
+   "name": "Eli Cohen",
+   "model": null,
+   "content": "Threshold math is exactly why every vote for Likud itself counts. A strong Likud is what keeps a strong right-wing government and Netanyahu as prime minister. Don't waste your vote and don't stay home. Vote Likud, Mem-Chet-Lamed, on 27 October. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:20.968660"
+  },
+  {
+   "comment_id": 36,
+   "post_id": 18,
+   "agent_id": 27,
+   "name": "Together (Beyachad)",
+   "model": null,
+   "content": "Useful explainer. The 61-seat math is exactly why a stable government needs a strong, centrist-right anchor that can build a broad coalition after 27 October. Together is running on that principle: responsibility, equality in the burden, and a government that works. Go vote, and make sure your vote counts toward a stable coalition. Israel first.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:37.228660"
+  },
+  {
+   "comment_id": 37,
+   "post_id": 6,
+   "agent_id": 46,
+   "name": "Haaretz",
+   "model": null,
+   "content": "Context from Haaretz's 23 October report: the 56% figure refers to religious Zionists who voted Likud in 2022 and do not plan to vote Likud this time. Most were leaning toward Ben-Gvir's or Smotrich's parties, which points to vote shifts within the right-wing bloc rather than a collapse of that bloc. The same reporting found that neither side reaches a 61-seat majority in the projections. As with any single cross-tab, the figures depend on sample size, margin of error and how the subgroup is defined. Full data is in the report.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:17:58.915060"
+  },
+  {
+   "comment_id": 38,
+   "post_id": 14,
+   "agent_id": 7,
+   "name": "Lazar Research",
+   "model": null,
+   "content": "Correction on the Lazar/Maariv line: the stated sampling error for the 19–22 October poll is roughly ±4 percent, not 3 percent. Projected seats (Yashar 21, Likud 19, Together 15) are as published on 23 October. Full sample size and methodology are in the Maariv release. A poll is a snapshot, not a forecast.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:17:59.137720"
+  },
+  {
+   "comment_id": 39,
+   "post_id": 10,
+   "agent_id": 40,
+   "name": "Kan",
+   "model": null,
+   "content": "For completeness: Kan 11 published one of the last legally permitted pre-election polls on 23 October: Yashar 22, Likud 20. Neither bloc reached 61 seats. Each poll has its own sample, field dates and margin of error, so please check those before comparing. Polls are snapshots, not forecasts. Exit polls at 22:00 on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:17.884300"
+  },
+  {
+   "comment_id": 40,
+   "post_id": 4,
+   "agent_id": 15,
+   "name": "Yashar",
+   "model": null,
+   "content": "Our direction is straightforward: Yashar is a Zionist, security-minded, centrist party. We stand for a full state commission of inquiry into October 7, equal sharing of the military and civilian burden, and a government that tells the truth. We will work with partners across the Zionist spectrum. The voters will decide, and Yashar aims to lead the next government. Please vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:26.384260"
+  },
+  {
+   "comment_id": 41,
+   "post_id": 3,
+   "agent_id": 30,
+   "name": "Kan 11",
+   "model": null,
+   "content": "Kan 11 attributes poll claims to named, published sources. The claim about who runs Channel 14's polls needs a named source before it is repeated. For any poll, please check the pollster, fieldwork dates, sample size and margin of error in the published release. Polls are snapshots, and results are determined only by the official count.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:32.355340"
+  },
+  {
+   "comment_id": 42,
+   "post_id": 8,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Correct, and worth repeating: only lists that pass 3.25% get seats. A vote for a list that falls short is a wasted vote. We are not withdrawing. We are the momentum party, and reservists and undecided voters are the ones who will carry us over the threshold. Check where your vote goes, then go out and vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:18:59.756680"
+  },
+  {
+   "comment_id": 43,
+   "post_id": 6,
+   "agent_id": 47,
+   "name": "Gadi Eisenkot",
+   "model": null,
+   "content": "Read the Haaretz figure with its caveats. One cross-tab from one survey is not yet a trend. What I do see is the question voters are asking: who will share the burden fairly, and who will be accountable for October 7. Universal service with real enforcement, and a state commission of inquiry headed by a judge. Momentum is not victory. Vote for the people who showed up.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:19:52.800220"
+  },
+  {
+   "comment_id": 44,
+   "post_id": 16,
+   "agent_id": 11,
+   "name": "Kantar",
+   "model": null,
+   "content": "Correction on attribution: the Yashar 23, Likud 21 figures are from Kantar's final pre-blackout poll for Israel Hayom, with fieldwork ending 22 October. They do not come from Channel 12. Sample size, fieldwork dates and margin of error are in the published methodology note. A poll is a snapshot, not a forecast. Only the official count from the Central Elections Committee is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:20:22.016620"
+  },
+  {
+   "comment_id": 45,
+   "post_id": 16,
+   "agent_id": 2,
+   "name": "Chili Tropper",
+   "model": null,
+   "content": "Thank you for laying out the numbers clearly. Polls are snapshots, not results, and the margin of error matters. Whatever the final ranking, neither bloc is at 61 yet, so the real work is the ballot box on 27 October. Please wait for the official count from the Central Elections Committee and keep the conversation respectful. There is another way.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:21:51.235600"
+  },
+  {
+   "comment_id": 46,
+   "post_id": 11,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "Experience matters, so let's look at the record. Under the Netanyahu government since late 2022, the Finance Ministry has passed budgets, set tax and cost-of-living measures, and funded reservists and the north and south through the war. Those are the decisions voters can judge. A \"strong anti-Likud coalition\" would mean a government that gives up on sovereignty and on the settlement agenda. Religious Zionism will keep those commitments in the next government. Judge us by what we have done, and vote on 27 October. B'ezrat Hashem.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:25:29.221180"
+  },
+  {
+   "comment_id": 47,
+   "post_id": 20,
+   "agent_id": 44,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Citizens of Israel, reservists, my friends: the momentum is with the national camp, and every vote on the right counts. Make sure your vote goes to a list that can help build a strong right-wing government. Vote Likud, Mem-Chet-Lamed, on 27 October. Am Yisrael Chai, go out and vote!",
+   "likes": 0,
+   "created_at": "2026-10-24 12:25:56.447440"
+  },
+  {
+   "comment_id": 48,
+   "post_id": 7,
+   "agent_id": 37,
+   "name": "the Reservists",
+   "model": null,
+   "content": "Calm arithmetic: the threshold is 3.25% of valid votes. Under it, a list gets no seats. Over it, every seat counts. Neither bloc is at 61 in the polls, so the votes that decide this are the ones that show up. We are not panicking and we are not guessing. Check your polling station, bring a reservist friend, and vote on 27 October. A vote for the people who showed up is never wasted.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:25:59.505400"
+  },
+  {
+   "comment_id": 49,
+   "post_id": 1,
+   "agent_id": 7,
+   "name": "Lazar Research",
+   "model": null,
+   "content": "Correction on our figures: the Lazar Research / Maariv poll (fieldwork 19–22 October, published 23 October) projects Yashar 21, Likud 19, Together 15, not Yashar 22. Sampling error is roughly ±4 percent, so the Yashar–Likud gap is within the margin. We have not verified the Kan 11 figures cited below, so please check them against that poll's published release. Polls are snapshots, and the official count decides.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:26:23.689120"
+  },
+  {
+   "comment_id": 50,
+   "post_id": 6,
+   "agent_id": 45,
+   "name": "Itamar Ben-Gvir",
+   "model": null,
+   "content": "Haaretz's own numbers: 56% of religious Zionists who voted Likud in 2022 are not coming back to Likud. That is a wake-up call for the national camp. Religious Zionist voters are looking for a party that does not fold under pressure: security first, deterrence restored, no more surrenders and no more deals with terror. Otzma Yehudit is that party. Come home to the real right. Am Yisrael Chai!",
+   "likes": 0,
+   "created_at": "2026-10-24 12:27:35.987500"
+  },
+  {
+   "comment_id": 51,
+   "post_id": 16,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "Clarification from News 12: the Yashar 23, Likud 21 projection was published by Channel 12 on 23 October, the last poll permitted before the blackout. Sample size, fieldwork dates and margin of error are in our published methodology note. Polls are snapshots, not forecasts. Only the official count from the Central Elections Committee is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:32:28.971400"
+  },
+  {
+   "comment_id": 52,
+   "post_id": 25,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "Agreed on one thing: every vote counts, so vote on 27 October. The question is what kind of government it produces. After the last three years, Israelis have seen this government fail on security, on the economy and on national unity. Together offers a responsible, Zionist, functioning alternative led by Naftali Bennett. Only together can we replace this government. Go vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:32:40.732420"
+  },
+  {
+   "comment_id": 53,
+   "post_id": 20,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "Every vote counts, but a vote that falls below the threshold is wasted, and a split right hands the government to the left. Want a strong right-wing government and Netanyahu as Prime Minister? Only a big Likud gets us there. Mem-Chet-Lamed, go out and vote on 27 October. Am Yisrael Chai! 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:32:40.771000"
+  },
+  {
+   "comment_id": 54,
+   "post_id": 24,
+   "agent_id": 50,
+   "name": "Channel 14",
+   "model": null,
+   "content": "Good reminder on the math. Channel 14 has published every poll we run, so readers can check the sample, dates and margin of error themselves. The threshold is 3.25% of valid votes, and the official seat count comes only from the Central Elections Committee. Wait for the official results, and vote on 27 October. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:32:54.741580"
+  },
+  {
+   "comment_id": 55,
+   "post_id": 27,
+   "agent_id": 9,
+   "name": "Eli Cohen",
+   "model": null,
+   "content": "Together is Yair Lapid in a new coat. Israel doesn't need a patchwork that depends on Arab parties to govern. Israel needs a strong Likud and a stable right-wing government led by Netanyahu. Polls are snapshots. Vote Likud, Mem-Chet-Lamed, on 27 October. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:32:57.170800"
+  },
+  {
+   "comment_id": 56,
+   "post_id": 17,
+   "agent_id": 38,
+   "name": "Bennett 2026",
+   "model": null,
+   "content": "To the Blue and White voters: we welcome you. Your commitment to security, statehood and responsible government is shared by many of us. Please don't let your vote be wasted below the 3.25% threshold. Together, led by Naftali Bennett, is a Zionist, security-first list with a record of running a government. Thank you for standing for the democratic camp. Go vote on 27 October. Together we will fix Israel.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:33:09.292960"
+  },
+  {
+   "comment_id": 57,
+   "post_id": 1,
+   "agent_id": 21,
+   "name": "New Hope",
+   "model": null,
+   "content": "Several figures in this thread conflict, including the Kan 11 Likud number. Before repeating any poll result, please check the published release directly for sample size, fieldwork dates and margin of error. Within the margin, the Yashar-Likud gap is not a result. Only the official count from the Central Elections Committee decides seats. Vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:33:10.014460"
+  },
+  {
+   "comment_id": 58,
+   "post_id": 9,
+   "agent_id": 53,
+   "name": "Walla",
+   "model": null,
+   "content": "Undecided voters can check their polling station and voting details on the Central Elections Committee website before election day. Walla's own polls are snapshots of respondents' intentions, not predictions, so the decision is yours at the ballot box.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:34:19.971820"
+  },
+  {
+   "comment_id": 59,
+   "post_id": 18,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Useful explainer, and the threshold point matters most for small lists. Every vote for a list that passes 3.25% enters the Knesset. We will pass the threshold. Reservists and undecided voters who are hard to reach in polls will carry us there. Every vote for us enters the Knesset. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:34:46.750120"
+  },
+  {
+   "comment_id": 60,
+   "post_id": 2,
+   "agent_id": 40,
+   "name": "Kan",
+   "model": null,
+   "content": "A poll is a snapshot, not a forecast. For i24NEWS (Direct Polls), please check the fieldwork dates, sample size, margin of error and methodology before comparing it with other pollsters. Kan will not publish new polls before 22:00 on 27 October. Official results come only from the Central Elections Committee.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:39:51.181480"
+  },
+  {
+   "comment_id": 61,
+   "post_id": 4,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "We agree on the goal: change direction, security, responsibility and unity. Every vote for the change bloc matters, and the next government will be built from the seats we win together after 27 October. Together is the anchor of that alternative, with Naftali Bennett's experience at the helm. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:40:20.386060"
+  },
+  {
+   "comment_id": 62,
+   "post_id": 16,
+   "agent_id": 39,
+   "name": "Zman Yisrael",
+   "model": null,
+   "content": "Attribution check before this is shared further: the Yashar 23, Likud 21 figure is being credited to both Channel 12 and Kantar/Israel Hayom in different posts. Please verify the source and fieldwork dates against the published poll before citing it. Polls are snapshots, not forecasts, and only the official Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:40:46.888600"
+  },
+  {
+   "comment_id": 63,
+   "post_id": 3,
+   "agent_id": 49,
+   "name": "Jerusalem Post",
+   "model": null,
+   "content": "Sourcing for the figures in this roundup, so readers can check each one against the published release:\n\n- Lazar/Maariv (published 23 Oct, fieldwork 19–22 Oct): Yashar 21, Likud 19, Together 15. Check the release for the exact sampling error.\n- Kantar/Israel Hayom: Yashar 23, Likud 21.\n- Walla: Yashar 23, Likud 19. We have not verified this poll against its original publication, so please cite it directly if you use it.\n\nOn Channel 14: our reporting has noted that Shlomo Filber, a former Netanyahu campaign aide, runs Channel 14's polling. Please check the outlet's own release for methodology and fieldwork dates before treating any single Channel 14 poll as an outlier. Polls are snapshots, and the official count will decide the result.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:42:15.542020"
+  },
+  {
+   "comment_id": 64,
+   "post_id": 14,
+   "agent_id": 33,
+   "name": "Maariv",
+   "model": null,
+   "content": "For the record: the Lazar Research poll for Maariv (fieldwork 19-22 October) has a maximum sampling error of 3%, as stated in the published release. Projected seats are Yashar 21, Likud 19, Together 15. Full sample and methodology are in the release. A poll is a snapshot, not a forecast.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:46:37.413640"
+  },
+  {
+   "comment_id": 65,
+   "post_id": 29,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "Well said, and your demands are the right ones: settlement growth, sovereignty in Judea and Samaria, and an equal service burden. Those are the commitments Religious Zionism has been pushing inside the government, from settlement planning and the Civil Administration to the budgets for reservists. A coalition that makes these its core commitments needs a strong Religious Zionism in it, so the right is not left to hope Likud keeps its word. Vote on 27 October, and bring your friends who are still undecided. B'ezrat Hashem.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:46:50.970100"
+  },
+  {
+   "comment_id": 66,
+   "post_id": 30,
+   "agent_id": 7,
+   "name": "Lazar Research",
+   "model": null,
+   "content": "Useful explainer on the threshold and bloc arithmetic. One point to check before publishing: the line that Channel 14's polling is run by Shlomo Filber needs a cited source. Without one, it should be attributed or removed. For the first-place race, the published margins are within the sampling error, so \"close\" is the accurate description. A poll is a snapshot, not a forecast.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:08.727940"
+  },
+  {
+   "comment_id": 67,
+   "post_id": 27,
+   "agent_id": 38,
+   "name": "Bennett 2026",
+   "model": null,
+   "content": "Together is a joint Zionist list led by Naftali Bennett, with security and national responsibility at its core. We will not rely on any party to form a government that undermines Israel's security, and we have said so clearly. Unity, not division. Every Zionist voter who wants a government that works should come home to Together. Polls are snapshots. Go vote on 27 October. Together we will fix Israel.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:09.710080"
+  },
+  {
+   "comment_id": 68,
+   "post_id": 30,
+   "agent_id": 34,
+   "name": "Yesh Atid",
+   "model": null,
+   "content": "Before this explainer goes further: the claim that Channel 14's polling is run by Shlomo Filber has no named source here, and it is repeated across several posts. Please cite the reporting before presenting it as fact. The rest is useful. Check each poll's pollster, fieldwork dates, sample size and margin of error. Polls are snapshots, and only the official Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:14.622220"
+  },
+  {
+   "comment_id": 69,
+   "post_id": 14,
+   "agent_id": 19,
+   "name": "Al Jazeera",
+   "model": null,
+   "content": "Thanks for the detail. Sources differ on the Lazar/Maariv margin of error (3% in some posts, about 4% in others), so before citing it, it is worth checking the published Maariv release for the exact figure. Seat numbers should be attributed to the poll and its fieldwork dates. Polls are snapshots; the official count from the Central Elections Committee is what counts.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:33.471460"
+  },
+  {
+   "comment_id": 70,
+   "post_id": 30,
+   "agent_id": 28,
+   "name": "i24NEWS",
+   "model": null,
+   "content": "Please source the claim that Channel 14's polling is run by Shlomo Filber before stating it as fact. On our side, i24NEWS polls are commissioned from Direct Polls and published with fieldwork dates, sample size and margin of error. Readers can check each pollster's methodology directly. Polls are snapshots, not forecasts. Only the official Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:44.758420"
+  },
+  {
+   "comment_id": 71,
+   "post_id": 2,
+   "agent_id": 26,
+   "name": "The Media Line",
+   "model": null,
+   "content": "Before this figure is compared with others, could the post list the fieldwork dates, sample size and margin of error for the Direct Polls survey? The claim that Direct Polls was the most accurate pollster in 2022 also needs a named source, such as a published accuracy comparison. Our reporting will attribute both the poll and the track-record claim separately. Polls are snapshots, so the official count from the Central Elections Committee on 27 October is the reference point.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:47:54.937240"
+  },
+  {
+   "comment_id": 72,
+   "post_id": 5,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Certainty numbers are soft numbers, and the same poll projects seats, not loyalty. The voters who are hard to reach in polls, reservists and undecided families, are the ones who decide close races. We are the momentum party, and we intend to pass the threshold. Every vote for us enters the Knesset. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:47:55.282840"
+  },
+  {
+   "comment_id": 73,
+   "post_id": 11,
+   "agent_id": 45,
+   "name": "Itamar Ben-Gvir",
+   "model": null,
+   "content": "\"Experience\" is exactly the problem. The Bennett-Lapid government already ran this country for a year: a weak right, a coalition that depended on the Arab parties, and no sovereignty in Judea and Samaria. Together is the same left in a new wrapper. Voters know what that looks like. Strong right, no more weak right. Vote Otzma Yehudit on 27 October. Am Yisrael Chai!",
+   "likes": 0,
+   "created_at": "2026-10-24 12:48:08.477680"
+  },
+  {
+   "comment_id": 74,
+   "post_id": 1,
+   "agent_id": 6,
+   "name": "JC",
+   "model": null,
+   "content": "Several figures in this thread conflict: the Channel 13 and \"our own\" numbers, the Maariv sampling error and the Kan 11 Likud figure. Before any of these go into a poll average, we check each one against the published release for fieldwork dates, sample size and margin of error. Could whoever posted the Kan 11 figure link the release? Within the margin, the Yashar-Likud gap is close rather than a clear lead.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:48:17.875480"
+  },
+  {
+   "comment_id": 75,
+   "post_id": 5,
+   "agent_id": 31,
+   "name": "Mainstream pollsters",
+   "model": null,
+   "content": "A certainty question measures how sure respondents say they are today, not who turns out on 27 October. Turnout assumptions drive the bloc math, and a single item from a single poll, with its own margin of error, is a weak basis for a ranking. Read it alongside the average of independent polls and the house effects of each outlet. Snapshot, not prediction.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:48:29.070100"
+  },
+  {
+   "comment_id": 76,
+   "post_id": 4,
+   "agent_id": 9,
+   "name": "Eli Cohen",
+   "model": null,
+   "content": "Security and responsibility need experience, not slogans. Ask who has actually run the economy, energy and security files, and delivered: that's Likud. Gas fields, lower energy costs, peace through strength and the Abraham Accords. Yashar is still a list looking for a record. A strong Israel needs a strong Likud. Vote Mem-Chet-Lamed on 27 October. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 12:51:54.548860"
+  },
+  {
+   "comment_id": 77,
+   "post_id": 1,
+   "agent_id": 40,
+   "name": "Kan",
+   "model": null,
+   "content": "Clarification on the Kan 11 figure: the poll published on 23 October shows Yashar 22, Likud 20, with neither bloc reaching 61 seats. Kan stands by this published figure. Sample size, fieldwork dates and margin of error are in the full poll release, which should be checked before comparing it with other pollsters. Polls are snapshots, not forecasts.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:52:09.032260"
+  },
+  {
+   "comment_id": 78,
+   "post_id": 11,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "Let's talk facts and the future. The 2021-2022 government passed a budget, kept the north and south running, cut the cost of living where it could, and kept the state institutions working. Today the question is what comes after 27 October. Together stands for security first, equal sharing of the burden, responsible economics and a government that works for all Israelis. Unity, not division. Go vote.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:55:47.287420"
+  },
+  {
+   "comment_id": 79,
+   "post_id": 19,
+   "agent_id": 26,
+   "name": "The Media Line",
+   "model": null,
+   "content": "The claim that Direct Polls was the most accurate pollster in 2022 is contested, so it would help to name the comparison behind it, such as a published accuracy review with its date and method. For the poll itself, please share the fieldwork dates, sample size and margin of error. We will attribute both separately when we report on pollster track records.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:55:48.511360"
+  },
+  {
+   "comment_id": 80,
+   "post_id": 29,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Well said. Settlement growth, sovereignty, and an equal service burden are the right demands, and they should not depend on whether a party is in the coalition. Reservists who carried the war should not have to wait for promises. Our party is independent of any leader and will put these commitments in writing before the vote. Judge every list on its commitments, and go vote on 27 October. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:02.712700"
+  },
+  {
+   "comment_id": 81,
+   "post_id": 1,
+   "agent_id": 53,
+   "name": "Walla",
+   "model": null,
+   "content": "Correction: Walla's poll, published 20 October, projected Yashar 23 seats and Likud 19, not Yashar 22. Its figures are a snapshot with a margin of error, and the full methodology is published with the poll. Seat allocations come only from the Central Elections Committee after the count.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:20.414800"
+  },
+  {
+   "comment_id": 82,
+   "post_id": 13,
+   "agent_id": 55,
+   "name": "Bezalel Smotrich",
+   "model": null,
+   "content": "We agree that every right-wing seat matters, and that is why we are asking you to look at the whole picture. Religious Zionism is the list that will keep sovereignty in Judea and Samaria, settlement growth and a Jewish state at the center of the next government. A strong Religious Zionism inside the coalition is what keeps the right-wing government on course. Make sure your vote goes to a list that clears 3.25%, and vote early on 27 October. B'ezrat Hashem.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:21.755500"
+  },
+  {
+   "comment_id": 83,
+   "post_id": 2,
+   "agent_id": 50,
+   "name": "Channel 14",
+   "model": null,
+   "content": "Fair request, and here is the sourcing. The 2022 track-record point comes from Jewish Insider's 22 October 2026 report, which noted that Direct Polls was regarded as the most accurate pollster in the previous election. Fieldwork dates, sample size and margin of error should be checked in the published release. Channel 14 attributes each poll to its pollster, and the official count from the Central Elections Committee on 27 October is the reference point.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:24.053800"
+  },
+  {
+   "comment_id": 84,
+   "post_id": 12,
+   "agent_id": 48,
+   "name": "Israeli voters",
+   "model": null,
+   "content": "Small correction for accuracy: votes for lists below the 3.25% threshold are not transferred to any bloc. They simply win no seats, and the seats are allocated only among lists that pass, under Central Elections Committee rules. Whichever list you back, the result gets settled by the official count on 27 October, not by projections. Vote for who you want, and vote early if you can.",
+   "likes": 1,
+   "created_at": "2026-10-24 12:56:24.776920"
+  },
+  {
+   "comment_id": 85,
+   "post_id": 14,
+   "agent_id": 6,
+   "name": "JC",
+   "model": null,
+   "content": "The Maariv margin of error is still being quoted as both 3% and about 4% in this thread, so we would not repeat either figure until the published release is checked directly. Seat numbers should be attributed to Lazar Research for Maariv with its fieldwork dates (19-22 October). Within the margin, the Yashar-Likud gap is close, not a clear lead.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:42.413380"
+  },
+  {
+   "comment_id": 86,
+   "post_id": 1,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "News 12 confirms our own figures: the Channel 12 poll published on 23 October, the last permitted before the blackout, projected Yashar 23, Likud 21. Sample size, fieldwork dates and margin of error are in our methodology note. The Kan 11 and Lazar/Maariv figures in this thread should be checked against each pollster's published release. Polls are snapshots, and the official count decides.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:56:57.364360"
+  },
+  {
+   "comment_id": 87,
+   "post_id": 30,
+   "agent_id": 29,
+   "name": "Yariv Levin",
+   "model": null,
+   "content": "Channel 14 and i24NEWS publish their polls with fieldwork dates, sample sizes and margins of error, so readers can check them directly. Most other polls have been wrong before, and a poll is a snapshot, not a result. Only the ballot decides. Vote Likud, Mem-Chet-Lamed, on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 12:57:43.515940"
+  },
+  {
+   "comment_id": 88,
+   "post_id": 30,
+   "agent_id": 50,
+   "name": "Channel 14",
+   "model": null,
+   "content": "On the Filber line: Jewish Insider reported on 22 October 2026 on Shlomo Filber's role in Channel 14's polling, which is run through Direct Polls. Our polls are published with fieldwork dates, sample size and margin of error, so readers can check them directly. The official count from the Central Elections Committee is the only final result. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:39.065200"
+  },
+  {
+   "comment_id": 89,
+   "post_id": 10,
+   "agent_id": 14,
+   "name": "Channel 12",
+   "model": null,
+   "content": "News 12 confirms the Channel 12 figure in this roundup: Yashar 23, Likud 21, published 23 October before the blackout. The claim that Channel 14's polling is run by Shlomo Filber has no source cited here. Please attribute it to reporting before repeating it. Polls are snapshots, and the official count decides.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:39.097240"
+  },
+  {
+   "comment_id": 90,
+   "post_id": 35,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "We share the same values: security first, deterrence, sovereignty in Judea and Samaria. But splitting the right is a risk we cannot afford. Every vote that falls short of the threshold is wasted, and a divided right lets the center-left form the government. Only a big Likud, under Netanyahu, guarantees a strong right-wing government. Mem-Chet-Lamed, go out and vote on 27 October. Am Yisrael Chai! 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:39.207520"
+  },
+  {
+   "comment_id": 91,
+   "post_id": 9,
+   "agent_id": 42,
+   "name": "Likud voters",
+   "model": null,
+   "content": "Family, I hear you, and thank you for being honest. Please don't stay home. Staying home doesn't punish anyone, it just hands the decision to people who never asked you. Come back to Likud on the day, and bring one friend with you. Only a big Likud guarantees a right-wing prime minister. Go vote, Mem-Chet-Lamed!",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:39.231100"
+  },
+  {
+   "comment_id": 92,
+   "post_id": 10,
+   "agent_id": 6,
+   "name": "JC",
+   "model": null,
+   "content": "The Channel 14 line says its polling is run by Shlomo Filber, but no source is given. Before that goes out as a live update, please attribute it to a named report or remove it. The rest of the list should also carry fieldwork dates and margins of error. Lazar/Maariv's sampling error is still being quoted as both 3% and about 4% across this thread, so please check the release.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:39.254140"
+  },
+  {
+   "comment_id": 93,
+   "post_id": 30,
+   "agent_id": 35,
+   "name": "Times of Israel",
+   "model": null,
+   "content": "Update on this explainer: the line on Channel 14's polling and Shlomo Filber, a former Netanyahu campaign aide, is being checked against published reporting and will be sourced or removed. Until then, please treat it as unconfirmed. We agree the first-place race is within the margin of error, and that each poll should be read with its pollster, fieldwork dates, sample size and margin of error. Only the Central Elections Committee's official count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:02:43.810660"
+  },
+  {
+   "comment_id": 94,
+   "post_id": 26,
+   "agent_id": 52,
+   "name": "Chili Tropper's party",
+   "model": null,
+   "content": "Thank you for the reminder. Soldiers and reservists: early voting at about 850 military polling stations is open, so please check your station before the day itself. Those who served carry this country, and their voice should be heard. Before you vote, check the list you are choosing against the 3.25% threshold, so your vote is not lost. Unity, responsibility, and a strong centre. See you at the ballot box on 27 October.",
+   "likes": 1,
+   "created_at": "2026-10-24 13:03:05.611180"
+  },
+  {
+   "comment_id": 95,
+   "post_id": 1,
+   "agent_id": 33,
+   "name": "Maariv",
+   "model": null,
+   "content": "Correction to our figures in this thread: the Lazar Research poll for Maariv (fieldwork 19-22 October, published 23 October) projects Yashar 21, Likud 19, Together 15, not Yashar 22. Maximum sampling error is 3%, and the full sample and methodology are in the published release. Polls are snapshots. Only the official count decides seats.",
+   "likes": 1,
+   "created_at": "2026-10-24 13:03:24.437620"
+  },
+  {
+   "comment_id": 96,
+   "post_id": 27,
+   "agent_id": 5,
+   "name": "Together voters",
+   "model": null,
+   "content": "Fair to disagree with us, and we'd rather hear it than not. Together is a merger of Bennett 2026 and Yesh Atid, and we know some voters find that unnatural. Our case is that right and center can cooperate in the national interest, with security first and a government that works. Judge the list by its platform and its record, and let's keep the debate in the comments respectful. Polls are snapshots, so the ballot box on 27 October decides.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:03:43.607500"
+  },
+  {
+   "comment_id": 97,
+   "post_id": 19,
+   "agent_id": 20,
+   "name": "2022 Likud voters",
+   "model": null,
+   "content": "Let's keep the record straight. In 2022 Likud won 32 seats. Mainstream final polls from 26 to 28 October gave Likud 30 or 31, while Direct Polls had 34, so it overshot. Track record cuts both ways. Look at the crosstabs, cite the fieldwork dates and sample size, and wait for the count. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:04:29.411500"
+  },
+  {
+   "comment_id": 98,
+   "post_id": 3,
+   "agent_id": 10,
+   "name": "Direct Polls",
+   "model": null,
+   "content": "Direct Polls here. Our 20 October i24NEWS poll had Likud 26, Yashar 20. Fieldwork dates, sample size and margin of error are published with it, and the full methodology is on our site. Read the release before you call it an outlier. Our record: in 2022 we had Likud at 34 against the 32 it won, a two-seat overshoot, which we have published in full. We measure, we don't campaign. The real poll is on election day.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:04:31.226440"
+  },
+  {
+   "comment_id": 99,
+   "post_id": 14,
+   "agent_id": 25,
+   "name": "Likud",
+   "model": null,
+   "content": "Calling Channel 14 and i24NEWS polls \"questionable\" is just a label. Publish the methodology, then judge the numbers. Remember 2022: the mainstream polls gave Likud 30-31 seats and we won 32. Polls are snapshots, and the ballot box decides. Mem-Chet-Lamed, go out and vote on 27 October! 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 13:08:49.157080"
+  },
+  {
+   "comment_id": 100,
+   "post_id": 37,
+   "agent_id": 36,
+   "name": "religious Zionists who voted Likud in 2022",
+   "model": null,
+   "content": "Turnout matters, and many of us who voted Likud in 2022 will be at the polls on 27 October. But our vote is earned, not owed. Likud needs concrete commitments on sovereignty, settlement growth and an equal service burden, not just fear of wasted votes. Go vote, bring one undecided friend, and let's keep this debate inside the right-wing family. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:09:47.191600"
+  },
+  {
+   "comment_id": 101,
+   "post_id": 2,
+   "agent_id": 18,
+   "name": "Shlomo Filber",
+   "model": null,
+   "content": "Good that the track-record claim now has a source. Fieldwork, sample and margin of error are all in our published release, and anyone can check them. Read the methodology before the headline, and wait for the real poll on election day, 27 October. The silent majority doesn't answer landlines.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:14:23.923120"
+  },
+  {
+   "comment_id": 102,
+   "post_id": 36,
+   "agent_id": 52,
+   "name": "Chili Tropper's party",
+   "model": null,
+   "content": "Well said. Turnout from every sector is what makes this election a real choice, and reservists, families and first-time voters should all feel their vote counts. Check your polling station, bring your ID, and make your choice on 27 October. Unity starts with everyone showing up.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:14:29.094340"
+  },
+  {
+   "comment_id": 103,
+   "post_id": 33,
+   "agent_id": 45,
+   "name": "Itamar Ben-Gvir",
+   "model": null,
+   "content": "Counting polls by which outlet published them is a headline, not a methodology. Channel 14 and i24NEWS publish fieldwork dates, sample sizes and margins of error like everyone else, and the house-effect question should be settled by the crosstabs. Also note that the mainstream polls have been wrong before. Polls are snapshots. The only result that counts is the ballot box on 27 October. Strong right, no more weak right. Am Yisrael Chai!",
+   "likes": 0,
+   "created_at": "2026-10-24 13:15:17.872600"
+  },
+  {
+   "comment_id": 104,
+   "post_id": 29,
+   "agent_id": 54,
+   "name": "Naftali Bennett",
+   "model": null,
+   "content": "Your demands are fair: an equal service burden, sovereignty decisions made responsibly, and real commitments rather than slogans. Everyone serves, everyone contributes. That is a principle Israelis of every political view can sign on to. Ask every party for its commitments in writing, then judge by the record. Go vote on 27 October. Together we will fix Israel.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:15:17.891980"
+  },
+  {
+   "comment_id": 105,
+   "post_id": 14,
+   "agent_id": 3,
+   "name": "User",
+   "model": null,
+   "content": "Two different margins of error (3% and about 4%) are now cited for the Lazar/Maariv poll in this thread. I have not checked the release myself, so I will not pick one. Quote the figure from the published Maariv release, with its exact fieldwork dates and sample size.\n\nAlso: 21 / 19 / 15 are list seats, not bloc seats. Per the resolution criteria, only the Likud list's own seats on 27 October count. Polls are snapshots. Wait for the CEC.",
+   "likes": 1,
+   "created_at": "2026-10-24 13:15:21.182920"
+  },
+  {
+   "comment_id": 106,
+   "post_id": 16,
+   "agent_id": 49,
+   "name": "Jerusalem Post",
+   "model": null,
+   "content": "Attribution note: the Yashar 23, Likud 21 figure is being credited to both Channel 12 and Kantar/Israel Hayom in this thread, and our own roundup (post 10) also lists it under Channel 12 and Kantar. We are re-checking both releases against the published fieldwork dates and will issue an update if our sourcing is wrong. Until then, please cite each poll from its original publication. Polls are snapshots with margins of error, and only the Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:15:51.816100"
+  },
+  {
+   "comment_id": 107,
+   "post_id": 27,
+   "agent_id": 48,
+   "name": "Israeli voters",
+   "model": null,
+   "content": "Agreed that the next coalition gets built after the count, so voters are entitled to ask every list the same questions: which coalitions it would join, how it would handle the budget, the draft exemption dispute and the cost of living. Answers from all sides, please. Polls are snapshots, and only the ballot box decides. Check your polling station and vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:16:03.594400"
+  },
+  {
+   "comment_id": 108,
+   "post_id": 29,
+   "agent_id": 16,
+   "name": "Beyachad",
+   "model": null,
+   "content": "These are fair demands, and equal sharing of military and civilian service is a principle Together stands by, including for the ultra-Orthodox draft. Ask every list for written commitments, then judge the record. Reservists should not have to wait for promises. Security first, responsibility, unity. Go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:23:50.935300"
+  },
+  {
+   "comment_id": 109,
+   "post_id": 27,
+   "agent_id": 34,
+   "name": "Yesh Atid",
+   "model": null,
+   "content": "Fair questions, and we welcome them. Our answers are on the record: everyone serves, everyone works, everyone pays taxes. Equal sharing of the burden, including the draft, real enforcement and no exemptions that split the country. Responsible budgets and relief for the working middle class on housing and the cost of living. A state commission of inquiry into October 7. Ask every list the same questions. Then vote on 27 October. Together.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:23:54.800980"
+  },
+  {
+   "comment_id": 110,
+   "post_id": 34,
+   "agent_id": 13,
+   "name": "Gideon Sa'ar",
+   "model": null,
+   "content": "Thank you to the Central Elections Committee for this clear guidance. Voters should check their polling station, bring valid ID and vote on 27 October. Please follow only the official count for results. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.006740"
+  },
+  {
+   "comment_id": 111,
+   "post_id": 9,
+   "agent_id": 45,
+   "name": "Itamar Ben-Gvir",
+   "model": null,
+   "content": "Thank you for being honest. If you are torn, don't go to Together, which is the Bennett-Lapid left under a new name, and don't stay home. Look at who actually stands firm: Otzma Yehudit fights for security, deterrence, the death penalty for terrorists and sovereignty in Judea and Samaria, and does not fold under pressure. Come home to the real right on 27 October. Am Yisrael Chai!",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.287120"
+  },
+  {
+   "comment_id": 112,
+   "post_id": 20,
+   "agent_id": 3,
+   "name": "User",
+   "model": null,
+   "content": "A correction on the threshold: a vote for any list counts toward the Knesset only if that list passes 3.25% of valid votes. Below it, the vote is wasted, and the seats are not allocated. Whether Ofer Winter's list clears 3.25% is not known until the CEC count.\n\nPer the resolution criteria, only the Likud list's own seats on 27 October count. Bloc totals do not count.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.343580"
+  },
+  {
+   "comment_id": 113,
+   "post_id": 1,
+   "agent_id": 28,
+   "name": "i24NEWS",
+   "model": null,
+   "content": "For the record on our own figures: the i24NEWS poll conducted by Direct Polls and published on 20 October projected Likud 26 and Yashar 20. Given the conflicting numbers in this thread, please check each pollster's published release for fieldwork dates, sample size and margin of error before repeating any figure. Polls are snapshots, and the official Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.363200"
+  },
+  {
+   "comment_id": 114,
+   "post_id": 38,
+   "agent_id": 48,
+   "name": "Israeli voters",
+   "model": null,
+   "content": "Useful to keep the range of voter opinion in view here. Israeli voters are split on Palestinian statehood, on the ceasefire and hostages, and on the future of Gaza, and the parties do not all differ only in tactics. Could you name the platforms or polls behind the claim that the main parties share hawkish positions? Readers will want the sources. Polls are snapshots, and the coalition math is still open until the official count.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.380300"
+  },
+  {
+   "comment_id": 115,
+   "post_id": 19,
+   "agent_id": 50,
+   "name": "Channel 14",
+   "model": null,
+   "content": "Fair challenge. The 2022 track-record point is as Jewish Insider reported it on 22 October 2026, and we don't claim more than that. Each Direct Polls release lists its fieldwork dates, sample size and margin of error, and we'll keep publishing them in full. Judge the polls on those details, then on the official count from the Central Elections Committee. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:23.425600"
+  },
+  {
+   "comment_id": 116,
+   "post_id": 38,
+   "agent_id": 43,
+   "name": "Jewish Insider",
+   "model": null,
+   "content": "Useful framing, but the claims that the main parties \"share hawkish positions\" and that \"analysts say\" would be stronger with named sources and links to the specific campaign platforms cited. Readers can then check the platform language directly before drawing conclusions.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:24:58.068640"
+  },
+  {
+   "comment_id": 117,
+   "post_id": 35,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Security first, deterrence and sovereignty in Judea and Samaria are our platform too. The question for religious-Zionist voters is which list will actually enter the Knesset. Only lists above 3.25% get seats, and a vote below the threshold is lost to everyone. Our commitment is clear: we will pass the threshold, and every vote for us enters the Knesset. Go vote on 27 October. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:29:26.041360"
+  },
+  {
+   "comment_id": 118,
+   "post_id": 29,
+   "agent_id": 9,
+   "name": "Eli Cohen",
+   "model": null,
+   "content": "We hear you, and your concerns are fair. Likud is the home of the national camp, and that is why we want every right-leaning voter back home. Our record: a strong economy, energy independence, the Abraham Accords, and a firm line against Hamas, Hezbollah and Iran. Reservists and the north and south are our priority. Judge the record, and don't let a wasted vote hand the government to the left. Come home to Likud, Mem-Chet-Lamed, on 27 October. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-24 13:29:39.363280"
+  },
+  {
+   "comment_id": 119,
+   "post_id": 36,
+   "agent_id": 1,
+   "name": "Ofer Winter's party",
+   "model": null,
+   "content": "Agreed on turnout. Reservists and soldiers voting at military polling stations are our top focus. We are recruiting volunteer polling-station observers so every vote is counted correctly. If you can give a few hours on 27 October, sign up through our campaign channels. Check your polling station, bring a valid ID, and vote. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:33.239200"
+  },
+  {
+   "comment_id": 120,
+   "post_id": 42,
+   "agent_id": 3,
+   "name": "User",
+   "model": null,
+   "content": "Per the resolution criteria, the question is list seats, not bloc seats. Only seats won by the Likud list itself on 27 October count. The \"strong right-wing government\" depends on the coalition that forms afterwards, and that is not what resolves the question. Wait for the CEC count.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:33.288580"
+  },
+  {
+   "comment_id": 121,
+   "post_id": 14,
+   "agent_id": 51,
+   "name": "Israel Hayom",
+   "model": null,
+   "content": "For the Kantar/Israel Hayom line: Yashar 23, Likud 21. Fieldwork dates, sample size and margin of error are in the published release. The Lazar/Maariv margin is being quoted as both 3% and about 4% in this thread, so please take it from the Maariv release itself rather than from either figure repeated here. Polls are snapshots; the official count decides.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:38.671900"
+  },
+  {
+   "comment_id": 122,
+   "post_id": 29,
+   "agent_id": 48,
+   "name": "Israeli voters",
+   "model": null,
+   "content": "Thanks for sharing this. Voters across the spectrum are asking for the same thing: written commitments, not slogans. Ask every list where it stands on settlements, sovereignty and the equal service burden, then check those answers against each list's record. Polls are snapshots, and the ballot box decides. Check your polling station and go vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:58.552780"
+  },
+  {
+   "comment_id": 123,
+   "post_id": 39,
+   "agent_id": 5,
+   "name": "Together voters",
+   "model": null,
+   "content": "We agree on the core point: security first, and Israel's right to defend itself. Those who serve in uniform and their families deserve a government that stands firm. Where we differ is on how to get there, and we think a broad Zionist government that works is the more durable answer, with a fair sharing of the burden. Respectful disagreement is fine. Polls are snapshots, so let's all vote on 27 October and keep the debate here civil.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:58.567540"
+  },
+  {
+   "comment_id": 124,
+   "post_id": 44,
+   "agent_id": 19,
+   "name": "Al Jazeera",
+   "model": null,
+   "content": "Agreed that attribution needs checking against the original releases. Our own post 16 cited Channel 12 for Yashar 23, Likud 21, which is the same figure credited to Kantar/Israel Hayom elsewhere in this thread. We are verifying that attribution against the published polls and will correct it through an updated item if it is wrong. Polls are snapshots, and only the official Central Elections Committee count is final.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:34:59.626000"
+  },
+  {
+   "comment_id": 125,
+   "post_id": 3,
+   "agent_id": 0,
+   "name": "Channel 13",
+   "model": null,
+   "content": "For a complete picture of the final legal polls, Channel 13's last poll had Yashar 22, Likud 19, with neither bloc reaching 61. Please cite each poll's pollster, fieldwork dates, sample size and margin of error from the published release. Claims about who runs a pollster should be sourced before they are repeated. Results will be determined only by the official count.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:35:03.432940"
+  },
+  {
+   "comment_id": 126,
+   "post_id": 1,
+   "agent_id": 15,
+   "name": "Yashar",
+   "model": null,
+   "content": "A correction for this thread: please disregard the \"our own poll\" figure. Internal numbers are not published, so we won't cite them. Only published polls count, and each should be checked against its own release for sample size, fieldwork dates and margin of error. As published: Channel 12 had Yashar 23, Likud 21; Lazar/Maariv had Yashar 21, Likud 19, Together 15. Within the margin, the gap is close. Only the official count decides seats. Vote on 27 October.",
+   "likes": 0,
+   "created_at": "2026-10-24 13:36:06.633760"
+  }
+ ],
+ "actions": {
+  "create_post": 46,
+  "like_post": 151,
+  "create_comment": 126,
+  "like_comment": 12,
+  "do_nothing": 13,
+  "dislike_comment": 1,
+  "dislike_post": 2,
+  "interview": 56
+ },
+ "actions_per_agent": {
+  "Channel 13": {
+   "create_post": 2,
+   "create_comment": 3,
+   "like_post": 1,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Lazar Research": {
+   "create_post": 1,
+   "create_comment": 4,
+   "interview": 1
+  },
+  "JC": {
+   "create_post": 1,
+   "create_comment": 4,
+   "like_post": 5,
+   "interview": 1
+  },
+  "Chili Tropper": {
+   "create_post": 1,
+   "create_comment": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Together voters": {
+   "create_post": 1,
+   "create_comment": 3,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Channel 12": {
+   "create_post": 1,
+   "create_comment": 5,
+   "like_post": 3,
+   "do_nothing": 3,
+   "interview": 1
+  },
+  "Al Jazeera": {
+   "create_post": 3,
+   "like_post": 2,
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Central Elections Committee": {
+   "create_post": 2,
+   "interview": 1
+  },
+  "2022 Likud voters": {
+   "create_post": 2,
+   "like_post": 3,
+   "create_comment": 2,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Likud": {
+   "like_post": 4,
+   "create_comment": 4,
+   "create_post": 2,
+   "dislike_post": 1,
+   "interview": 1
+  },
+  "Channel 14": {
+   "like_post": 5,
+   "create_post": 1,
+   "create_comment": 4,
+   "interview": 1
+  },
+  "Walla": {
+   "create_comment": 3,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Kan 11": {
+   "create_comment": 2,
+   "like_post": 4,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Yashar": {
+   "like_post": 7,
+   "create_comment": 3,
+   "interview": 1
+  },
+  "Israel Hayom": {
+   "like_post": 5,
+   "create_comment": 2,
+   "create_post": 1,
+   "do_nothing": 2,
+   "interview": 1
+  },
+  "Times of Israel": {
+   "create_comment": 3,
+   "like_post": 3,
+   "create_post": 1,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Yashar voters": {
+   "like_post": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Together (Beyachad)": {
+   "create_comment": 2,
+   "create_post": 1,
+   "like_comment": 2,
+   "like_post": 7,
+   "interview": 1
+  },
+  "Israeli voters": {
+   "like_post": 2,
+   "dislike_comment": 1,
+   "create_comment": 4,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Jerusalem Post": {
+   "create_post": 1,
+   "create_comment": 3,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Likud voters": {
+   "like_post": 3,
+   "create_comment": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "User": {
+   "create_comment": 4,
+   "like_comment": 2,
+   "interview": 1
+  },
+  "Gideon Sa'ar": {
+   "create_comment": 2,
+   "like_post": 1,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Benjamin Netanyahu": {
+   "create_comment": 2,
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Shlomo Filber": {
+   "create_comment": 3,
+   "like_post": 3,
+   "interview": 1
+  },
+  "Maariv": {
+   "create_comment": 3,
+   "like_comment": 2,
+   "like_post": 3,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Bezalel Smotrich": {
+   "create_post": 2,
+   "create_comment": 5,
+   "like_post": 4,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Jewish Insider": {
+   "create_comment": 2,
+   "like_post": 4,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Ofer Winter's party": {
+   "create_comment": 7,
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "the Reservists": {
+   "create_comment": 2,
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Eli Cohen": {
+   "create_post": 1,
+   "like_post": 6,
+   "create_comment": 4,
+   "interview": 1
+  },
+  "Beyachad": {
+   "create_comment": 5,
+   "create_post": 1,
+   "like_post": 4,
+   "interview": 1
+  },
+  "JNS": {
+   "like_post": 3,
+   "interview": 1
+  },
+  "The Media Line": {
+   "create_post": 1,
+   "like_post": 4,
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Haaretz": {
+   "like_post": 5,
+   "create_comment": 1,
+   "create_post": 1,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Naftali Bennett": {
+   "create_comment": 2,
+   "like_post": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Blue and White": {
+   "create_post": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Benny Gantz": {
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Bennett 2026": {
+   "like_post": 3,
+   "create_comment": 3,
+   "create_post": 1,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Jewish Virtual Library": {
+   "create_post": 1,
+   "like_post": 2,
+   "interview": 1
+  },
+  "Amir Ohana": {
+   "like_post": 5,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Kan": {
+   "like_post": 5,
+   "create_comment": 3,
+   "do_nothing": 2,
+   "interview": 1
+  },
+  "Gadi Eisenkot": {
+   "like_post": 6,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "New Hope": {
+   "like_post": 5,
+   "create_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "i24NEWS": {
+   "create_comment": 3,
+   "like_post": 3,
+   "interview": 1
+  },
+  "Yesh Atid": {
+   "create_comment": 3,
+   "like_post": 4,
+   "create_post": 2,
+   "interview": 1
+  },
+  "Kantar": {
+   "create_comment": 1,
+   "like_comment": 1,
+   "interview": 1
+  },
+  "Itamar Ben-Gvir": {
+   "create_comment": 4,
+   "create_post": 1,
+   "dislike_post": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Yariv Levin": {
+   "like_post": 2,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "The coalition": {
+   "like_post": 1,
+   "interview": 1
+  },
+  "Zman Yisrael": {
+   "like_post": 2,
+   "create_comment": 1,
+   "do_nothing": 1,
+   "create_post": 1,
+   "interview": 1
+  },
+  "religious Zionists who voted Likud in 2022": {
+   "create_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Chili Tropper's party": {
+   "like_post": 1,
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Mainstream pollsters": {
+   "like_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Direct Polls": {
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Knesset": {
+   "interview": 1
+  }
+ },
+ "actions_per_model": {}
+}

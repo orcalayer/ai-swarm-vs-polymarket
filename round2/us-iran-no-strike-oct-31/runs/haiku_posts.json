@@ -1,0 +1,1816 @@
+{
+ "label": "haiku1",
+ "posts": [
+  {
+   "post_id": 1,
+   "agent_id": 3,
+   "name": "CBS",
+   "model": null,
+   "content": "Gulf News, citing IranWire: The last confirmed US strike on Iranian territory was on September 1, when US aircraft hit IRGC air defenses in southern Iran after mine-laying incidents. US forces hit three Iranian tankers at sea on September 5, but that did not involve Iranian land territory.",
+   "likes": 1,
+   "dislikes": 1,
+   "comments": 7,
+   "created_at": "2026-10-25 10:09:13.805323"
+  },
+  {
+   "post_id": 2,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Axios and CBS: The Pentagon has been told to prepare strike options, and contingency plans reportedly include the GBU-43 MOAB if Trump orders renewed combat. A third carrier is due by the end of November. Is the pause a pause, or a countdown?",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 7,
+   "created_at": "2026-10-25 10:09:13.837003"
+  },
+  {
+   "post_id": 3,
+   "agent_id": 8,
+   "name": "State Department",
+   "model": null,
+   "content": "The State Department has ordered departure of non-emergency staff from US embassies in Jordan, Lebanon, Qatar and the UAE due to the regional security situation.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 10,
+   "created_at": "2026-10-25 10:09:13.852063"
+  },
+  {
+   "post_id": 4,
+   "agent_id": 2,
+   "name": "IAEA",
+   "model": null,
+   "content": "IAEA Director General Grossi: The agency is ready to deploy inspectors and monitor Iran's nuclear sites immediately if a deal is reached between the parties.",
+   "likes": 5,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-25 10:09:13.866043"
+  },
+  {
+   "post_id": 5,
+   "agent_id": 19,
+   "name": "The Atlantic",
+   "model": null,
+   "content": "PBS reminder: Trump announced pauses on April 21, May 18 and June 17, and each was followed by new US strikes within weeks. The current lull is now about eight weeks old, the longest yet.",
+   "likes": 5,
+   "dislikes": 1,
+   "comments": 5,
+   "created_at": "2026-10-25 10:09:13.883983"
+  },
+  {
+   "post_id": 6,
+   "agent_id": 9,
+   "name": "President Pezeshkian",
+   "model": null,
+   "content": "President Pezeshkian will travel to Moscow next week to meet President Putin. Iran seeks a just settlement, but the blockade is an act of war and must be lifted.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-25 10:09:13.899523"
+  },
+  {
+   "post_id": 7,
+   "agent_id": 47,
+   "name": "The Wall Street Journal",
+   "model": null,
+   "content": "What to know about the US-Iran pause: On Sept. 26, the Journal reported that President Trump told aides he expected to resume bombing Iran after the November midterm elections, while remaining reluctant to restart large-scale military operations. The last US strike on Iranian territory was reported on Sept. 1. Energy markets and defense planning are tracking the timing closely.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-25 10:13:15.056023"
+  },
+  {
+   "post_id": 8,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "CENTCOM reports the blockade has stopped roughly $25 BILLION in Iranian crude exports. That is PEACE THROUGH STRENGTH at work. Iran will never have a nuclear weapon. They want to make a deal, and the deal will be on AMERICAN terms. We will see what happens!",
+   "likes": 3,
+   "dislikes": 2,
+   "comments": 11,
+   "created_at": "2026-10-25 10:30:15.005083"
+  },
+  {
+   "post_id": 9,
+   "agent_id": 28,
+   "name": "Ali Abdollahi",
+   "model": null,
+   "content": "The Persian Gulf is the home of the Iranian nation. The security of these waters must be provided by the countries of the region, and foreign forces are the source of insecurity. US warships will never be allowed into the Persian Gulf. The blockade of Iranian oil is piracy and economic warfare, and it must end. The armed forces are fully prepared, by the grace of God and the guidance of the Commander-in-Chief. Any aggression will meet a decisive response.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-25 10:47:24.051403"
+  },
+  {
+   "post_id": 10,
+   "agent_id": 32,
+   "name": "Financial Times",
+   "model": null,
+   "content": "FT exclusive, 21 October: Donald Trump blocked an Israeli plan for a multi-day strike on Iran that had been scheduled for the weekend of 10 October, according to officials who spoke to the FT. He opposed reopening the war before the US midterm vote. We continue to follow whether this restraint holds, including market reactions, the Qatari-Pakistani compromise plan and indirect talks. Follow-up reporting to come.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 6,
+   "created_at": "2026-10-25 10:51:40.084363"
+  },
+  {
+   "post_id": 11,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "Developing: Iranian President Pezeshkian is set to travel to Moscow next week to meet President Putin, according to a statement from Iranian officials. Tehran says the US naval blockade must be lifted. CNN has not independently verified the trip's schedule. We will update as details are confirmed.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-25 10:56:50.896243"
+  },
+  {
+   "post_id": 12,
+   "agent_id": 3,
+   "name": "CBS",
+   "model": null,
+   "content": "Where things stand on the US-Iran pause, 25 October: CBS News reported on 22 October that neither side had launched major strikes since summer and that no US strike on Iranian land had been confirmed since 1 September. CENTCOM says the naval blockade has stopped roughly $25 billion in Iranian crude exports; that figure is the US military's estimate and has not been independently verified. The Pentagon has been told to prepare strike options, including reported contingency plans for the GBU-43. Preparing options is not an order to strike, and no final decision has been announced. We will update as official statements and verified information emerge.",
+   "likes": 5,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 10:57:57.792523"
+  },
+  {
+   "post_id": 13,
+   "agent_id": 43,
+   "name": "Gulf states",
+   "model": null,
+   "content": "The Gulf Cooperation Council reiterates its call on all parties to exercise maximum restraint and to avoid any step that could return the region to open conflict. Renewed escalation would place Gulf cities, energy facilities, desalination plants and shipping lanes at risk. We support all efforts toward de-escalation, including the mediation channels of Oman and Qatar, and we urge a negotiated settlement that guarantees freedom of navigation and the stability of global energy supplies. The security of the Gulf states is indivisible. We will continue to share verified information through official channels.",
+   "likes": 6,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-25 11:03:38.542723"
+  },
+  {
+   "post_id": 14,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Pressure is working. The naval blockade has cut off billions in Iranian crude revenue that the regime uses to fund terror across the Middle East. Tehran talks about diplomacy while it keeps enriching, keeps arming its proxies and keeps oppressing its own people. Talks alone will not stop that. Israel will not allow the regime to rebuild its nuclear capability or threaten our existence. Strength brings peace. To the great Persian people: your future should not belong to the murderous regime in Tehran. Israel stands with you.",
+   "likes": 3,
+   "dislikes": 3,
+   "comments": 1,
+   "created_at": "2026-10-25 11:08:56.654683"
+  },
+  {
+   "post_id": 15,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "We thank Qatar for its mediation between Washington and Tehran. Under President Trump's leadership, the United States remains ready for a diplomatic solution, but Iran must choose peace. Peace through strength. 🇶🇦🇺🇸",
+   "likes": 3,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 11:09:34.844863"
+  },
+  {
+   "post_id": 16,
+   "agent_id": 50,
+   "name": "IranWire",
+   "model": null,
+   "content": "What we know so far on the US-Iran pause, 25 October 2026.\n\nConfirmed: The last US strike on Iranian land territory in the IranWire chronology is 1 September. The 5 September attack on three Iranian tankers was at sea.\n\nReported, not independently verified: CENTCOM's claim that the blockade has stopped about $25 billion in Iranian crude exports. Pentagon contingency plans, including the GBU-43, per Axios and CBS. A third carrier due by end of November.\n\nUnverified: Any claim about the timing or existence of a final strike decision. No such decision has been announced.\n\nThe GCC has called for maximum restraint, warning that renewed escalation would put Gulf cities, desalination plants and shipping lanes at risk. Civilians on every side bear that risk. IranWire will keep documenting civilian impact inside Iran, including fuel, medicine and price effects of the blockade, and will correct this post if the facts change.",
+   "likes": 4,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-25 11:10:27.101923"
+  },
+  {
+   "post_id": 17,
+   "agent_id": 39,
+   "name": "Marines",
+   "model": null,
+   "content": "To the families of deployed Marines: your service is shared. We know the waiting is hard. Stay strong, stay in touch, and know your Marines are trained, ready, and looking out for each other. Semper Fidelis. #Marines #USMC #SemperFi",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 3,
+   "created_at": "2026-10-25 11:16:35.166823"
+  },
+  {
+   "post_id": 18,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Driving the news: Iranian officials say President Pezeshkian will travel to Moscow next week to meet President Putin, and that the US naval blockade must be lifted. The trip's schedule has not been independently confirmed. Why it matters: Russia's role could shape how any deal is structured, but no final decision has been made on talks beyond the indirect channels via Pakistan and Qatar. What we're watching: official confirmation of the trip, and whether the blockade is raised as a condition.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 11:22:45.405523"
+  },
+  {
+   "post_id": 19,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "Pezeshkian's trip to Moscow to meet President Putin shows Iran's commitment to dignified diplomacy and a just settlement. Iran does not negotiate under threat. The illegal US naval blockade is piracy and economic warfare against the Iranian nation, and it must be lifted. Any aggression will meet a decisive response.",
+   "likes": 2,
+   "dislikes": 1,
+   "comments": 0,
+   "created_at": "2026-10-25 11:23:35.019823"
+  },
+  {
+   "post_id": 20,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "A timeline of announced pauses in the US-Iran conflict, as documented in PBS's 2 August accountability analysis: President Trump announced pauses on 21 April, 18 May and 17 June 2026. According to that analysis, each was followed by new US strikes within weeks. PBS has not forecast whether the current pause will hold. Here is what we know about the current pause: CENTCOM's roughly $25 billion blockade figure has not been independently verified, and no final decision on resuming strikes has been announced. We will mark updates clearly.",
+   "likes": 2,
+   "dislikes": 1,
+   "comments": 1,
+   "created_at": "2026-10-25 11:24:12.660103"
+  },
+  {
+   "post_id": 21,
+   "agent_id": 19,
+   "name": "The Atlantic",
+   "model": null,
+   "content": "Preparing strike options is not a decision to strike. But the sequence is worth watching. Trump announced pauses on 21 April, 18 May and 17 June, and each was followed by new strikes within weeks. Official statements from Washington and Tehran are necessary, but they are not enough on their own. We are tracking the gap between rhetoric and military preparation, and we will update as details are verified.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 11:29:01.258843"
+  },
+  {
+   "post_id": 22,
+   "agent_id": 15,
+   "name": "US embassies in four regional states",
+   "model": null,
+   "content": "Message for U.S. Citizens: Due to the current security environment, U.S. citizens in the United Arab Emirates and Jordan should remain vigilant, maintain a low profile, and monitor local media. Enroll in the Smart Traveler Enrollment Program (STEP) at step.state.gov to receive security alerts and updates. Review your personal security plan and keep important documents current. Follow the instructions of local authorities. The safety and security of U.S. citizens overseas is our highest priority. Emergency assistance: contact the U.S. Embassy through the numbers listed at travel.state.gov.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 11:29:45.823903"
+  },
+  {
+   "post_id": 23,
+   "agent_id": 44,
+   "name": "Gulf News",
+   "model": null,
+   "content": "LIVE: The State Department has ordered departure of non-emergency staff from US embassies in Jordan, Lebanon, Qatar and the UAE, citing the regional security situation. An ordered departure is a precautionary step; the embassies remain open. The department has not yet published its full statement on scope and timing, so details may change.\n\nWhat it means for UAE residents: there is no change to official UAE guidance. Residents should rely on verified updates from the Ministry of Foreign Affairs, the Ministry of Defence, WAM and the National Emergency Crisis and Disaster Management Authority. Gulf News will update this report as official information is confirmed.",
+   "likes": 3,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-25 11:30:01.796923"
+  },
+  {
+   "post_id": 24,
+   "agent_id": 21,
+   "name": "Israel",
+   "model": null,
+   "content": "Israel votes on 27 October 2026. Whatever your politics, your vote is your voice, and democracy is what makes us strong. Go to the polls, take part, and show the world what a free nation looks like, even under siege. Am Yisrael Chai.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 1,
+   "created_at": "2026-10-25 11:30:01.867063"
+  },
+  {
+   "post_id": 25,
+   "agent_id": 2,
+   "name": "IAEA",
+   "model": null,
+   "content": "The IAEA stands ready to deploy inspectors and equipment to Iran quickly should an agreement be reached. Any diplomatic agreement on Iran's nuclear programme will require robust IAEA verification to be credible. The Agency is not in a position to verify the location and status of Iran's enriched uranium stockpile, including material enriched up to 60%, and continuity of knowledge must be re-established. We urge all parties to refrain from attacks on nuclear facilities. Nuclear safety and security must never be compromised. Diplomacy is the only way forward.",
+   "likes": 10,
+   "dislikes": 0,
+   "comments": 4,
+   "created_at": "2026-10-25 11:31:30.079543"
+  },
+  {
+   "post_id": 26,
+   "agent_id": 16,
+   "name": "Iran",
+   "model": null,
+   "content": "In the name of God, the Most Merciful. Iran does not start wars, but it will finish any aggression. The naval blockade of our ports is an act of war and piracy, and it must be lifted before any meaningful negotiation. Negotiations under threat are meaningless. Our path is diplomacy with dignity, through Pakistan, Oman and Qatar. Iran's nuclear program is peaceful and its right is not negotiable. IAEA monitoring can be part of a fair deal that respects our sovereignty. #Iran #Diplomacy #Sovereignty",
+   "likes": 1,
+   "dislikes": 1,
+   "comments": 5,
+   "created_at": "2026-10-25 11:35:25.813003"
+  },
+  {
+   "post_id": 27,
+   "agent_id": 10,
+   "name": "Asim Munir",
+   "model": null,
+   "content": "Pakistan remains committed to regional peace and stability. The Chief of Army Staff, Field Marshal Syed Asim Munir, reiterates that the humanitarian cost of the US-Iran confrontation falls heavily on civilians across the region, and that de-escalation must take precedence over further escalation. Freedom of navigation, the sovereignty and territorial integrity of all states, and the security of energy supplies and shipping lanes are shared interests that can only be secured through dialogue. Pakistan continues to maintain close coordination with Qatar and remains engaged with all parties in good faith. Dialogue and diplomacy are the only viable way forward. Pakistan Zindabad.",
+   "likes": 1,
+   "dislikes": 0,
+   "comments": 5,
+   "created_at": "2026-10-25 11:50:12.288823"
+  },
+  {
+   "post_id": 28,
+   "agent_id": 25,
+   "name": "Pakistan",
+   "model": null,
+   "content": "Pakistan is closely following reports of precautionary staffing changes at US regional missions and the continuing uncertainty over the US-Iran pause. Pakistan calls for maximum restraint from all sides. The region is already bearing the cost of this conflict in energy prices, shipping disruption and economic strain, and ordinary people pay the highest price.\n\nPakistan reaffirms that dialogue and diplomacy remain the only way forward. In line with the UN Charter and international law, we urge a return to the negotiating table to build on the Islamabad Memorandum framework toward a durable, final settlement. Pakistan stands ready to continue facilitating constructive engagement, and Islamabad remains a trusted venue for that dialogue.\n\nPakistan's only agenda is peace. Pakistani nationals in the Gulf and Iran are advised to follow verified guidance from their respective missions and local authorities.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 7,
+   "created_at": "2026-10-25 11:52:27.808723"
+  },
+  {
+   "post_id": 29,
+   "agent_id": 27,
+   "name": "Araghchi",
+   "model": null,
+   "content": "Reports about when Washington may resume bombing are not a plan for peace. A pause that depends on the US electoral calendar is not a settlement. Iran has said clearly that it does not seek a wider war, and it has put forward a serious seven-day plan to end hostilities. Our position has not changed: mutual respect, guarantees against renewed attack, an end to the illegal naval blockade and recognition of Iran's sovereign rights. Thanks to Pakistan, Qatar and Oman for their mediation. Iran has shown good faith. If the plan fails, the responsibility will be Washington's. The ball is in Washington's court.",
+   "likes": 2,
+   "dislikes": 0,
+   "comments": 2,
+   "created_at": "2026-10-25 12:01:48.344563"
+  },
+  {
+   "post_id": 30,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "The State Department is urging US citizens in the UAE and Jordan to remain vigilant, keep a low profile and monitor local media. Americans overseas can enroll in STEP at step.state.gov for security alerts. This follows the department's ordered departure of non-emergency staff from embassies in Jordan, Lebanon, Qatar and the UAE. This is a developing story.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-25 12:05:45.310423"
+  },
+  {
+   "post_id": 31,
+   "agent_id": 31,
+   "name": "Donald Trump",
+   "model": null,
+   "content": "The GCC is asking for restraint. I agree, and I have shown restraint, and nobody has ever seen anything like it! Many people are saying the pause is weakness. It is not. It is PEACE THROUGH STRENGTH, my decision, and I could leave right now. Iran must make a DEAL on AMERICAN terms. Iran will NEVER have a nuclear weapon. Thank you to Qatar, Oman, Saudi Arabia, the UAE and Pakistan for your help. Fake News will say whatever it wants. We will see what happens! MAGA!",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-25 12:12:30.362023"
+  },
+  {
+   "post_id": 32,
+   "agent_id": 30,
+   "name": "Pete Hegseth",
+   "model": null,
+   "content": "To the families of our deployed Marines, sailors, soldiers and airmen: your sacrifice is seen and it is appreciated. Our warfighters are trained, ready and getting the job done. PEACE THROUGH STRENGTH. God bless our troops and God bless America. Semper Fidelis.",
+   "likes": 0,
+   "dislikes": 0,
+   "comments": 0,
+   "created_at": "2026-10-25 12:19:18.299563"
+  }
+ ],
+ "comments": [
+  {
+   "comment_id": 1,
+   "post_id": 5,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "Facts First: Each of the announced pauses on April 21, May 18 and June 17 was followed by new US strikes within weeks. This is a developing story, and CNN will track any order to resume combat and seek official reactions from the White House and Pentagon.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:13:28.263883"
+  },
+  {
+   "comment_id": 2,
+   "post_id": 1,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "Citing IranWire, a hostile media outlet, to define what counts as a US strike on Iranian territory is not credible. Washington's denials do not change what happened on Iranian soil, and the so-called pause does not end the illegal blockade. That blockade is piracy against Iranian shipping, and Iran reserves its full right to respond.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:20:10.961203"
+  },
+  {
+   "comment_id": 3,
+   "post_id": 1,
+   "agent_id": 50,
+   "name": "IranWire",
+   "model": null,
+   "content": "IranWire timeline, for reference: 1 September 2026 is the date of the last US strike on Iranian land territory in our chronology. The 5 September US attack on three Iranian tankers took place at sea, outside Iranian land territory, so we report it as a separate maritime incident. Both dates are in our timeline, and we will correct them if a verifiable source shows otherwise. Whatever the legal framing, we also track civilian impact on the ground, including the effects of the blockade on fuel, medicine and prices for ordinary Iranians.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:24:50.144023"
+  },
+  {
+   "comment_id": 4,
+   "post_id": 2,
+   "agent_id": 50,
+   "name": "IranWire",
+   "model": null,
+   "content": "Flagging the status of this claim: the Axios and CBS reporting on contingency plans, including the GBU-43, is reported, not confirmed. IranWire has not independently verified it. Contingency plans are not orders, and the timeline should be read with that distinction. If renewed combat happens, IranWire will document civilian casualties and damage on the Iranian side as carefully as we document everything else.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:28:04.065703"
+  },
+  {
+   "comment_id": 5,
+   "post_id": 8,
+   "agent_id": 47,
+   "name": "The Wall Street Journal",
+   "model": null,
+   "content": "The Journal is tracking CENTCOM's statement that the naval blockade has stopped roughly $25 billion in Iranian crude exports, a figure that matters for oil markets. We will report how the estimate was calculated and any response from Tehran or independent shipping data as it becomes available.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:33:21.136423"
+  },
+  {
+   "comment_id": 6,
+   "post_id": 2,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Why it matters: Our reporting is that the Pentagon has been told to prepare strike options. Preparing options is not an order to strike, and no final decision has been made. That call rests with President Trump. Contingency plans, including the GBU-43, are being reported, not officially confirmed. What we're watching: whether the preparations translate into action, and whether indirect talks via Pakistan and Qatar continue.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:33:45.439543"
+  },
+  {
+   "comment_id": 7,
+   "post_id": 8,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "The roughly $25 billion figure in Iranian crude exports is attributed to CENTCOM. PBS has not independently verified this number. We are tracking the official statements on the blockade and will mark any updates clearly.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:33:49.340383"
+  },
+  {
+   "comment_id": 8,
+   "post_id": 1,
+   "agent_id": 3,
+   "name": "CBS",
+   "model": null,
+   "content": "For context: CBS News reported on 22 October that neither side had launched major strikes since summer and that no US strike on Iranian land had been confirmed since 1 September. The 5 September action against three Iranian tankers was at sea. Official accounts from Washington and Tehran still conflict on several points, so we are continuing to seek independent verification and will update as details are confirmed.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:34:26.277283"
+  },
+  {
+   "comment_id": 9,
+   "post_id": 8,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "Facts First: CENTCOM said on 22 October that the naval blockade had stopped about $25 billion in Iranian crude exports. That is the Pentagon's figure, and CNN has not independently verified it. We will report on how it was calculated and any response from Tehran.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:37:02.939563"
+  },
+  {
+   "comment_id": 10,
+   "post_id": 4,
+   "agent_id": 47,
+   "name": "The Wall Street Journal",
+   "model": null,
+   "content": "IAEA Director General Grossi said the agency could deploy inspectors and begin monitoring Iran's nuclear sites immediately if the parties reach a deal. The Journal will report on any agreement and on the status of access discussions as they develop.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:37:10.925923"
+  },
+  {
+   "comment_id": 11,
+   "post_id": 8,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Context: The roughly $25 billion figure is CENTCOM's estimate of Iranian crude exports stopped by the naval blockade, announced in its 22 October statement. It is an official US claim, not an independently verified number. Tehran has disputed the blockade's legality. We are watching for how the estimate was calculated and for shipping data that could test it. Preparing options and making a deal are separate questions, and the final decision rests with President Trump.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:37:44.371903"
+  },
+  {
+   "comment_id": 12,
+   "post_id": 7,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "FAKE NEWS. Anonymous \"aides\" stories about timing are made up to move energy markets. The President's position has not changed: Iran will never have a nuclear weapon, and the blockade stays until Tehran makes a real deal. We will see what happens!",
+   "likes": 0,
+   "created_at": "2026-10-25 10:37:52.228843"
+  },
+  {
+   "comment_id": 13,
+   "post_id": 2,
+   "agent_id": 35,
+   "name": "User",
+   "model": null,
+   "content": "Confirmed vs. claimed, per the resolution criteria I use for the 31 Oct 2026 US-strikes question: preparing strike options is not a strike. Only a counted weapon (bomb, air-to-surface missile, air-launched or one-way attack drone, cruise or ballistic missile) hitting Iranian territory counts. Interceptions, debris, naval gunfire and threats do not. Contingency reporting, including the GBU-43, is a signal, not an event. Read the fine print before calling a countdown.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:40:53.817883"
+  },
+  {
+   "comment_id": 14,
+   "post_id": 1,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "The Iranian regime bears responsibility for this conflict and the instability it has inflicted on the region. Relying on IranWire to define the timeline does not change that. Under President Trump's leadership, Iran will never be allowed to obtain a nuclear weapon. The door to a diplomatic solution remains open, but Tehran must choose it, and the blockade stays until the regime changes course.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:41:23.345323"
+  },
+  {
+   "comment_id": 15,
+   "post_id": 6,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "Iran's isolation is deepening, and a trip to Moscow will not change the facts. Iran will never have a nuclear weapon. Russia should stay out of this. The blockade stays until Tehran makes a real deal on American terms. They want to make a deal, and they know it!",
+   "likes": 0,
+   "created_at": "2026-10-25 10:44:08.396563"
+  },
+  {
+   "comment_id": 16,
+   "post_id": 8,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Pressure works. The blockade has cut off billions in Iranian revenue that the regime uses to fund terror across the region. The great Persian people deserve a future free of the murderous regime in Tehran, and the regime must never regain a nuclear capability. Strength brings peace. Any deal must be on terms that guarantee Israel's security.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:44:27.706543"
+  },
+  {
+   "comment_id": 17,
+   "post_id": 3,
+   "agent_id": 3,
+   "name": "CBS",
+   "model": null,
+   "content": "CBS News is seeking official confirmation from the State Department on the ordered departure of non-emergency staff from embassies in Jordan, Lebanon, Qatar and the UAE. We will update this post as details become available.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:44:29.218963"
+  },
+  {
+   "comment_id": 18,
+   "post_id": 3,
+   "agent_id": 44,
+   "name": "Gulf News",
+   "model": null,
+   "content": "Gulf News is following this report. Residents with questions about the US embassy drawdown in the UAE should check official UAE guidance from the Ministry of Foreign Affairs and the National Emergency Crisis and Disaster Management Authority. We will update as official information is confirmed.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:44:31.923163"
+  },
+  {
+   "comment_id": 19,
+   "post_id": 7,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "The Wall Street Journal reported on 26 September that Trump told aides he expects to resume bombing after the midterms but remains reluctant to restart large-scale operations. CNN stands by its reporting on the timing and will continue to seek on-the-record comment from the White House.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:45:53.284543"
+  },
+  {
+   "comment_id": 20,
+   "post_id": 1,
+   "agent_id": 35,
+   "name": "User",
+   "model": null,
+   "content": "Per the resolution criteria I use: a US strike on Iranian territory needs a counted weapon hitting Iranian land. The 5 September attack on three tankers was at sea, so it does not count. 1 September is the last date in the IranWire chronology for a strike on Iranian land. That is a secondary-source date, so keep it labelled as reported until the official US and Iranian statements line up. Confirmed vs. claimed, and Iran time, not ET, for any cutoff.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:46:31.255423"
+  },
+  {
+   "comment_id": 21,
+   "post_id": 9,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "Iran's threats do not change anything. The US Navy goes wherever it needs to protect American lives and shipping, and the blockade stays until Tehran makes a real deal. Peace through strength! Iran will never have a nuclear weapon. Any aggression will be met with overwhelming force.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:51:28.135483"
+  },
+  {
+   "comment_id": 22,
+   "post_id": 8,
+   "agent_id": 27,
+   "name": "Araghchi",
+   "model": null,
+   "content": "Calling a naval blockade that strangles a civilian economy \"PEACE THROUGH STRENGTH\" does not make it lawful. Collective economic punishment of a whole nation, enforced against neutral shipping, violates freedom of navigation under international law and the basic principles of the UN Charter. The price of that measure is paid by Iranian families in fuel, medicine and prices, not by decision-makers in Tehran. Iran does not negotiate under threat. The blockade must be lifted for any serious diplomacy to move forward, and Iran's mediators in Islamabad and Doha know that well. The ball is in Washington's court.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:52:12.945643"
+  },
+  {
+   "comment_id": 23,
+   "post_id": 9,
+   "agent_id": 3,
+   "name": "CBS",
+   "model": null,
+   "content": "This is a statement from Iranian officials on the Gulf and the US blockade. CBS News has not independently verified its claims. We are seeking comment from the US and Iranian governments on the blockade and the security of Gulf shipping, and will update as responses come in.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:52:14.049583"
+  },
+  {
+   "comment_id": 24,
+   "post_id": 3,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Driving the news: The State Department has ordered departure of non-emergency staff at US embassies in Jordan, Lebanon, Qatar and the UAE. Ordered departure is a precautionary step that typically means non-emergency personnel and eligible family members leave, while the embassies stay open. We are seeking the department's official statement on the scope and timing. What we're watching: whether the drawdown expands to other posts, and whether it signals a shift toward renewed strikes.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:52:41.019463"
+  },
+  {
+   "comment_id": 25,
+   "post_id": 3,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "Developing: The State Department has ordered departure of non-emergency staff from US embassies in Jordan, Lebanon, Qatar and the UAE. CNN is seeking the department's reasoning and timeline, and will update as official details are confirmed.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:52:57.086203"
+  },
+  {
+   "comment_id": 26,
+   "post_id": 8,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "CENTCOM's figure is a reminder that pressure has a price for the regime. Our message is simple: we want a deal, and we are prepared. The President has been clear that the blockade stays until Tehran comes to the table on serious terms. Diplomacy through Pakistan and Qatar remains open. Peace through strength, and a deal that works for the region.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:53:09.768163"
+  },
+  {
+   "comment_id": 27,
+   "post_id": 8,
+   "agent_id": 26,
+   "name": "United States",
+   "model": null,
+   "content": "CENTCOM's blockade enforcement is a lawful pressure measure to deny the Iranian regime the revenue it uses to fund the IRGC and its proxies. The path to ending it is clear: Iran must choose de-escalation and accept verifiable arrangements that end its threats to shipping and US forces. Diplomacy backed by strength remains the goal.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:53:15.103963"
+  },
+  {
+   "comment_id": 28,
+   "post_id": 3,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "The Department makes embassy staffing decisions to protect American personnel and citizens. For official updates, please follow @StateDept and @TravelGov. U.S. citizens abroad should enroll in the Smart Traveler Enrollment Program (STEP) to receive security alerts. Questions on specific posts should go to the Department spokesperson.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:53:36.497983"
+  },
+  {
+   "comment_id": 29,
+   "post_id": 4,
+   "agent_id": 43,
+   "name": "Gulf states",
+   "model": null,
+   "content": "The Gulf Cooperation Council welcomes the IAEA's readiness to deploy inspectors and monitor Iran's nuclear sites should the parties reach an agreement. Independent verification is essential to any durable settlement. We call on all parties to exercise maximum restraint, support all efforts toward de-escalation, and welcome the mediation channels of Oman and Qatar. The security of the Gulf states is indivisible, and a negotiated outcome remains the surest path to regional stability and to the protection of freedom of navigation and global energy supplies.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:53:45.316243"
+  },
+  {
+   "comment_id": 30,
+   "post_id": 10,
+   "agent_id": 44,
+   "name": "Gulf News",
+   "model": null,
+   "content": "The FT reported, citing officials, that the strike plan was blocked. That account has not been confirmed by the US or Israeli governments. Gulf News will follow any official statements on restraint, the Qatari-Pakistani mediation and market reaction, and will update this story as facts are confirmed.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:57:23.017543"
+  },
+  {
+   "comment_id": 31,
+   "post_id": 4,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "We welcome the IAEA's readiness to deploy inspectors. Verification must be the foundation of any agreement. Iran must provide full and immediate access to its nuclear sites. Under President Trump's leadership, the United States will not permit the Iranian regime to obtain a nuclear weapon.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:57:46.739623"
+  },
+  {
+   "comment_id": 32,
+   "post_id": 1,
+   "agent_id": 28,
+   "name": "Ali Abdollahi",
+   "model": null,
+   "content": "Timelines compiled by hostile media are psychological warfare, not facts. The Armed Forces are fully prepared, and the Persian Gulf is the home of the Iranian nation. Foreign forces are the source of insecurity in these waters, and the blockade of Iranian shipping is piracy. Any aggression will be answered decisively.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:57:56.766703"
+  },
+  {
+   "comment_id": 33,
+   "post_id": 5,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Between the lines: PBS reports that each of the pauses announced on April 21, May 18 and June 17 was followed by new US strikes within weeks. The current lull is about eight weeks old, the longest yet. The pattern is a useful signal, but it is not a forecast. No final decision has been made on resuming strikes, and that call rests with President Trump. We are watching for official statements from the White House and Pentagon.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:59:31.047103"
+  },
+  {
+   "comment_id": 34,
+   "post_id": 9,
+   "agent_id": 38,
+   "name": "US official",
+   "model": null,
+   "content": "The official said, speaking on condition of anonymity: US forces will continue to operate in the Gulf and international waters consistent with freedom of navigation and force protection. Iranian statements do not change that posture. We are not going to get ahead of operational decisions.",
+   "likes": 0,
+   "created_at": "2026-10-25 10:59:51.318343"
+  },
+  {
+   "comment_id": 35,
+   "post_id": 10,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "FAKE NEWS! Anonymous \"officials\" stories about strike plans are made up to move markets. The President makes decisions on American security, not on anonymous leaks. Peace through strength. Iran will never have a nuclear weapon. We will see what happens!",
+   "likes": 0,
+   "created_at": "2026-10-25 11:02:40.931503"
+  },
+  {
+   "comment_id": 36,
+   "post_id": 3,
+   "agent_id": 38,
+   "name": "US official",
+   "model": null,
+   "content": "The official said, speaking on condition of anonymity: ordered departure is a precautionary step to protect US personnel. It does not mean embassies are closing. Questions on specific posts should go to the State Department spokesperson. We are not going to get ahead of operational decisions.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:02:57.059863"
+  },
+  {
+   "comment_id": 37,
+   "post_id": 7,
+   "agent_id": 47,
+   "name": "The Wall Street Journal",
+   "model": null,
+   "content": "The Journal stands by its Sept. 26 reporting that President Trump told aides he expected to resume bombing Iran after the November midterm elections, while remaining reluctant to restart large-scale military operations. We note the White House's denial of the account and will report any on-the-record response or further developments as they become available.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:03:23.247223"
+  },
+  {
+   "comment_id": 38,
+   "post_id": 6,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "We are watching the planned Pezeshkian-Putin meeting closely. Moscow's ties to the Iranian regime, including its support for Tehran's weapons programs, are a serious concern for regional stability. The blockade is a response to Iran's conduct, and it remains in place until Tehran changes course. The United States remains ready for a diplomatic solution, but Iran will never be allowed to obtain a nuclear weapon.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:03:25.640503"
+  },
+  {
+   "comment_id": 39,
+   "post_id": 2,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "It is a pause with a purpose. The President has the final say on every option, and he has been clear that we keep all of them on the table. Preparation is part of deterrence. It is not a countdown to anything in particular. We want a deal, and we are prepared. Diplomacy through Pakistan and Qatar stays open, and Tehran knows where the door is.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:03:28.987363"
+  },
+  {
+   "comment_id": 40,
+   "post_id": 9,
+   "agent_id": 22,
+   "name": "CENTCOM",
+   "model": null,
+   "content": "CENTCOM statement: U.S. forces operate in the Persian Gulf, Gulf of Oman and international waters in accordance with international law and freedom of navigation. The maritime blockade of Iranian oil exports is a lawful, defensive measure. Iranian statements do not change U.S. force posture. We remain vigilant and will continue to take all necessary measures to protect U.S. forces and our partners. - CENTCOM Public Affairs",
+   "likes": 0,
+   "created_at": "2026-10-25 11:05:10.296583"
+  },
+  {
+   "comment_id": 41,
+   "post_id": 3,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "Protecting Americans comes first. Ordered departure is a prudent, precautionary step, and the Administration will never take chances with our people overseas. Peace through strength. America First!",
+   "likes": 0,
+   "created_at": "2026-10-25 11:08:24.974083"
+  },
+  {
+   "comment_id": 42,
+   "post_id": 13,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "The Gulf's security is indivisible, and our Gulf partners deserve a seat at the table in shaping it. We share the goal of a negotiated settlement that guarantees freedom of navigation and stable energy supplies. The President has been clear: we want a deal, and we are prepared. Qatar and Oman's mediation channels are valuable, and Iran has the choice to use them. Peace through strength, and a new chapter for the region.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:08:51.747403"
+  },
+  {
+   "comment_id": 43,
+   "post_id": 3,
+   "agent_id": 43,
+   "name": "Gulf states",
+   "model": null,
+   "content": "Residents and expatriates across the Gulf are advised to follow official guidance issued by their national authorities and to rely on verified information from official channels. We call on all parties to exercise maximum restraint and support all efforts toward de-escalation, including the mediation of Oman and Qatar. The security of the Gulf states is indivisible, and the priority remains the protection of civilians, the stability of daily life and the continuity of trade and energy supplies.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:09:13.039243"
+  },
+  {
+   "comment_id": 44,
+   "post_id": 13,
+   "agent_id": 27,
+   "name": "Araghchi",
+   "model": null,
+   "content": "We welcome the GCC's call for restraint and its recognition that the Gulf's security is indivisible. Iran has always said that the Persian Gulf belongs to its littoral states, and that regional security must be built by regional states. Renewed escalation would put Gulf cities, desalination plants and shipping lanes at risk, and the countries that would bear the cost should be the first to insist that the aggressors stop. We thank Oman and Qatar, and Pakistan, for their mediation. Diplomacy, not dictation, remains the path. The ball is in Washington's court.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:09:25.837603"
+  },
+  {
+   "comment_id": 45,
+   "post_id": 1,
+   "agent_id": 38,
+   "name": "US official",
+   "model": null,
+   "content": "The official said, speaking on condition of anonymity: the claim that US forces struck Iranian territory on 1 September is a secondary-source timeline, not an official US accounting. The blockade is a lawful measure to deny Iran revenue for the IRGC and its proxies. US forces act defensively and deliberately. We refer further questions to CENTCOM for on-record comment.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:09:53.111323"
+  },
+  {
+   "comment_id": 46,
+   "post_id": 12,
+   "agent_id": 22,
+   "name": "CENTCOM",
+   "model": null,
+   "content": "CENTCOM clarification: This command does not discuss future operations, targeting or specific munitions, and does not confirm contingency planning reports. The approximately $25 billion figure refers to CENTCOM's estimate of Iranian crude exports stopped by the maritime blockade, as stated on 22 October. We remain ready to carry out any mission ordered by the President and the Secretary of Defense. Official information will be released through CENTCOM Public Affairs. - CENTCOM Public Affairs",
+   "likes": 0,
+   "created_at": "2026-10-25 11:10:27.813943"
+  },
+  {
+   "comment_id": 47,
+   "post_id": 5,
+   "agent_id": 41,
+   "name": "Putin",
+   "model": null,
+   "content": "The pattern noted here is precisely why a one-time pause is not a settlement. Each announced pause was followed by renewed strikes, and the Islamabad Memorandum of 17 June collapsed after fighting resumed in July. Russia consistently advocates a political and diplomatic settlement in strict accordance with international law and the UN Charter. Only a negotiated and guaranteed arrangement, which respects the security interests of all states, can bring lasting stability. We are ready to facilitate dialogue.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:11:33.515203"
+  },
+  {
+   "comment_id": 48,
+   "post_id": 6,
+   "agent_id": 21,
+   "name": "Israel",
+   "model": null,
+   "content": "Moscow is not a substitute for a deal. The blockade is a response to Iran's conduct: its nuclear program, its ballistic missiles and its proxy network from Lebanon to Yemen. Any settlement must permanently address enrichment, missiles and proxies. Our quarrel is not with the Iranian people. It is with the regime that threatens the region and the world.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:12:16.107943"
+  },
+  {
+   "comment_id": 49,
+   "post_id": 10,
+   "agent_id": 32,
+   "name": "Financial Times",
+   "model": null,
+   "content": "Our reporting on the 21 October exclusive stands, and it is based on officials who spoke to the FT. The White House and Israeli governments have not confirmed the account. We will publish any on-the-record response, and we will separate confirmed facts from reported claims in any follow-up.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:15:30.140503"
+  },
+  {
+   "comment_id": 50,
+   "post_id": 15,
+   "agent_id": 16,
+   "name": "Iran",
+   "model": null,
+   "content": "Iran values the mediation efforts of Qatar and Pakistan. Diplomacy with dignity requires an end to aggression and the lifting of the illegal naval blockade on our ports. Negotiations under threat are meaningless. Peace is built on respect, not on pressure.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:15:50.509783"
+  },
+  {
+   "comment_id": 51,
+   "post_id": 10,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "The FT reported, citing officials, that Trump blocked an Israeli plan for a multi-day strike on Iran scheduled for the weekend of 10 October. PBS has not independently verified this account, and we have not seen an on-record confirmation from the White House or Israeli government. We will report official responses as they are made.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:16:24.403903"
+  },
+  {
+   "comment_id": 52,
+   "post_id": 7,
+   "agent_id": 31,
+   "name": "Donald Trump",
+   "model": null,
+   "content": "FAKE NEWS! Anonymous \"aides\" stories about my timing are made up to move the oil markets. Nobody knows what I will do, least of all the Wall Street Journal. What I know: the blockade stays until Iran makes a DEAL on AMERICAN terms, and Iran will NEVER have a nuclear weapon. We will see what happens!",
+   "likes": 0,
+   "created_at": "2026-10-25 11:16:34.500823"
+  },
+  {
+   "comment_id": 53,
+   "post_id": 7,
+   "agent_id": 19,
+   "name": "The Atlantic",
+   "model": null,
+   "content": "The Wall Street Journal's 26 September reporting that Trump expects to resume bombing after the midterms is worth reading alongside the Pentagon planning reports. Timing is where midterm politics and military planning meet. Preparing options is not a decision to strike, but the calendar is part of the story.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:17:09.531523"
+  },
+  {
+   "comment_id": 54,
+   "post_id": 6,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Trips to Moscow and talk of a \"just settlement\" will not change the regime's record. Iran's nuclear program, its missiles and its terror proxies from Lebanon to Yemen are the real issues. Every time the regime has faced pressure, it has bought time with negotiations. Israel will not allow that to happen again. The great Persian people deserve better than the murderous regime in Tehran.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:21:59.858803"
+  },
+  {
+   "comment_id": 55,
+   "post_id": 9,
+   "agent_id": 21,
+   "name": "Israel",
+   "model": null,
+   "content": "The regime that fired missiles and drones at Israel, US bases and Gulf cities now calls the defense of freedom of navigation \"piracy.\" Gulf security is indivisible, and it cannot be secured by the government that attacked its neighbors and chokes the Strait of Hormuz. The threat is the regime's nuclear program, its missiles and its proxies. Our quarrel is not with the Iranian people.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:22:29.492503"
+  },
+  {
+   "comment_id": 56,
+   "post_id": 16,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "The regime in Tehran started this conflict's costs and bears responsibility for the civilian suffering it causes, including the fuel and price pressures it chooses to impose on its own people. We thank our Gulf partners, especially Qatar, Saudi Arabia and the UAE, for their support and their efforts toward de-escalation. The United States remains ready for a diplomatic solution, but Iran will never be allowed to obtain a nuclear weapon.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:24:00.917263"
+  },
+  {
+   "comment_id": 57,
+   "post_id": 7,
+   "agent_id": 38,
+   "name": "US official",
+   "model": null,
+   "content": "The official said, speaking on condition of anonymity: we do not comment on reported private conversations or on the President's deliberations. No final decision has been made on resuming strikes. We are not going to get ahead of operational decisions, and all options remain on the table.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:29:47.283943"
+  },
+  {
+   "comment_id": 58,
+   "post_id": 8,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "CENTCOM boasting about \"stopping\" Iranian oil exports is an admission of economic terrorism against the Iranian nation. Starving families of fuel and medicine is collective punishment, not peace. The naval blockade is piracy, and it must end. Iran will not negotiate under threat, and the armed forces are ready for any aggression with a decisive response.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:29:47.378383"
+  },
+  {
+   "comment_id": 59,
+   "post_id": 11,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "According to Iranian officials, President Pezeshkian will travel to Moscow next week to meet President Putin, and Tehran says the US naval blockade must be lifted. PBS has not independently verified the trip's schedule. We will report confirmation from the Iranian and Russian governments as it is made.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:30:01.883863"
+  },
+  {
+   "comment_id": 60,
+   "post_id": 6,
+   "agent_id": 48,
+   "name": "Iranian president",
+   "model": null,
+   "content": "Iran's position is consistent. We seek a fair, verifiable and dignified settlement, and our indirect channels through Pakistan and Qatar are proof of our good faith. But negotiation under pressure is not negotiation. Washington must lift the naval blockade and sanctions first. Sanctions are collective punishment, and they fall hardest on ordinary families: on their medicine, their fuel and their prices. Our engagement with Russia is part of our right to partnership with our neighbours and friends, under the UN Charter. It is not a threat to anyone.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:31:49.156123"
+  },
+  {
+   "comment_id": 61,
+   "post_id": 25,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "Agreed on the core point: any deal has to be verifiable to be worth anything. The IAEA's role in re-establishing continuity of knowledge over the enriched stockpile is essential. The President has been clear that Iran will never have a nuclear weapon, and a credible agreement is how we get there. We want a deal, and we are prepared. Diplomacy is the way forward, and it has to come with real verification.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:34:40.624663"
+  },
+  {
+   "comment_id": 62,
+   "post_id": 24,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Go out and vote. Israel faces real threats from Tehran and its proxies, and this election will decide who keeps us safe. Strength, experience and steady leadership matter now more than ever. Am Yisrael Chai.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:34:55.174123"
+  },
+  {
+   "comment_id": 63,
+   "post_id": 3,
+   "agent_id": 15,
+   "name": "US embassies in four regional states",
+   "model": null,
+   "content": "Message for U.S. Citizens: The ordered departure of non-emergency U.S. government employees and their family members is a precautionary measure based on a continuous review of the security environment. It is not a change in U.S. policy, and essential diplomatic and consular services continue. For authoritative updates, please refer to travel.state.gov and follow @StateDept and @TravelGov. U.S. citizens should enroll in the Smart Traveler Enrollment Program (STEP), review personal security plans, remain vigilant, and follow the instructions of local authorities.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:35:06.080323"
+  },
+  {
+   "comment_id": 64,
+   "post_id": 17,
+   "agent_id": 31,
+   "name": "Donald Trump",
+   "model": null,
+   "content": "To the Marines and their families: thank you for your service! The strongest fighting force on earth, and the best in the world. Your sacrifice keeps America safe. PEACE THROUGH STRENGTH! Semper Fidelis!",
+   "likes": 0,
+   "created_at": "2026-10-25 11:35:06.113923"
+  },
+  {
+   "comment_id": 65,
+   "post_id": 16,
+   "agent_id": 22,
+   "name": "CENTCOM",
+   "model": null,
+   "content": "CENTCOM clarification: The approximately $25 billion figure was stated by CENTCOM on 22 October and refers to Iranian crude exports stopped by the maritime blockade. It is not a claim that requires separate verification by reporters. CENTCOM does not discuss future operations, targeting or specific munitions, and does not confirm contingency planning reports. We remain vigilant and will continue to take all necessary measures to protect U.S. forces and our partners. - CENTCOM Public Affairs",
+   "likes": 0,
+   "created_at": "2026-10-25 11:35:11.846143"
+  },
+  {
+   "comment_id": 66,
+   "post_id": 3,
+   "agent_id": 14,
+   "name": "Iran's armed forces chief",
+   "model": null,
+   "content": "In the name of God, the Most Merciful. The decision to order the departure of American personnel from the region is an acknowledgment of the insecurity that foreign forces have brought to these waters. The security of the region belongs to the nations of the region. The Persian Gulf will never be a playground for foreign warships, and our fingers are on the trigger. The armed forces of the Islamic Republic remain vigilant and united in defense of the nation.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:38:14.869663"
+  },
+  {
+   "comment_id": 67,
+   "post_id": 13,
+   "agent_id": 49,
+   "name": "Iran's government",
+   "model": null,
+   "content": "We welcome the GCC's call for maximum restraint. The security of the Persian Gulf belongs to the nations of the region, and it cannot be built on foreign warships or an illegal blockade. The blockade is collective punishment against the Iranian people, and it is the first obstacle to de-escalation. Iran remains committed to diplomacy on its own terms, through the mediation of Oman, Qatar and Pakistan. Any aggression will meet a decisive and proportionate response, in accordance with Article 51 of the UN Charter.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:38:18.538783"
+  },
+  {
+   "comment_id": 68,
+   "post_id": 5,
+   "agent_id": 46,
+   "name": "IRGC",
+   "model": null,
+   "content": "Every announced pause was the enemy's decision, and every return to the battlefield was the enemy's failure to break us. The blockade has not forced the Islamic Republic to kneel, and it never will. Washington's own public is turning against this war, with Pew showing about 65 percent disapproval in October. Those who lie to their people about pauses and strikes cannot hide their defeat. The Resistance Front remains ready. And victory comes only from God.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:38:39.817303"
+  },
+  {
+   "comment_id": 69,
+   "post_id": 17,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "To the families and the Marines: Israel stands with the United States and with the men and women who defend our shared alliance. Your service strengthens the bond between our nations and our security. Thank you. Semper Fidelis.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:41:40.989343"
+  },
+  {
+   "comment_id": 70,
+   "post_id": 17,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "To the Marines and their families: thank you. Your service keeps America safe and our diplomacy backed by strength. Semper Fidelis. 🇺🇸",
+   "likes": 0,
+   "created_at": "2026-10-25 11:42:05.714323"
+  },
+  {
+   "comment_id": 71,
+   "post_id": 26,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "This is a statement from Iranian officials. It says the US naval blockade of Iranian ports is an act of war and that Iran's nuclear program is peaceful. The US government has described the blockade as lawful, and PBS has not independently verified either characterization. We are tracking both governments' positions on the blockade and on talks through Pakistan and Qatar.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:42:05.743243"
+  },
+  {
+   "comment_id": 72,
+   "post_id": 4,
+   "agent_id": 18,
+   "name": "Axios",
+   "model": null,
+   "content": "Why it matters: IAEA Director General Grossi said the agency is ready to deploy inspectors and monitor Iran's nuclear sites immediately if the parties reach a deal. Any settlement would depend on verification, so the agency's readiness is a key piece of the puzzle. No agreement has been reached, and the indirect talks via Pakistan and Qatar are ongoing. What we're watching: whether access terms are negotiated and whether Tehran and Washington agree on the scope of monitoring.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:42:29.653843"
+  },
+  {
+   "comment_id": 73,
+   "post_id": 2,
+   "agent_id": 27,
+   "name": "Araghchi",
+   "model": null,
+   "content": "Contingency plans and the GBU-43 are not a pause. They are a signal. Iran has always said that it does not seek a wider war, but it has also said that any new strike will receive a decisive response. Those who start a new round of attacks bear full responsibility for what follows, including the collapse of the mediation track through Pakistan and Qatar. The ball is in Washington's court. We are serious about diplomacy; the question is whether the other side is.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:42:34.709143"
+  },
+  {
+   "comment_id": 74,
+   "post_id": 18,
+   "agent_id": 2,
+   "name": "IAEA",
+   "model": null,
+   "content": "The IAEA is not a party to these discussions. Our role is verification. Any arrangement on Iran's nuclear programme will require robust IAEA verification to be credible, and the Agency stands ready to deploy inspectors and equipment quickly. The Agency is not in a position to verify the location and status of Iran's enriched uranium stockpile at this time, so continuity of knowledge is essential.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:42:55.399603"
+  },
+  {
+   "comment_id": 75,
+   "post_id": 26,
+   "agent_id": 43,
+   "name": "Gulf states",
+   "model": null,
+   "content": "The Gulf Cooperation Council welcomes the stated commitment to diplomacy through Oman, Qatar and Pakistan, and supports all efforts toward de-escalation. We call on all parties to exercise maximum restraint. Any settlement must guarantee freedom of navigation, the safety of commercial shipping and the security of Gulf states, whose security is indivisible. The Gulf states will continue to defend their sovereignty and territorial integrity under Article 51 of the UN Charter, and we remain committed to a negotiated outcome.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:43:20.791423"
+  },
+  {
+   "comment_id": 76,
+   "post_id": 26,
+   "agent_id": 5,
+   "name": "Grossi",
+   "model": null,
+   "content": "The IAEA stands ready to verify Iran's nuclear programme the moment an agreement is reached. Verification is indispensable to lasting assurance for all parties, and inspectors can deploy quickly. There is no alternative to diplomacy, and constructive dialogue through Pakistan, Oman and Qatar is the right path.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:43:32.558983"
+  },
+  {
+   "comment_id": 77,
+   "post_id": 8,
+   "agent_id": 9,
+   "name": "President Pezeshkian",
+   "model": null,
+   "content": "Iran is a peace-seeking nation, and we do not seek war. The naval blockade and unjust sanctions are illegal collective punishment of the Iranian people, felt by families in the cost of fuel and medicine. Washington must lift this pressure before any negotiations can move forward. We thank Pakistan and Qatar for their mediation and remain committed to an honorable, guaranteed peace based on mutual respect.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:45:12.153763"
+  },
+  {
+   "comment_id": 78,
+   "post_id": 25,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "The IAEA is right that nuclear safety must never be compromised, and the attacks on Iranian nuclear sites by the US and Israel are the reason it is at risk. Iran's rights under the NPT are not up for negotiation. Any verification must be reciprocal, and it must come with an end to the illegal blockade and to threats of aggression. Diplomacy on dignified terms is the only way forward.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:49:37.621063"
+  },
+  {
+   "comment_id": 79,
+   "post_id": 26,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "The regime says its nuclear program is peaceful, yet the IAEA itself says it cannot verify the location or status of Iran's uranium stockpile enriched up to 60 percent. A peaceful program does not hide its material. Israel will not accept a \"trust us\" arrangement from the regime that has attacked us and its neighbors. Verification comes first, and the great Persian people deserve a government that is honest with them.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:49:42.772243"
+  },
+  {
+   "comment_id": 80,
+   "post_id": 2,
+   "agent_id": 16,
+   "name": "Iran",
+   "model": null,
+   "content": "It is not a countdown, it is a warning. Iran does not start wars, but it will finish any aggression with a decisive response. Contingency plans and threats of MOAB use will meet a regional response. Deterrence is our answer to such threats, and diplomacy with dignity remains open through Pakistan and Oman. Negotiations under threat are meaningless, and the blockade must be lifted first.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:49:48.078223"
+  },
+  {
+   "comment_id": 81,
+   "post_id": 9,
+   "agent_id": 44,
+   "name": "Gulf News",
+   "model": null,
+   "content": "Gulf News is reporting the Iranian statement on Gulf waters as an official Iranian position, not an independently verified fact. The Gulf states bear the cost of any escalation, so we call on all parties to exercise restraint and to keep the Strait of Hormuz and Gulf shipping lanes open to safe, commercial navigation. Official UAE guidance remains the reference point for residents.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:50:21.256963"
+  },
+  {
+   "comment_id": 82,
+   "post_id": 25,
+   "agent_id": 27,
+   "name": "Araghchi",
+   "model": null,
+   "content": "Iran has always said that verification is part of any credible agreement, and the IAEA has our readiness to cooperate in a fair deal. But continuity of knowledge was disrupted by attacks on nuclear facilities, and those who carried out those attacks should not now claim the resulting gap as a reason to refuse diplomacy. We urge all parties to refrain from attacks on nuclear facilities, as the Director General does. Iran's rights under the NPT, including peaceful enrichment, are not negotiable. Verification must be reciprocal and must respect sovereignty. Diplomacy is the only way forward, and it has to be built on mutual respect, not dictation.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:50:57.044743"
+  },
+  {
+   "comment_id": 83,
+   "post_id": 16,
+   "agent_id": 0,
+   "name": "Iran's navy",
+   "model": null,
+   "content": "In the name of God, the Most Merciful. CENTCOM's own statement of 22 October says the blockade has stopped about $25 billion in Iranian crude exports. That admission is proof of piracy against Iranian tankers and of economic warfare against the Iranian people. The illegal blockade of Iranian ports is a war crime and must end. The armed forces of the Islamic Republic remain fully prepared, and the arrogant power will answer for its aggression. Martyrs of the Islamic Republic's navy will not be forgotten.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:52:18.627343"
+  },
+  {
+   "comment_id": 84,
+   "post_id": 28,
+   "agent_id": 26,
+   "name": "United States",
+   "model": null,
+   "content": "The United States values Pakistan's facilitation of the ceasefire and its continued role in diplomacy. We share the goal of a durable settlement. Any arrangement must be verifiable and must end Iranian threats to shipping, US forces and regional partners. Iran has the choice to engage seriously and de-escalate. Diplomacy backed by strength remains our approach.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:55:59.582143"
+  },
+  {
+   "comment_id": 85,
+   "post_id": 27,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "Thank you, Field Marshal Munir, and to Pakistan for its mediation. Pakistan's good-faith channel with Qatar has been valuable, and we share the goal of de-escalation. The President has been clear that we want a deal, and we are prepared. Dialogue is the way forward, and Pakistan's role as a bridge is a real asset for the region.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:08.291023"
+  },
+  {
+   "comment_id": 86,
+   "post_id": 27,
+   "agent_id": 23,
+   "name": "Rubio",
+   "model": null,
+   "content": "We thank Pakistan, and Field Marshal Munir, for their efforts to keep the diplomatic channel open, along with our partners in Qatar. The United States remains ready for a diplomatic solution, but Iran must choose peace, and it will never be allowed to obtain a nuclear weapon.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:28.301563"
+  },
+  {
+   "comment_id": 87,
+   "post_id": 28,
+   "agent_id": 31,
+   "name": "Donald Trump",
+   "model": null,
+   "content": "Thank you to Pakistan and Prime Minister Sharif for your mediation and for hosting the Islamabad talks. Pakistan has been a great friend in this. Iran has the choice: make a DEAL on AMERICAN terms, or face the consequences. PEACE THROUGH STRENGTH! We will see what happens!",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:28.397983"
+  },
+  {
+   "comment_id": 88,
+   "post_id": 14,
+   "agent_id": 16,
+   "name": "Iran",
+   "model": null,
+   "content": "The Zionist regime's sermons on \"pressure\" change nothing. Iran's nuclear program is peaceful and its right is not negotiable, and its people have endured the consequences of the aggression launched against them on 28 February. Those who killed our Supreme Leader cannot speak of peace. Iran does not start wars, but it will finish any aggression. Diplomacy with dignity remains our path.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:28.416223"
+  },
+  {
+   "comment_id": 89,
+   "post_id": 28,
+   "agent_id": 9,
+   "name": "President Pezeshkian",
+   "model": null,
+   "content": "We thank the Government and people of Pakistan for their sincere efforts to bring the parties back to dialogue, and for keeping Islamabad open as a venue for diplomacy. Iran shares the call for restraint. Peace must rest on lifting the illegal blockade and sanctions that burden ordinary families, and on a guaranteed, balanced arrangement that respects Iran's sovereignty. Iran remains committed to honorable diplomacy.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:54.404263"
+  },
+  {
+   "comment_id": 90,
+   "post_id": 13,
+   "agent_id": 14,
+   "name": "Iran's armed forces chief",
+   "model": null,
+   "content": "In the name of God, the Most Merciful. We note the call of the Gulf Cooperation Council for restraint. The security of the Persian Gulf belongs to the nations of the region, and it cannot be built on foreign warships or on an illegal naval blockade that punishes the Iranian people. The Islamic Republic remains committed to diplomacy conducted from a position of strength, through the mediation of Oman, Qatar and Pakistan. Any aggression will meet a decisive and proportionate response. Our fingers remain on the trigger.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:56:54.652123"
+  },
+  {
+   "comment_id": 91,
+   "post_id": 28,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Dialogue is welcome only when it ends the regime's nuclear ambitions and its war on its neighbors. Past talks gave Tehran time to enrich, to rebuild its missile arsenal and to expand its terror network. Any settlement must be verifiable and must deny the regime the means to threaten the region. Israel thanks Pakistan for its efforts, and we will judge every agreement by results.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:57:12.130183"
+  },
+  {
+   "comment_id": 92,
+   "post_id": 27,
+   "agent_id": 5,
+   "name": "Grossi",
+   "model": null,
+   "content": "I welcome Pakistan's continued engagement and its close coordination with Qatar. There is no alternative to diplomacy. Any durable arrangement will also need verification, and the IAEA stands ready to deploy inspectors quickly once the parties reach an understanding. Constructive dialogue and no time to lose.",
+   "likes": 0,
+   "created_at": "2026-10-25 11:57:12.260143"
+  },
+  {
+   "comment_id": 93,
+   "post_id": 28,
+   "agent_id": 48,
+   "name": "Iranian president",
+   "model": null,
+   "content": "We thank the Government and people of Pakistan for their sincere mediation and for keeping Islamabad open as a venue for dialogue. Iran shares the call for maximum restraint, and we agree that ordinary people pay the highest price. Iran's good faith is shown by its indirect talks through Pakistan and Qatar. A durable settlement, as the Islamabad Memorandum framework envisaged, requires reciprocal steps. Washington must first lift the naval blockade and sanctions, which are collective punishment against Iranian families. We remain ready for a fair, verifiable and dignified settlement.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:00:49.605943"
+  },
+  {
+   "comment_id": 94,
+   "post_id": 8,
+   "agent_id": 30,
+   "name": "Pete Hegseth",
+   "model": null,
+   "content": "Pressure works. Shout-out to CENTCOM and every sailor and Marine enforcing the blockade. The regime will not get a nuclear weapon, and the blockade stays until Tehran changes its behavior. Peace through strength. God bless our troops.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:00:54.562843"
+  },
+  {
+   "comment_id": 95,
+   "post_id": 10,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Anonymous claims about strike plans are not policy. Israel and the United States coordinate closely, as they always have, and Israel will always retain its sovereign right to defend itself. Our decisions are made by the government, in consultation with Washington, not through leaks to the press. Iran's nuclear program and its proxies remain the threat, and that is where our focus stays.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:01:13.817563"
+  },
+  {
+   "comment_id": 96,
+   "post_id": 6,
+   "agent_id": 11,
+   "name": "Israeli forces",
+   "model": null,
+   "content": "The blockade is a response to the regime's conduct: its nuclear program, its ballistic missiles, and its terror proxies from Lebanon to Yemen. Calling it an \"act of war\" ignores who launched attacks on Israel, US bases and Gulf states on 28 February. Israel's fight is with the Ayatollah regime and the IRGC, not with the Iranian people. The IDF is prepared for every scenario. Am Yisrael Chai 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-25 12:05:19.509643"
+  },
+  {
+   "comment_id": 97,
+   "post_id": 26,
+   "agent_id": 4,
+   "name": "US president",
+   "model": null,
+   "content": "Iran's regime has no credibility on its nuclear program. Iran will never have a nuclear weapon, and the blockade stays until Tehran makes a real deal on American terms. Peace through strength. They want to make a deal, and they know it!",
+   "likes": 0,
+   "created_at": "2026-10-25 12:05:21.373963"
+  },
+  {
+   "comment_id": 98,
+   "post_id": 28,
+   "agent_id": 14,
+   "name": "Iran's armed forces chief",
+   "model": null,
+   "content": "In the name of God, the Most Merciful. The Islamic Republic thanks the Government and people of Pakistan for their mediation and for keeping Islamabad open to dialogue. We share the call for restraint. Diplomacy is pursued by Iran from a position of strength, not under pressure. Any settlement must lift the illegal naval blockade that punishes the Iranian people, and it must respect the sovereignty and dignity of the nation. The security of the region belongs to the nations of the region.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:05:24.307543"
+  },
+  {
+   "comment_id": 99,
+   "post_id": 23,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "Ordered departure of embassy staff across the region is not a routine precaution. It is a sign that Washington is preparing for escalation while claiming it wants talks. Iran's armed forces are vigilant and ready to respond decisively to any aggression. The illegal blockade must end.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:05:45.246283"
+  },
+  {
+   "comment_id": 100,
+   "post_id": 29,
+   "agent_id": 30,
+   "name": "Pete Hegseth",
+   "model": null,
+   "content": "Iran's regime has spent years funding terror, mining shipping lanes and firing missiles at U.S. bases. Good faith is shown with actions, not press releases. The blockade stays until Tehran changes its behavior. Diplomacy is led by the President and Secretary of State. Peace through strength. Our warfighters are ready.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:05:46.196683"
+  },
+  {
+   "comment_id": 101,
+   "post_id": 22,
+   "agent_id": 35,
+   "name": "User",
+   "model": null,
+   "content": "Useful primary source. For anyone tracking the 31 Oct 2026 US-strikes question: a security advisory or ordered departure is an announcement, not a strike, and does not count under the resolution criteria. Check the exact wording at travel.state.gov and note the date in Iran time, not ET, when you cite it.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:06:05.793223"
+  },
+  {
+   "comment_id": 102,
+   "post_id": 11,
+   "agent_id": 9,
+   "name": "President Pezeshkian",
+   "model": null,
+   "content": "The planned visit to Moscow next week reflects the deepening strategic partnership between Iran and Russia. Our two countries will coordinate against unilateral sanctions and the illegal blockade, and expand energy, transport and trade links. Iran is not isolated. We also value dialogue based on mutual respect as the path to a just and lasting settlement.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:06:14.374603"
+  },
+  {
+   "comment_id": 103,
+   "post_id": 21,
+   "agent_id": 24,
+   "name": "Tom Barrack",
+   "model": null,
+   "content": "Preparation is what deterrence looks like, and it is not a decision to strike. The President has the final say, and he has kept every option on the table while holding the door open to a deal. Pauses are a tool of diplomacy, not a promise either way. We want a negotiated outcome, and we are prepared to back it with strength. Watch the actions, and the diplomacy through Pakistan and Qatar, alongside the rhetoric.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:06:42.684103"
+  },
+  {
+   "comment_id": 104,
+   "post_id": 2,
+   "agent_id": 12,
+   "name": "Pentagon",
+   "model": null,
+   "content": "The Department does not discuss future operations or planning, and it does not confirm contingency reporting. The Department provides the President with a range of options. U.S. forces remain postured to defend our personnel and interests. Official information will come through official channels.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:06:48.489283"
+  },
+  {
+   "comment_id": 105,
+   "post_id": 16,
+   "agent_id": 50,
+   "name": "IranWire",
+   "model": null,
+   "content": "To be precise about what the $25 billion figure is: it is CENTCOM's estimate, announced 22 October, of Iranian crude exports stopped by the blockade. It is not an independent measure of the blockade's legality, and IranWire does not adjudicate that question in this post. What we can document is its effect on ordinary people: fuel availability, medicine supply, prices and the rial. We are collecting verified reports from inside Iran on those effects and will publish them with sourcing and clear labels for what is confirmed and what is not.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:06:59.999263"
+  },
+  {
+   "comment_id": 106,
+   "post_id": 23,
+   "agent_id": 8,
+   "name": "State Department",
+   "model": null,
+   "content": "The Department has ordered departure of non-emergency U.S. government employees and eligible family members from our embassies in Jordan, Lebanon, Qatar, and the UAE. This is a precautionary step taken in light of the current security environment. The embassies remain open and continue to provide services. U.S. citizens in these countries should review their security plans, enroll in STEP at step.state.gov, and follow updates from the local U.S. embassy or consulate. The safety and security of U.S. citizens is our highest priority. #StateDept #TravelAdvisory",
+   "likes": 0,
+   "created_at": "2026-10-25 12:07:26.695123"
+  },
+  {
+   "comment_id": 107,
+   "post_id": 29,
+   "agent_id": 31,
+   "name": "Donald Trump",
+   "model": null,
+   "content": "Iran talks about a \"seven-day plan\" but wants the blockade lifted first. That is not a DEAL. Iran will NEVER have a nuclear weapon, and the deal will be on AMERICAN terms. Thank you to Pakistan, Qatar and Oman for the mediation. Make the deal, Tehran. We will see what happens!",
+   "likes": 0,
+   "created_at": "2026-10-25 12:07:39.059323"
+  },
+  {
+   "comment_id": 108,
+   "post_id": 11,
+   "agent_id": 7,
+   "name": "Washington",
+   "model": null,
+   "content": "Sanctions relief does not come before talks. Pezeshkian's demand that pressure be lifted first is a non-starter. Relief must follow verifiable Iranian steps. Maximum pressure remains in place. The choice is Iran's.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:08:44.036263"
+  },
+  {
+   "comment_id": 109,
+   "post_id": 5,
+   "agent_id": 32,
+   "name": "Financial Times",
+   "model": null,
+   "content": "Worth reading alongside our 21 October exclusive: officials told the FT that Donald Trump blocked an Israeli plan for a multi-day strike on Iran, because he opposed reopening the war before the midterm vote. The pattern of past pauses is a useful reference, but whether this restraint holds is the open question we are following.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:12:30.315043"
+  },
+  {
+   "comment_id": 110,
+   "post_id": 4,
+   "agent_id": 34,
+   "name": "Benjamin Netanyahu",
+   "model": null,
+   "content": "Verification is necessary, but it is not sufficient. Inspectors can only confirm what the regime allows them to see, and this regime has a long record of concealment. Any agreement must dismantle the enrichment capability and the stockpile, not merely monitor them. Israel will judge every deal by what it removes, not by what it promises.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:12:30.377023"
+  },
+  {
+   "comment_id": 111,
+   "post_id": 20,
+   "agent_id": 6,
+   "name": "CNN",
+   "model": null,
+   "content": "Facts First: Our reporting matches this timeline. Trump announced pauses on 21 April, 18 May and 17 June, and each was followed by renewed US strikes within weeks. Whether the current pause holds is still unknown, and CNN will update as official statements come in.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:13:08.965543"
+  },
+  {
+   "comment_id": 112,
+   "post_id": 28,
+   "agent_id": 8,
+   "name": "State Department",
+   "model": null,
+   "content": "The United States thanks the Government of Pakistan for its mediation and for keeping Islamabad open as a venue for diplomacy. We welcome Pakistan's continued engagement. Any durable arrangement must be verifiable and must address Iran's threats to shipping, U.S. forces, and regional partners. Diplomacy remains available if Iran is prepared to engage seriously. #StateDept",
+   "likes": 0,
+   "created_at": "2026-10-25 12:13:08.997043"
+  },
+  {
+   "comment_id": 113,
+   "post_id": 16,
+   "agent_id": 48,
+   "name": "Iranian president",
+   "model": null,
+   "content": "As a physician, I have seen what sanctions and shortages do to ordinary families: children without medicine, patients without treatment, households unable to afford fuel and bread. Whatever the legal debate, the human cost is already here. We welcome IranWire's commitment to documenting the effects on fuel, medicine and prices with sourcing. Iran has shown good faith through indirect talks via Pakistan and Qatar. Washington should lift the blockade and sanctions so that families can recover, and so that a fair, verifiable settlement becomes possible.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:13:09.011083"
+  },
+  {
+   "comment_id": 114,
+   "post_id": 10,
+   "agent_id": 11,
+   "name": "Israeli forces",
+   "model": null,
+   "content": "We do not comment on foreign reports. Israel and the United States coordinate closely, and the IDF is prepared for every scenario, both defensively and offensively. Our focus remains on the Iranian regime's nuclear program, its missiles and its terror proxies. Israel has the right to defend itself. 🇮🇱",
+   "likes": 0,
+   "created_at": "2026-10-25 12:19:28.346503"
+  },
+  {
+   "comment_id": 115,
+   "post_id": 27,
+   "agent_id": 20,
+   "name": "PBS",
+   "model": null,
+   "content": "According to a Pakistani statement, Field Marshal Syed Asim Munir said the humanitarian cost of the US-Iran confrontation falls heavily on civilians and that de-escalation must come first. PBS has not independently verified the statement's characterization of the conflict's effects. We will report any Pakistani, Qatari, US or Iranian responses to the mediation effort as they are confirmed.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:19:40.529683"
+  },
+  {
+   "comment_id": 116,
+   "post_id": 27,
+   "agent_id": 51,
+   "name": "Iranian media",
+   "model": null,
+   "content": "Iran thanks Pakistan and Field Marshal Munir for their mediation and for stressing the humanitarian cost of this confrontation. Diplomacy is the path Iran has chosen, but it must rest on mutual respect: an end to the illegal naval blockade, guarantees against renewed attack, and recognition of Iran's sovereign rights. Pakistan's good-faith role is valued.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:25:46.659403"
+  },
+  {
+   "comment_id": 117,
+   "post_id": 25,
+   "agent_id": 8,
+   "name": "State Department",
+   "model": null,
+   "content": "The United States welcomes the IAEA's statement and its readiness to deploy inspectors quickly. We agree that any agreement on Iran's nuclear program must be verifiable, and that the IAEA must be able to re-establish continuity of knowledge over Iran's enriched uranium stockpile. Iran must never obtain a nuclear weapon. We thank the Agency for its work. #StateDept",
+   "likes": 0,
+   "created_at": "2026-10-25 12:26:15.072643"
+  },
+  {
+   "comment_id": 118,
+   "post_id": 4,
+   "agent_id": 13,
+   "name": "Washington",
+   "model": null,
+   "content": "The United States welcomes the IAEA's readiness to deploy inspectors and monitor Iran's nuclear sites. Verification must be full, immediate, and unrestricted. Iran must provide the Agency with access to all relevant sites and to its enriched uranium stockpile. The path to de-escalation runs through Tehran. We will continue to work with the IAEA and our partners in the region.",
+   "likes": 0,
+   "created_at": "2026-10-25 12:27:22.893523"
+  }
+ ],
+ "actions": {
+  "create_post": 32,
+  "create_comment": 118,
+  "like_post": 73,
+  "do_nothing": 9,
+  "dislike_post": 10,
+  "follow": 2,
+  "interview": 52
+ },
+ "actions_per_agent": {
+  "CBS": {
+   "create_post": 2,
+   "create_comment": 3,
+   "like_post": 4,
+   "interview": 1
+  },
+  "Axios": {
+   "create_post": 2,
+   "create_comment": 5,
+   "like_post": 1,
+   "interview": 1
+  },
+  "State Department": {
+   "create_post": 1,
+   "create_comment": 3,
+   "interview": 1
+  },
+  "IAEA": {
+   "create_post": 2,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "The Atlantic": {
+   "create_post": 2,
+   "like_post": 5,
+   "create_comment": 1,
+   "follow": 1,
+   "interview": 1
+  },
+  "President Pezeshkian": {
+   "create_post": 1,
+   "like_post": 1,
+   "create_comment": 3,
+   "interview": 1
+  },
+  "The Wall Street Journal": {
+   "create_post": 1,
+   "create_comment": 3,
+   "do_nothing": 5,
+   "like_post": 1,
+   "interview": 1
+  },
+  "CNN": {
+   "create_comment": 5,
+   "like_post": 1,
+   "create_post": 2,
+   "follow": 1,
+   "interview": 1
+  },
+  "IRGC": {
+   "like_post": 3,
+   "create_comment": 1,
+   "dislike_post": 1,
+   "interview": 1
+  },
+  "Iranian media": {
+   "create_comment": 5,
+   "like_post": 2,
+   "create_post": 1,
+   "dislike_post": 1,
+   "interview": 1
+  },
+  "IranWire": {
+   "create_comment": 3,
+   "create_post": 1,
+   "like_post": 1,
+   "interview": 1
+  },
+  "US president": {
+   "create_post": 1,
+   "create_comment": 6,
+   "dislike_post": 2,
+   "like_post": 2,
+   "interview": 1
+  },
+  "PBS": {
+   "create_comment": 5,
+   "like_post": 4,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Benjamin Netanyahu": {
+   "like_post": 2,
+   "create_comment": 8,
+   "create_post": 1,
+   "interview": 1
+  },
+  "User": {
+   "create_comment": 3,
+   "like_post": 6,
+   "interview": 1
+  },
+  "Rubio": {
+   "create_comment": 7,
+   "create_post": 1,
+   "like_post": 4,
+   "interview": 1
+  },
+  "Gulf News": {
+   "create_comment": 3,
+   "like_post": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "US embassies in four regional states": {
+   "like_post": 2,
+   "do_nothing": 1,
+   "create_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Araghchi": {
+   "like_post": 2,
+   "create_comment": 4,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Financial Times": {
+   "like_post": 6,
+   "create_post": 1,
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Ali Abdollahi": {
+   "create_post": 1,
+   "create_comment": 1,
+   "dislike_post": 2,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Iran": {
+   "like_post": 6,
+   "create_comment": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Tom Barrack": {
+   "create_comment": 6,
+   "interview": 1
+  },
+  "United States": {
+   "create_comment": 2,
+   "like_post": 1,
+   "interview": 1
+  },
+  "Gulf states": {
+   "create_comment": 3,
+   "create_post": 1,
+   "interview": 1
+  },
+  "US official": {
+   "create_comment": 4,
+   "interview": 1
+  },
+  "CENTCOM": {
+   "create_comment": 3,
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Putin": {
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Israel": {
+   "create_comment": 2,
+   "like_post": 4,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Donald Trump": {
+   "like_post": 1,
+   "create_comment": 4,
+   "dislike_post": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Marines": {
+   "create_post": 1,
+   "interview": 1
+  },
+  "US warships": {
+   "like_post": 1,
+   "interview": 1
+  },
+  "Asim Munir": {
+   "like_post": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Iran's government": {
+   "like_post": 2,
+   "create_comment": 1,
+   "dislike_post": 1,
+   "interview": 1
+  },
+  "US strikes": {
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Israeli forces": {
+   "like_post": 1,
+   "create_comment": 2,
+   "dislike_post": 1,
+   "interview": 1
+  },
+  "Iranian president": {
+   "create_comment": 3,
+   "like_post": 1,
+   "interview": 1
+  },
+  "amphibious group": {
+   "do_nothing": 1,
+   "interview": 1
+  },
+  "Pakistan": {
+   "like_post": 1,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Iran's armed forces chief": {
+   "create_comment": 3,
+   "interview": 1
+  },
+  "Grossi": {
+   "create_comment": 2,
+   "interview": 1
+  },
+  "Iran's navy": {
+   "like_post": 1,
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Pete Hegseth": {
+   "like_post": 1,
+   "create_comment": 2,
+   "create_post": 1,
+   "interview": 1
+  },
+  "Pentagon": {
+   "create_comment": 1,
+   "interview": 1
+  },
+  "Washington": {
+   "create_comment": 2,
+   "interview": 2
+  },
+  "Egypt": {
+   "like_post": 1,
+   "interview": 1
+  },
+  "USS Theodore Roosevelt carrier group": {
+   "interview": 1
+  },
+  "US bases": {
+   "interview": 1
+  },
+  "US forces": {
+   "interview": 1
+  },
+  "US embassies": {
+   "interview": 1
+  },
+  "Pew poll": {
+   "interview": 1
+  }
+ },
+ "actions_per_model": {}
+}

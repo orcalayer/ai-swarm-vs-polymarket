@@ -1,0 +1,20 @@
+[
+ {
+  "original_index": 9,
+  "post": {
+   "content": "The 50% tariffs on about US$20 billion of Canadian goods will remain until Canada addresses our trade concerns. Talks broke down because Ottawa would not meet our terms.",
+   "poster_type": "Government",
+   "poster_agent_id": 2
+  },
+  "why": "The US Government account states a cause for the breakdown of trade talks that is not in the seeds"
+ },
+ {
+  "original_index": 10,
+  "post": {
+   "content": "The September CPI data support our view that the Bank of Canada can remain on hold at 2.25% for the rest of 2026. Inflation outside energy is behaving well, and growth is softening.",
+   "poster_type": "FinancialInstitution",
+   "poster_agent_id": 7
+  },
+  "why": "Desjardins posts a hold view; the seeds say Desjardins switched to a hike call on Oct 19"
+ }
+]

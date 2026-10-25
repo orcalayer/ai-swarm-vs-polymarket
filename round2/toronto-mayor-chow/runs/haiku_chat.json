@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 56\nREASON: Chow holds a narrow edge in the aggregate, supported by the late Pollara release (55% to 44%, including early voters) and a stronger showing among the most certain voters. However, her lead has shrunk from about 10 points to about 3, several recent polls (Liaison, Mainstreet, Build Canada) have Bradford ahead, and the race is close enough that a late shift could decide it.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

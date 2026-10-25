@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 40\n\nREASON: Every mainstream final poll (Channels 12, 13, Kan, Maariv, Israel Hayom, Walla) has Yashar ahead of Likud by 2–4 seats. Likud led only in the Channel 14 and i24NEWS/Direct Polls numbers, and both houses have a pro-Likud lean. Still, the gap is within normal polling error, and mainstream pollsters underestimated Likud by 1–2 seats in 2022. Likud's base is also much firmer (68% completely sure, versus 40% for Yashar), and Yashar's soft voters may drift to Together, so a Likud first-place finish is a real possibility but somewhat less likely than not.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

@@ -1,0 +1,8 @@
+{
+ "data": {
+  "response": "PROBABILITY_YES: 93\nREASON: Every named Canadian forecaster (RBC, KPMG, Dominion Lending, Standard Chartered, Continuum, TD) expects a hold on October 28. Even the most hawkish, CIBC's Grantham, puts the first hike in January 2027. Core inflation is below 2% (CPI-trim 1.8%), employment is falling, and no one forecasts a cut. The residual risk is a hawkish surprise given oil at US$117 and Macklem's warnings about inflation broadening.",
+  "sources": [],
+  "tool_calls": []
+ },
+ "success": true
+}

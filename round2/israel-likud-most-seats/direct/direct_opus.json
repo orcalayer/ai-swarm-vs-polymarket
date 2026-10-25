@@ -1,0 +1,41 @@
+{
+ "model": "claude-opus-5-5",
+ "today": "October 24, 2026",
+ "n": 5,
+ "p_yes": [
+  35,
+  37,
+  38,
+  38,
+  40
+ ],
+ "median": 38,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 38,
+   "text": "PROBABILITY_YES: 38\nREASON: All the mainstream final polls (Channels 12, 13 and Kan, plus Maariv, Israel Hayom and Walla) put Yashar ahead of Likud by 2–4 seats. Only the Netanyahu-friendly Channel 14 and i24NEWS polls had Likud ahead. Still, Israeli polls have often underestimated Likud by 1–3 seats (2019 and 2020 most clearly), and Yashar's support is much softer than Likud's. That makes a Likud first-place finish a real possibility, though less likely than not."
+  },
+  {
+   "i": 2,
+   "p_yes": 35,
+   "text": "PROBABILITY_YES: 35\nREASON: The mainstream final polls (Channels 12 and 13, Kan, Maariv, Israel Hayom and Walla) all put Yashar ahead by 2–4 seats, and only the partisan-leaning Channel 14 and i24NEWS show Likud in front. Still, a 2–3 seat gap is within normal Israeli polling error. Likud has historically matched or beaten mainstream polls, and its voters are much firmer than Yashar's soft, new-party support, so a Likud first-place finish remains quite plausible but less likely than not."
+  },
+  {
+   "i": 3,
+   "p_yes": 37,
+   "text": "PROBABILITY_YES: 37\nREASON: The mainstream final polls (Channel 12, Channel 13, Kan, Maariv, Kantar, Walla) all put Yashar ahead of Likud, but only by 2-4 seats. That gap is within the range of past Israeli polling misses, which have tended to underestimate Likud (2015, 2022). Likud's firmer voter base and Yashar's soft support give Likud a real chance, though the consistent mainstream lead and defections by religious-Zionist voters still make Yashar the favorite."
+  },
+  {
+   "i": 4,
+   "p_yes": 40,
+   "text": "PROBABILITY_YES: 40\nREASON: The mainstream final polls (Channels 12, 13, Kan, Maariv, Israel Hayom) all put Yashar ahead by only 2–4 seats, which is within typical Israeli polling error, and only the right-leaning Channel 14 and Direct Polls show Likud leading. Likud has historically matched or beaten its final mainstream polls (2020, 2022), and its voters are much firmer than Yashar's soft support. Still, the consistent lead across independent pollsters, Eisenkot's lead as preferred prime minister and Likud's leakage to the right-wing parties make Yashar the modest favourite."
+  },
+  {
+   "i": 5,
+   "p_yes": 38,
+   "text": "PROBABILITY_YES: 38\nREASON: The mainstream TV, Maariv and Israel Hayom polls all have Yashar ahead by 2 to 4 seats, but that margin is small compared with typical Israeli polling error. Likud has historically outperformed its final polls (2015, and slightly in 2022), and its voters are much firmer than Yashar's. Against that, the only polls showing Likud ahead come from the partisan Channel 14 and from Direct Polls, which overshot Likud in 2022, so Yashar remains the moderate favourite."
+  }
+ ],
+ "prompt_chars": 9332
+}

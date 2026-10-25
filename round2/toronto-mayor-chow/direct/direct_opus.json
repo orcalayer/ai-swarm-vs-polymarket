@@ -1,0 +1,41 @@
+{
+ "model": "claude-opus-5-5",
+ "today": "October 24, 2026",
+ "n": 5,
+ "p_yes": [
+  45,
+  48,
+  49,
+  50,
+  50
+ ],
+ "median": 49,
+ "answers": [
+  {
+   "i": 1,
+   "p_yes": 48,
+   "text": "PROBABILITY_YES: 48\nREASON: The final non-partisan polls are split. Nanos has Chow up about 3, while Mainstreet, Liaison and Build Canada show Bradford narrowly ahead, and the trend since September clearly favours Bradford. Chow's lead among the most certain voters, her incumbency and the union-sponsored Pollara numbers keep this close to a coin flip, with a slight edge to Bradford's momentum."
+  },
+  {
+   "i": 2,
+   "p_yes": 50,
+   "text": "PROBABILITY_YES: 50\nREASON: Excluding the union-sponsored Pollara numbers, the October polls average out to roughly a tie: Nanos shows Chow narrowly ahead, while Liaison, Mainstreet and Build Canada show Bradford narrowly ahead. Bradford has the momentum and the change mood behind him. Chow has the edge among the most certain voters, and many of the record advance votes were cast while she still led, so I put this at about a coin flip."
+  },
+  {
+   "i": 3,
+   "p_yes": 49,
+   "text": "PROBABILITY_YES: 49\nREASON: The nonpartisan final polls are essentially a coin flip. Nanos has Chow up about 3, while the Mainstreet and Liaison IVR polls have Bradford up 1-2, and the trend through October clearly favours Bradford. Chow's edge among the most certain voters, her incumbency and the record advance turnout roughly offset that momentum and the strong change mood, leaving the race close to 50/50."
+  },
+  {
+   "i": 4,
+   "p_yes": 45,
+   "text": "PROBABILITY_YES: 45\nREASON: Averaging the independent October polls (Nanos, Liaison, Mainstreet) gives roughly a tie. The trend has clearly favoured Bradford since Alexander's exit, and voters show a strong appetite for change. Chow keeps some advantages, including incumbency, better personal ratings and a lead among the most certain voters, but with momentum and late-rising runner-up history against her, this is a near coin flip leaning slightly toward Bradford."
+  },
+  {
+   "i": 5,
+   "p_yes": 50,
+   "text": "PROBABILITY_YES: 50\nREASON: The independent October polls are split almost evenly. Nanos has Chow up about 3, while Mainstreet, Liaison and Build Canada show Bradford narrowly ahead, and the union-funded Pollara leads for Chow should be discounted. Bradford's clear momentum and the change mood work against Chow. That is roughly offset by her incumbency, her edge among the most certain voters, and a record advance vote cast while she still led, leaving the race near a coin flip."
+  }
+ ],
+ "prompt_chars": 9974
+}
